@@ -1,0 +1,24 @@
+player,nationality,position,age,minutes_90s,sca,sca_per90,sca_passes_live,sca_passes_dead,sca_dribbles,sca_shots,sca_fouled,sca_defense,gca,gca_per90,gca_passes_live,gca_passes_dead,gca_dribbles,gca_shots,gca_fouled,gca_defense,matches
+"Cancelo, João",POR,DF,27.0,13.9,36.0,2.6,29.0,0.0,1.0,6.0,0.0,0.0,5.0,0.36,3.0,0.0,0.0,2.0,0.0,0.0,https://fbref.com/en/players/bd6351cd/matchlogs/2021-2022/gca/Joao-Cancelo-Match-Logs
+Ederson,BRA,GK,28.0,13.0,3.0,0.23,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/3bb7b8b4/matchlogs/2021-2022/gca/Ederson-Match-Logs
+"Silva, Bernardo",POR,MF,27.0,12.4,43.0,3.46,33.0,0.0,4.0,3.0,3.0,0.0,4.0,0.32,3.0,0.0,0.0,1.0,0.0,0.0,https://fbref.com/en/players/3eb22ec9/matchlogs/2021-2022/gca/Bernardo-Silva-Match-Logs
+"Dias, Rúben",POR,DF,24.0,12.2,14.0,1.15,13.0,0.0,0.0,0.0,0.0,1.0,1.0,0.08,1.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/31c69ef1/matchlogs/2021-2022/gca/Ruben-Dias-Match-Logs
+Rodri,ESP,MF,25.0,12.0,27.0,2.25,22.0,0.0,2.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/6434f10d/matchlogs/2021-2022/gca/Rodri-Match-Logs
+"Walker, Kyle",ENG,DF,31.0,10.5,21.0,2.0,19.0,0.0,0.0,1.0,1.0,0.0,2.0,0.19,2.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/86dd77d1/matchlogs/2021-2022/gca/Kyle-Walker-Match-Logs
+"Jesus, Gabriel",BRA,FW,24.0,10.5,36.0,3.44,29.0,0.0,4.0,3.0,0.0,0.0,9.0,0.86,7.0,0.0,1.0,1.0,0.0,0.0,https://fbref.com/en/players/b66315ae/matchlogs/2021-2022/gca/Gabriel-Jesus-Match-Logs
+"Laporte, Aymeric",ESP,DF,27.0,9.1,10.0,1.1,10.0,0.0,0.0,0.0,0.0,0.0,1.0,0.11,1.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/119b9a8e/matchlogs/2021-2022/gca/Aymeric-Laporte-Match-Logs
+"Gündoğan, İlkay",GER,MF,31.0,8.6,29.0,3.38,20.0,8.0,1.0,0.0,0.0,0.0,1.0,0.12,1.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/819b3158/matchlogs/2021-2022/gca/Ilkay-Gundogan-Match-Logs
+"Grealish, Jack",ENG,"FW,MF",26.0,8.2,47.0,5.7,38.0,0.0,2.0,3.0,4.0,0.0,2.0,0.24,2.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/b0b4fd3e/matchlogs/2021-2022/gca/Jack-Grealish-Match-Logs
+"Foden, Phil",ENG,FW,21.0,6.8,17.0,2.5,12.0,3.0,0.0,2.0,0.0,0.0,2.0,0.29,1.0,0.0,0.0,1.0,0.0,0.0,https://fbref.com/en/players/ed1e53f3/matchlogs/2021-2022/gca/Phil-Foden-Match-Logs
+"Sterling, Raheem",ENG,FW,26.0,7.2,29.0,4.03,23.0,1.0,4.0,0.0,1.0,0.0,1.0,0.14,1.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/b400bde0/matchlogs/2021-2022/gca/Raheem-Sterling-Match-Logs
+"De Bruyne, Kevin",BEL,MF,30.0,5.0,26.0,5.17,21.0,3.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/e46012d4/matchlogs/2021-2022/gca/Kevin-De-Bruyne-Match-Logs
+"Mahrez, Riyad",ALG,FW,30.0,5.3,21.0,3.95,16.0,4.0,0.0,1.0,0.0,0.0,2.0,0.38,1.0,0.0,0.0,1.0,0.0,0.0,https://fbref.com/en/players/892d5bb1/matchlogs/2021-2022/gca/Riyad-Mahrez-Match-Logs
+"Aké, Nathan",NED,DF,26.0,4.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/eaeca114/matchlogs/2021-2022/gca/Nathan-Ake-Match-Logs
+"Torres, Ferrán",ESP,FW,21.0,3.4,5.0,1.49,4.0,0.0,0.0,1.0,0.0,0.0,2.0,0.59,2.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/9e1035f8/matchlogs/2021-2022/gca/Ferran-Torres-Match-Logs
+"Stones, John",ENG,DF,27.0,3.4,2.0,0.6,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/5eecec3d/matchlogs/2021-2022/gca/John-Stones-Match-Logs
+Fernandinho,BRA,MF,36.0,3.1,11.0,3.51,10.0,0.0,0.0,1.0,0.0,0.0,2.0,0.64,2.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/101da2b5/matchlogs/2021-2022/gca/Fernandinho-Match-Logs
+"Zinchenko, Oleksandr",UKR,DF,24.0,1.6,5.0,3.06,3.0,1.0,0.0,0.0,1.0,0.0,1.0,0.61,1.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/51cf8561/matchlogs/2021-2022/gca/Oleksandr-Zinchenko-Match-Logs
+"Palmer, Cole",ENG,"FW,MF",19.0,1.2,7.0,5.78,4.0,0.0,0.0,2.0,1.0,0.0,1.0,0.83,0.0,0.0,0.0,1.0,0.0,0.0,https://fbref.com/en/players/dc7f8a28/matchlogs/2021-2022/gca/Cole-Palmer-Match-Logs
+"Steffen, Zack",USA,GK,26.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/42130443/matchlogs/2021-2022/gca/Zack-Steffen-Match-Logs
+"Mendy, Benjamin",FRA,DF,27.0,0.9,4.0,4.62,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/5271c8f1/matchlogs/2021-2022/gca/Benjamin-Mendy-Match-Logs
+"Mcatee, James",ENG,FW,19.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/96593e89/matchlogs/2021-2022/gca/James-Mcatee-Match-Logs

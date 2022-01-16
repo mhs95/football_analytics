@@ -1,0 +1,24 @@
+player,nationality,position,age,minutes_90s,goals,shots_total,shots_on_target,shots_on_target_pct,shots_total_per90,shots_on_target_per90,goals_per_shot,goals_per_shot_on_target,average_shot_distance,shots_free_kicks,pens_made,pens_att,xg,npxg,npxg_per_shot,xg_net,npxg_net,matches
+"Gea, David",ESP,GK,31.0,13.0,0.0,0.0,0.0,,0.0,0.0,,,,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,https://fbref.com/en/players/7ba6d84e/matchlogs/2021-2022/summary/David-de-Gea-Match-Logs
+"Wan-Bissaka, Aaron",ENG,DF,24.0,13.0,0.0,2.0,1.0,50.0,0.15,0.08,0.0,0.0,17.1,0.0,0.0,0.0,0.1,0.1,0.03,-0.1,-0.1,https://fbref.com/en/players/9e525177/matchlogs/2021-2022/summary/Aaron-Wan-Bissaka-Match-Logs
+"Fernandes, Bruno",POR,MF,27.0,12.4,4.0,30.0,7.0,23.3,2.42,0.56,0.13,0.57,23.4,3.0,0.0,1.0,3.0,2.2,0.07,1.0,1.8,https://fbref.com/en/players/507c7bdf/matchlogs/2021-2022/summary/Bruno-Fernandes-Match-Logs
+"Shaw, Luke",ENG,DF,26.0,11.1,0.0,3.0,1.0,33.3,0.27,0.09,0.0,0.0,24.1,0.0,0.0,0.0,0.1,0.1,0.03,-0.1,-0.1,https://fbref.com/en/players/9c94165b/matchlogs/2021-2022/summary/Luke-Shaw-Match-Logs
+"Maguire, Harry",ENG,DF,28.0,10.5,0.0,9.0,2.0,22.2,0.86,0.19,0.0,0.0,9.8,0.0,0.0,0.0,0.7,0.7,0.07,-0.7,-0.7,https://fbref.com/en/players/d8931174/matchlogs/2021-2022/summary/Harry-Maguire-Match-Logs
+Fred,BRA,MF,28.0,9.4,1.0,5.0,4.0,80.0,0.53,0.42,0.2,0.25,23.2,0.0,0.0,0.0,0.3,0.3,0.07,0.7,0.7,https://fbref.com/en/players/b853e0ad/matchlogs/2021-2022/summary/Fred-Match-Logs
+"Greenwood, Mason",ENG,FW,20.0,8.8,4.0,31.0,12.0,38.7,3.51,1.36,0.13,0.33,18.8,0.0,0.0,0.0,2.5,2.5,0.08,1.5,1.5,https://fbref.com/en/players/58eee997/matchlogs/2021-2022/summary/Mason-Greenwood-Match-Logs
+"Lindelöf, Victor",SWE,DF,27.0,9.3,0.0,0.0,0.0,,0.0,0.0,,,,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,https://fbref.com/en/players/f5deef4c/matchlogs/2021-2022/summary/Victor-Lindelof-Match-Logs
+"McTominay, Scott",SCO,MF,24.0,8.4,0.0,6.0,1.0,16.7,0.71,0.12,0.0,0.0,19.1,0.0,0.0,0.0,0.3,0.3,0.05,-0.3,-0.3,https://fbref.com/en/players/d93c2511/matchlogs/2021-2022/summary/Scott-McTominay-Match-Logs
+"Ronaldo, Cristiano",POR,FW,36.0,8.5,4.0,32.0,12.0,37.5,3.78,1.42,0.13,0.33,14.4,1.0,0.0,0.0,4.2,4.2,0.14,-0.2,-0.2,https://fbref.com/en/players/dea698d9/matchlogs/2021-2022/summary/Cristiano-Ronaldo-Match-Logs
+"Pogba, Paul",FRA,"MF,FW",28.0,7.0,0.0,20.0,3.0,15.0,2.85,0.43,0.0,0.0,17.0,0.0,0.0,0.0,1.6,1.6,0.08,-1.6,-1.6,https://fbref.com/en/players/867239d3/matchlogs/2021-2022/summary/Paul-Pogba-Match-Logs
+"Varane, Raphaël",FRA,DF,28.0,6.0,0.0,4.0,0.0,0.0,0.67,0.0,0.0,,9.6,0.0,0.0,0.0,0.2,0.2,0.06,-0.2,-0.2,https://fbref.com/en/players/9f8e9423/matchlogs/2021-2022/summary/Raphael-Varane-Match-Logs
+"Sancho, Jadon",ENG,FW,21.0,5.5,1.0,4.0,2.0,50.0,0.72,0.36,0.25,0.5,14.9,0.0,0.0,0.0,1.0,1.0,0.25,0.0,0.0,https://fbref.com/en/players/dbf053da/matchlogs/2021-2022/summary/Jadon-Sancho-Match-Logs
+"Matić, Nemanja",SRB,MF,33.0,5.3,0.0,5.0,1.0,20.0,0.95,0.19,0.0,0.0,24.5,0.0,0.0,0.0,0.1,0.1,0.02,-0.1,-0.1,https://fbref.com/en/players/eb7822d7/matchlogs/2021-2022/summary/Nemanja-Matic-Match-Logs
+"Rashford, Marcus",ENG,FW,24.0,2.8,2.0,6.0,4.0,66.7,2.14,1.43,0.33,0.5,16.1,0.0,0.0,0.0,0.9,0.9,0.15,1.1,1.1,https://fbref.com/en/players/a1d5bd30/matchlogs/2021-2022/summary/Marcus-Rashford-Match-Logs
+"Cavani, Edinson",URU,FW,34.0,2.4,1.0,7.0,2.0,28.6,2.96,0.85,0.14,0.5,10.7,0.0,0.0,0.0,1.4,1.4,0.2,-0.4,-0.4,https://fbref.com/en/players/527f063d/matchlogs/2021-2022/summary/Edinson-Cavani-Match-Logs
+"Martial, Anthony",FRA,FW,25.0,2.2,1.0,4.0,2.0,50.0,1.8,0.9,0.25,0.5,11.8,0.0,0.0,0.0,0.4,0.4,0.09,0.6,0.6,https://fbref.com/en/players/8b788c01/matchlogs/2021-2022/summary/Anthony-Martial-Match-Logs
+"Bailly, Eric",CIV,DF,27.0,1.5,0.0,0.0,0.0,,0.0,0.0,,,,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,https://fbref.com/en/players/a1232f4e/matchlogs/2021-2022/summary/Eric-Bailly-Match-Logs
+"James, Daniel",WAL,FW,24.0,1.4,0.0,4.0,1.0,25.0,2.86,0.71,0.0,0.0,17.3,0.0,0.0,0.0,0.2,0.2,0.06,-0.2,-0.2,https://fbref.com/en/players/c931d9f9/matchlogs/2021-2022/summary/Daniel-James-Match-Logs
+"Telles, Alex",BRA,DF,28.0,1.2,0.0,0.0,0.0,,0.0,0.0,,,,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,https://fbref.com/en/players/e73c9bb2/matchlogs/2021-2022/summary/Alex-Telles-Match-Logs
+"Dalot, Diogo",POR,DF,22.0,1.0,0.0,0.0,0.0,,0.0,0.0,,,,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,https://fbref.com/en/players/d9565625/matchlogs/2021-2022/summary/Diogo-Dalot-Match-Logs
+"Lingard, Jesse",ENG,FW,28.0,0.9,2.0,3.0,3.0,100.0,3.25,3.25,0.67,0.67,17.6,0.0,0.0,0.0,0.3,0.3,0.09,1.7,1.7,https://fbref.com/en/players/810e3c74/matchlogs/2021-2022/summary/Jesse-Lingard-Match-Logs
+"Beek, Donny van",NED,MF,24.0,0.7,1.0,1.0,1.0,100.0,1.41,1.41,1.0,1.0,5.0,0.0,0.0,0.0,0.7,0.7,0.66,0.3,0.3,https://fbref.com/en/players/50dc94ce/matchlogs/2021-2022/summary/Donny-van-de-Beek-Match-Logs

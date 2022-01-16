@@ -1,0 +1,261 @@
+name,date,dayofweek,round,venue,result,squad,opponent,game_started,position,minutes,sca,sca_passes_live,sca_passes_dead,sca_dribbles,sca_shots,sca_fouled,sca_defense,gca,gca_passes_live,gca_passes_dead,gca_dribbles,gca_shots,gca_fouled,gca_defense,bench_explain
+David de Gea,2021-08-14,Sat,1,Home,W 5–1,Manchester Utd,Leeds United,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+David de Gea,2021-08-22,Sun,2,Away,D 1–1,Manchester Utd,Southampton,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+David de Gea,2021-08-29,Sun,3,Away,W 1–0,Manchester Utd,Wolves,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+David de Gea,2021-09-11,Sat,4,Home,W 4–1,Manchester Utd,Newcastle Utd,Y,GK,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+David de Gea,2021-09-19,Sun,5,Away,W 2–1,Manchester Utd,West Ham,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+David de Gea,2021-09-25,Sat,6,Home,L 0–1,Manchester Utd,Aston Villa,Y,GK,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+David de Gea,2021-10-02,Sat,7,Home,D 1–1,Manchester Utd,Everton,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+David de Gea,2021-10-16,Sat,8,Away,L 2–4,Manchester Utd,Leicester City,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+David de Gea,2021-10-24,Sun,9,Home,L 0–5,Manchester Utd,Liverpool,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+David de Gea,2021-10-30,Sat,10,Away,W 3–0,Manchester Utd,Tottenham,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+David de Gea,2021-11-06,Sat,11,Home,L 0–2,Manchester Utd,Manchester City,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+David de Gea,2021-11-20,Sat,12,Away,L 1–4,Manchester Utd,Watford,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+David de Gea,2021-11-28,Sun,13,Away,D 1–1,Manchester Utd,Chelsea,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Aaron Wan-Bissaka,2021-08-14,Sat,1,Home,W 5–1,Manchester Utd,Leeds United,Y,RB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Aaron Wan-Bissaka,2021-08-22,Sun,2,Away,D 1–1,Manchester Utd,Southampton,Y,RB,90.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Aaron Wan-Bissaka,2021-08-29,Sun,3,Away,W 1–0,Manchester Utd,Wolves,Y,"RB,CB",90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Aaron Wan-Bissaka,2021-09-11,Sat,4,Home,W 4–1,Manchester Utd,Newcastle Utd,Y,RB,90.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Aaron Wan-Bissaka,2021-09-19,Sun,5,Away,W 2–1,Manchester Utd,West Ham,Y,RB,90.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Aaron Wan-Bissaka,2021-09-25,Sat,6,Home,L 0–1,Manchester Utd,Aston Villa,Y,RB,90.0,4.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Aaron Wan-Bissaka,2021-10-02,Sat,7,Home,D 1–1,Manchester Utd,Everton,Y,RB,90.0,3.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Aaron Wan-Bissaka,2021-10-16,Sat,8,Away,L 2–4,Manchester Utd,Leicester City,Y,RB,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Aaron Wan-Bissaka,2021-10-24,Sun,9,Home,L 0–5,Manchester Utd,Liverpool,Y,"RB,WB",90.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Aaron Wan-Bissaka,2021-10-30,Sat,10,Away,W 3–0,Manchester Utd,Tottenham,Y,WB,90.0,4.0,3.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Aaron Wan-Bissaka,2021-11-06,Sat,11,Home,L 0–2,Manchester Utd,Manchester City,Y,"RB,WB",90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Aaron Wan-Bissaka,2021-11-20,Sat,12,Away,L 1–4,Manchester Utd,Watford,Y,RB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Aaron Wan-Bissaka,2021-11-28,Sun,13,Away,D 1–1,Manchester Utd,Chelsea,Y,RB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Bruno Fernandes,2021-08-14,Sat,1,Home,W 5–1,Manchester Utd,Leeds United,Y,AM,90.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Bruno Fernandes,2021-08-22,Sun,2,Away,D 1–1,Manchester Utd,Southampton,Y,AM,90.0,5.0,3.0,1.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Bruno Fernandes,2021-08-29,Sun,3,Away,W 1–0,Manchester Utd,Wolves,Y,AM,90.0,2.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Bruno Fernandes,2021-09-11,Sat,4,Home,W 4–1,Manchester Utd,Newcastle Utd,Y,AM,84.0,2.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Bruno Fernandes,2021-09-19,Sun,5,Away,W 2–1,Manchester Utd,West Ham,Y,AM,90.0,7.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Bruno Fernandes,2021-09-25,Sat,6,Home,L 0–1,Manchester Utd,Aston Villa,Y,AM,90.0,12.0,9.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Bruno Fernandes,2021-10-02,Sat,7,Home,D 1–1,Manchester Utd,Everton,Y*,AM,90.0,4.0,3.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Bruno Fernandes,2021-10-16,Sat,8,Away,L 2–4,Manchester Utd,Leicester City,Y,AM,90.0,11.0,9.0,2.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Bruno Fernandes,2021-10-24,Sun,9,Home,L 0–5,Manchester Utd,Liverpool,Y,AM,61.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Bruno Fernandes,2021-10-30,Sat,10,Away,W 3–0,Manchester Utd,Tottenham,Y,AM,75.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Bruno Fernandes,2021-11-06,Sat,11,Home,L 0–2,Manchester Utd,Manchester City,Y,"AM,CM",90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Bruno Fernandes,2021-11-20,Sat,12,Away,L 1–4,Manchester Utd,Watford,Y,"AM,DM,CM",90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Bruno Fernandes,2021-11-28,Sun,13,Away,D 1–1,Manchester Utd,Chelsea,Y*,AM,88.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Luke Shaw,2021-08-14,Sat,1,Home,W 5–1,Manchester Utd,Leeds United,Y,LB,90.0,4.0,3.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Luke Shaw,2021-08-22,Sun,2,Away,D 1–1,Manchester Utd,Southampton,Y,LB,90.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Luke Shaw,2021-08-29,Sun,3,Away,W 1–0,Manchester Utd,Wolves,Y,"LB,WB",90.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Luke Shaw,2021-09-11,Sat,4,Home,W 4–1,Manchester Utd,Newcastle Utd,Y,LB,90.0,5.0,2.0,3.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Luke Shaw,2021-09-19,Sun,5,Away,W 2–1,Manchester Utd,West Ham,Y,LB,90.0,7.0,4.0,3.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Luke Shaw,2021-09-25,Sat,6,Home,L 0–1,Manchester Utd,Aston Villa,Y,LB,33.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Luke Shaw,2021-10-02,Sat,7,Home,D 1–1,Manchester Utd,Everton,Y,LB,90.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Luke Shaw,2021-10-16,Sat,8,Away,L 2–4,Manchester Utd,Leicester City,Y,LB,90.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Luke Shaw,2021-10-24,Sun,9,Home,L 0–5,Manchester Utd,Liverpool,Y,"LB,CB",90.0,3.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Luke Shaw,2021-10-30,Sat,10,Away,W 3–0,Manchester Utd,Tottenham,Y,WB,90.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Luke Shaw,2021-11-06,Sat,11,Home,L 0–2,Manchester Utd,Manchester City,Y,"WB,LB",72.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Luke Shaw,2021-11-20,Sat,12,Away,L 1–4,Manchester Utd,Watford,Y,LB,84.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Harry Maguire,2021-08-14,Sat,1,Home,W 5–1,Manchester Utd,Leeds United,Y*,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Harry Maguire,2021-08-22,Sun,2,Away,D 1–1,Manchester Utd,Southampton,Y*,CB,90.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Harry Maguire,2021-08-29,Sun,3,Away,W 1–0,Manchester Utd,Wolves,Y*,CB,90.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Harry Maguire,2021-09-11,Sat,4,Home,W 4–1,Manchester Utd,Newcastle Utd,Y*,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Harry Maguire,2021-09-19,Sun,5,Away,W 2–1,Manchester Utd,West Ham,Y*,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Harry Maguire,2021-09-25,Sat,6,Home,L 0–1,Manchester Utd,Aston Villa,Y*,CB,66.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Harry Maguire,,,,,,,,,,,,,,,,,,,,,,,,,
+Harry Maguire,2021-10-16,Sat,8,Away,L 2–4,Manchester Utd,Leicester City,Y*,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Harry Maguire,2021-10-24,Sun,9,Home,L 0–5,Manchester Utd,Liverpool,Y*,CB,90.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Harry Maguire,2021-10-30,Sat,10,Away,W 3–0,Manchester Utd,Tottenham,Y*,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Harry Maguire,2021-11-06,Sat,11,Home,L 0–2,Manchester Utd,Manchester City,Y*,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Harry Maguire,2021-11-20,Sat,12,Away,L 1–4,Manchester Utd,Watford,Y*,"CB,CM",68.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Fred,2021-08-14,Sat,1,Home,W 5–1,Manchester Utd,Leeds United,Y,DM,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Fred,2021-08-22,Sun,2,Away,D 1–1,Manchester Utd,Southampton,Y,DM,75.0,3.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Fred,2021-08-29,Sun,3,Away,W 1–0,Manchester Utd,Wolves,Y,DM,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Fred,2021-09-11,Sat,4,Home,W 4–1,Manchester Utd,Newcastle Utd,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Fred,2021-09-19,Sun,5,Away,W 2–1,Manchester Utd,West Ham,Y,DM,87.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Fred,2021-09-25,Sat,6,Home,L 0–1,Manchester Utd,Aston Villa,Y,DM,90.0,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Fred,2021-10-02,Sat,7,Home,D 1–1,Manchester Utd,Everton,Y,DM,69.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Fred,,,,,,,,,,,,,,,,,,,,,,,,,
+Fred,2021-10-24,Sun,9,Home,L 0–5,Manchester Utd,Liverpool,Y,"CM,DM",90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Fred,2021-10-30,Sat,10,Away,W 3–0,Manchester Utd,Tottenham,Y,"DM,CM",90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Fred,2021-11-06,Sat,11,Home,L 0–2,Manchester Utd,Manchester City,Y,"CM,DM",79.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Fred,2021-11-20,Sat,12,Away,L 1–4,Manchester Utd,Watford,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Fred,2021-11-28,Sun,13,Away,D 1–1,Manchester Utd,Chelsea,Y,CM,90.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Mason Greenwood,2021-08-14,Sat,1,Home,W 5–1,Manchester Utd,Leeds United,Y,"FW,RW",90.0,5.0,4.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Mason Greenwood,2021-08-22,Sun,2,Away,D 1–1,Manchester Utd,Southampton,Y,"RW,FW",90.0,2.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Mason Greenwood,2021-08-29,Sun,3,Away,W 1–0,Manchester Utd,Wolves,Y,"FW,RW",89.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Mason Greenwood,2021-09-11,Sat,4,Home,W 4–1,Manchester Utd,Newcastle Utd,Y,RW,84.0,7.0,5.0,0.0,1.0,1.0,0.0,0.0,2.0,1.0,0.0,0.0,1.0,0.0,0.0,
+Mason Greenwood,2021-09-19,Sun,5,Away,W 2–1,Manchester Utd,West Ham,Y,RW,72.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Mason Greenwood,2021-09-25,Sat,6,Home,L 0–1,Manchester Utd,Aston Villa,Y,RW,90.0,5.0,3.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Mason Greenwood,2021-10-02,Sat,7,Home,D 1–1,Manchester Utd,Everton,Y,RW,90.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Mason Greenwood,2021-10-16,Sat,8,Away,L 2–4,Manchester Utd,Leicester City,Y,RW,79.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Mason Greenwood,2021-10-24,Sun,9,Home,L 0–5,Manchester Utd,Liverpool,Y,RW,45.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Mason Greenwood,2021-10-30,Sat,10,Away,W 3–0,Manchester Utd,Tottenham,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Mason Greenwood,2021-11-06,Sat,11,Home,L 0–2,Manchester Utd,Manchester City,Y,"FW,RW,LW",66.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Mason Greenwood,,,,,,,,,,,,,,,,,,,,,,,,,
+Mason Greenwood,2021-11-28,Sun,13,Away,D 1–1,Manchester Utd,Chelsea,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Victor Lindelöf,2021-08-14,Sat,1,Home,W 5–1,Manchester Utd,Leeds United,Y,CB,90.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Victor Lindelöf,2021-08-22,Sun,2,Away,D 1–1,Manchester Utd,Southampton,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Victor Lindelöf,2021-08-29,Sun,3,Away,W 1–0,Manchester Utd,Wolves,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Victor Lindelöf,2021-09-11,Sat,4,Home,W 4–1,Manchester Utd,Newcastle Utd,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Victor Lindelöf,,,,,,,,,,,,,,,,,,,,,,,,,
+Victor Lindelöf,2021-09-25,Sat,6,Home,L 0–1,Manchester Utd,Aston Villa,N,CB,24.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Victor Lindelöf,2021-10-02,Sat,7,Home,D 1–1,Manchester Utd,Everton,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Victor Lindelöf,2021-10-16,Sat,8,Away,L 2–4,Manchester Utd,Leicester City,Y,CB,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Victor Lindelöf,2021-10-24,Sun,9,Home,L 0–5,Manchester Utd,Liverpool,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Victor Lindelöf,2021-10-30,Sat,10,Away,W 3–0,Manchester Utd,Tottenham,Y,CB,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Victor Lindelöf,2021-11-06,Sat,11,Home,L 0–2,Manchester Utd,Manchester City,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Victor Lindelöf,2021-11-20,Sat,12,Away,L 1–4,Manchester Utd,Watford,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Victor Lindelöf,2021-11-28,Sun,13,Away,D 1–1,Manchester Utd,Chelsea,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Scott McTominay,2021-08-14,Sat,1,Home,W 5–1,Manchester Utd,Leeds United,Y,DM,68.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,
+Scott McTominay,2021-08-22,Sun,2,Away,D 1–1,Manchester Utd,Southampton,N,DM,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Scott McTominay,,,,,,,,,,,,,,,,,,,,,,,,,
+Scott McTominay,2021-09-19,Sun,5,Away,W 2–1,Manchester Utd,West Ham,Y,DM,90.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Scott McTominay,2021-09-25,Sat,6,Home,L 0–1,Manchester Utd,Aston Villa,Y,DM,81.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Scott McTominay,2021-10-02,Sat,7,Home,D 1–1,Manchester Utd,Everton,Y,DM,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Scott McTominay,2021-10-16,Sat,8,Away,L 2–4,Manchester Utd,Leicester City,N,DM,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Scott McTominay,2021-10-24,Sun,9,Home,L 0–5,Manchester Utd,Liverpool,Y,"DM,CM",90.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Scott McTominay,2021-10-30,Sat,10,Away,W 3–0,Manchester Utd,Tottenham,Y,"DM,CM",90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Scott McTominay,2021-11-06,Sat,11,Home,L 0–2,Manchester Utd,Manchester City,Y,DM,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Scott McTominay,2021-11-20,Sat,12,Away,L 1–4,Manchester Utd,Watford,Y,DM,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Scott McTominay,2021-11-28,Sun,13,Away,D 1–1,Manchester Utd,Chelsea,Y,CM,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Cristiano Ronaldo,2021-09-11,Sat,4,Home,W 4–1,Manchester Utd,Newcastle Utd,Y,FW,90.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Cristiano Ronaldo,2021-09-19,Sun,5,Away,W 2–1,Manchester Utd,West Ham,Y,FW,90.0,2.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,
+Cristiano Ronaldo,2021-09-25,Sat,6,Home,L 0–1,Manchester Utd,Aston Villa,Y,"FW,LW",90.0,5.0,3.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Cristiano Ronaldo,2021-10-02,Sat,7,Home,D 1–1,Manchester Utd,Everton,N,FW,34.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Cristiano Ronaldo,2021-10-16,Sat,8,Away,L 2–4,Manchester Utd,Leicester City,Y,FW,90.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Cristiano Ronaldo,2021-10-24,Sun,9,Home,L 0–5,Manchester Utd,Liverpool,Y,FW,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Cristiano Ronaldo,2021-10-30,Sat,10,Away,W 3–0,Manchester Utd,Tottenham,Y,FW,70.0,3.0,2.0,0.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,
+Cristiano Ronaldo,2021-11-06,Sat,11,Home,L 0–2,Manchester Utd,Manchester City,Y,FW,90.0,2.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Cristiano Ronaldo,2021-11-20,Sat,12,Away,L 1–4,Manchester Utd,Watford,Y,FW,90.0,3.0,2.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Cristiano Ronaldo,2021-11-28,Sun,13,Away,D 1–1,Manchester Utd,Chelsea,N,FW,27.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Paul Pogba,2021-08-14,Sat,1,Home,W 5–1,Manchester Utd,Leeds United,Y,LW,74.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,
+Paul Pogba,2021-08-22,Sun,2,Away,D 1–1,Manchester Utd,Southampton,Y,"LW,DM",90.0,4.0,2.0,0.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Paul Pogba,2021-08-29,Sun,3,Away,W 1–0,Manchester Utd,Wolves,Y,DM,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Paul Pogba,2021-09-11,Sat,4,Home,W 4–1,Manchester Utd,Newcastle Utd,Y,DM,90.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,
+Paul Pogba,2021-09-19,Sun,5,Away,W 2–1,Manchester Utd,West Ham,Y,LW,72.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Paul Pogba,2021-09-25,Sat,6,Home,L 0–1,Manchester Utd,Aston Villa,Y,"LW,DM",90.0,7.0,5.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Paul Pogba,2021-10-02,Sat,7,Home,D 1–1,Manchester Utd,Everton,N,DM,21.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Paul Pogba,2021-10-16,Sat,8,Away,L 2–4,Manchester Utd,Leicester City,Y,DM,90.0,3.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Paul Pogba,2021-10-24,Sun,9,Home,L 0–5,Manchester Utd,Liverpool,N,"DM,CM",14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Raphaël Varane,2021-08-22,Sun,2,Away,D 1–1,Manchester Utd,Southampton,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Raphaël Varane,2021-08-29,Sun,3,Away,W 1–0,Manchester Utd,Wolves,Y,CB,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Raphaël Varane,2021-09-11,Sat,4,Home,W 4–1,Manchester Utd,Newcastle Utd,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Raphaël Varane,2021-09-19,Sun,5,Away,W 2–1,Manchester Utd,West Ham,Y,CB,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Raphaël Varane,2021-09-25,Sat,6,Home,L 0–1,Manchester Utd,Aston Villa,Y,CB,90.0,3.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Raphaël Varane,2021-10-02,Sat,7,Home,D 1–1,Manchester Utd,Everton,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Raphaël Varane,,,,,,,,,,,,,,,,,,,,,,,,,
+Raphaël Varane,2021-10-30,Sat,10,Away,W 3–0,Manchester Utd,Tottenham,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Jadon Sancho,2021-08-14,Sat,1,Home,W 5–1,Manchester Utd,Leeds United,N,LW,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Jadon Sancho,2021-08-22,Sun,2,Away,D 1–1,Manchester Utd,Southampton,N,RW,32.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Jadon Sancho,2021-08-29,Sun,3,Away,W 1–0,Manchester Utd,Wolves,Y,LW,71.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Jadon Sancho,2021-09-11,Sat,4,Home,W 4–1,Manchester Utd,Newcastle Utd,Y,LW,65.0,6.0,4.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Jadon Sancho,2021-09-19,Sun,5,Away,W 2–1,Manchester Utd,West Ham,N,LW,18.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Jadon Sancho,2021-09-25,Sat,6,Home,L 0–1,Manchester Utd,Aston Villa,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Jadon Sancho,2021-10-02,Sat,7,Home,D 1–1,Manchester Utd,Everton,N,LW,34.0,4.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Jadon Sancho,2021-10-16,Sat,8,Away,L 2–4,Manchester Utd,Leicester City,Y,LW,64.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Jadon Sancho,2021-10-24,Sun,9,Home,L 0–5,Manchester Utd,Liverpool,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Jadon Sancho,2021-10-30,Sat,10,Away,W 3–0,Manchester Utd,Tottenham,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Jadon Sancho,2021-11-06,Sat,11,Home,L 0–2,Manchester Utd,Manchester City,N,"LW,RW",45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Jadon Sancho,2021-11-20,Sat,12,Away,L 1–4,Manchester Utd,Watford,Y,"RW,LW",89.0,5.0,4.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Jadon Sancho,2021-11-28,Sun,13,Away,D 1–1,Manchester Utd,Chelsea,Y,FW,63.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,
+Nemanja Matić,2021-08-14,Sat,1,Home,W 5–1,Manchester Utd,Leeds United,N,DM,22.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Nemanja Matić,2021-08-22,Sun,2,Away,D 1–1,Manchester Utd,Southampton,Y,DM,85.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Nemanja Matić,2021-08-29,Sun,3,Away,W 1–0,Manchester Utd,Wolves,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Nemanja Matić,2021-09-11,Sat,4,Home,W 4–1,Manchester Utd,Newcastle Utd,Y,DM,90.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Nemanja Matić,2021-09-19,Sun,5,Away,W 2–1,Manchester Utd,West Ham,N,DM,3.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Nemanja Matić,2021-09-25,Sat,6,Home,L 0–1,Manchester Utd,Aston Villa,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Nemanja Matić,2021-10-02,Sat,7,Home,D 1–1,Manchester Utd,Everton,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Nemanja Matić,2021-10-16,Sat,8,Away,L 2–4,Manchester Utd,Leicester City,Y,DM,79.0,4.0,3.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Nemanja Matić,2021-10-24,Sun,9,Home,L 0–5,Manchester Utd,Liverpool,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Nemanja Matić,2021-10-30,Sat,10,Away,W 3–0,Manchester Utd,Tottenham,N,DM,15.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Nemanja Matić,2021-11-06,Sat,11,Home,L 0–2,Manchester Utd,Manchester City,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Nemanja Matić,2021-11-20,Sat,12,Away,L 1–4,Manchester Utd,Watford,Y,"DM,CB",90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Nemanja Matić,2021-11-28,Sun,13,Away,D 1–1,Manchester Utd,Chelsea,Y,DM,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Marcus Rashford,2021-10-16,Sat,8,Away,L 2–4,Manchester Utd,Leicester City,N,LW,26.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Marcus Rashford,2021-10-24,Sun,9,Home,L 0–5,Manchester Utd,Liverpool,Y,"LW,FW",61.0,2.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Marcus Rashford,2021-10-30,Sat,10,Away,W 3–0,Manchester Utd,Tottenham,N,FW,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Marcus Rashford,2021-11-06,Sat,11,Home,L 0–2,Manchester Utd,Manchester City,N,"LW,RW",24.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Marcus Rashford,2021-11-20,Sat,12,Away,L 1–4,Manchester Utd,Watford,Y,"LW,RW",45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Marcus Rashford,2021-11-28,Sun,13,Away,D 1–1,Manchester Utd,Chelsea,Y,FW,76.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Edinson Cavani,2021-08-29,Sun,3,Away,W 1–0,Manchester Utd,Wolves,N,FW,38.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Edinson Cavani,,,,,,,,,,,,,,,,,,,,,,,,,
+Edinson Cavani,2021-09-25,Sat,6,Home,L 0–1,Manchester Utd,Aston Villa,N,FW,9.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Edinson Cavani,2021-10-02,Sat,7,Home,D 1–1,Manchester Utd,Everton,Y,FW,56.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Edinson Cavani,,,,,,,,,,,,,,,,,,,,,,,,,
+Edinson Cavani,2021-10-24,Sun,9,Home,L 0–5,Manchester Utd,Liverpool,N,FW,29.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Edinson Cavani,2021-10-30,Sat,10,Away,W 3–0,Manchester Utd,Tottenham,Y,FW,81.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Anthony Martial,2021-08-14,Sat,1,Home,W 5–1,Manchester Utd,Leeds United,N,FW,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Anthony Martial,2021-08-22,Sun,2,Away,D 1–1,Manchester Utd,Southampton,Y,FW,58.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Anthony Martial,2021-08-29,Sun,3,Away,W 1–0,Manchester Utd,Wolves,N,"LW,FW",19.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Anthony Martial,2021-09-11,Sat,4,Home,W 4–1,Manchester Utd,Newcastle Utd,N,LW,6.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Anthony Martial,2021-09-19,Sun,5,Away,W 2–1,Manchester Utd,West Ham,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Anthony Martial,2021-09-25,Sat,6,Home,L 0–1,Manchester Utd,Aston Villa,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Anthony Martial,2021-10-02,Sat,7,Home,D 1–1,Manchester Utd,Everton,Y,LW,56.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Anthony Martial,,,,,,,,,,,,,,,,,,,,,,,,,
+Anthony Martial,2021-11-06,Sat,11,Home,L 0–2,Manchester Utd,Manchester City,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Anthony Martial,2021-11-20,Sat,12,Away,L 1–4,Manchester Utd,Watford,N,LW,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Anthony Martial,2021-11-28,Sun,13,Away,D 1–1,Manchester Utd,Chelsea,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Eric Bailly,2021-09-11,Sat,4,Home,W 4–1,Manchester Utd,Newcastle Utd,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Eric Bailly,2021-09-19,Sun,5,Away,W 2–1,Manchester Utd,West Ham,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Eric Bailly,,,,,,,,,,,,,,,,,,,,,,,,,
+Eric Bailly,2021-10-02,Sat,7,Home,D 1–1,Manchester Utd,Everton,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Eric Bailly,2021-10-16,Sat,8,Away,L 2–4,Manchester Utd,Leicester City,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Eric Bailly,2021-10-24,Sun,9,Home,L 0–5,Manchester Utd,Liverpool,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Eric Bailly,2021-10-30,Sat,10,Away,W 3–0,Manchester Utd,Tottenham,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Eric Bailly,2021-11-06,Sat,11,Home,L 0–2,Manchester Utd,Manchester City,Y,CB,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Eric Bailly,2021-11-20,Sat,12,Away,L 1–4,Manchester Utd,Watford,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Eric Bailly,2021-11-28,Sun,13,Away,D 1–1,Manchester Utd,Chelsea,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Daniel James,2021-08-14,Sat,1,Home,W 5–1,Manchester Utd,Leeds United,Y,RW,74.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Daniel James,2021-08-22,Sun,2,Away,D 1–1,Manchester Utd,Southampton,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Daniel James,2021-08-29,Sun,3,Away,W 1–0,Manchester Utd,Wolves,Y,RW,52.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Daniel James,,,,,,,,,,,,,,,,,,,,,,,,,
+Daniel James,2021-09-12,Sun,4,Home,L 0–3,Leeds United,Liverpool,N,LM,23.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Daniel James,2021-09-17,Fri,5,Away,D 1–1,Leeds United,Newcastle Utd,Y,LM,60.0,2.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Daniel James,2021-09-25,Sat,6,Home,L 1–2,Leeds United,West Ham,Y,LM,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Daniel James,2021-10-02,Sat,7,Home,W 1–0,Leeds United,Watford,Y,LM,90.0,4.0,2.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Daniel James,2021-10-16,Sat,8,Away,L 0–1,Leeds United,Southampton,Y,LW,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Daniel James,2021-10-23,Sat,9,Home,D 1–1,Leeds United,Wolves,Y,"LM,AM",90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Daniel James,2021-10-31,Sun,10,Away,W 2–1,Leeds United,Norwich City,Y,"FW,CM",76.0,3.0,2.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Daniel James,2021-11-07,Sun,11,Home,D 1–1,Leeds United,Leicester City,Y,"FW,LM",90.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Daniel James,2021-11-21,Sun,12,Away,L 1–2,Leeds United,Tottenham,Y,"RW,CM",90.0,2.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Daniel James,2021-11-27,Sat,13,Away,D 0–0,Leeds United,Brighton,Y,"FW,RW",90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Daniel James,2021-11-30,Tue,14,Home,W 1–0,Leeds United,Crystal Palace,Y,"LM,RM",90.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Alex Telles,2021-10-02,Sat,7,Home,D 1–1,Manchester Utd,Everton,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Alex Telles,2021-10-16,Sat,8,Away,L 2–4,Manchester Utd,Leicester City,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Alex Telles,,,,,,,,,,,,,,,,,,,,,,,,,
+Alex Telles,2021-11-06,Sat,11,Home,L 0–2,Manchester Utd,Manchester City,N,LB,18.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Alex Telles,2021-11-20,Sat,12,Away,L 1–4,Manchester Utd,Watford,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Alex Telles,2021-11-28,Sun,13,Away,D 1–1,Manchester Utd,Chelsea,Y,LB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Diogo Dalot,2021-08-14,Sat,1,Home,W 5–1,Manchester Utd,Leeds United,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Diogo Dalot,2021-08-22,Sun,2,Away,D 1–1,Manchester Utd,Southampton,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Diogo Dalot,2021-08-29,Sun,3,Away,W 1–0,Manchester Utd,Wolves,N,WB,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Diogo Dalot,2021-09-11,Sat,4,Home,W 4–1,Manchester Utd,Newcastle Utd,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Diogo Dalot,2021-09-19,Sun,5,Away,W 2–1,Manchester Utd,West Ham,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Diogo Dalot,2021-09-25,Sat,6,Home,L 0–1,Manchester Utd,Aston Villa,N,LB,57.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Diogo Dalot,,,,,,,,,,,,,,,,,,,,,,,,,
+Diogo Dalot,2021-10-16,Sat,8,Away,L 2–4,Manchester Utd,Leicester City,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Diogo Dalot,2021-10-24,Sun,9,Home,L 0–5,Manchester Utd,Liverpool,N,WB,29.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Diogo Dalot,2021-10-30,Sat,10,Away,W 3–0,Manchester Utd,Tottenham,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Diogo Dalot,2021-11-06,Sat,11,Home,L 0–2,Manchester Utd,Manchester City,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Diogo Dalot,2021-11-20,Sat,12,Away,L 1–4,Manchester Utd,Watford,N,LB,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Diogo Dalot,2021-11-28,Sun,13,Away,D 1–1,Manchester Utd,Chelsea,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Jesse Lingard,2021-08-22,Sun,2,Away,D 1–1,Manchester Utd,Southampton,N,LW,5.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Jesse Lingard,2021-08-29,Sun,3,Away,W 1–0,Manchester Utd,Wolves,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Jesse Lingard,2021-09-11,Sat,4,Home,W 4–1,Manchester Utd,Newcastle Utd,N,"LW,RW",25.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Jesse Lingard,2021-09-19,Sun,5,Away,W 2–1,Manchester Utd,West Ham,N,RW,18.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Jesse Lingard,2021-09-25,Sat,6,Home,L 0–1,Manchester Utd,Aston Villa,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Jesse Lingard,2021-10-02,Sat,7,Home,D 1–1,Manchester Utd,Everton,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Jesse Lingard,2021-10-16,Sat,8,Away,L 2–4,Manchester Utd,Leicester City,N,RW,11.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Jesse Lingard,2021-10-24,Sun,9,Home,L 0–5,Manchester Utd,Liverpool,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Jesse Lingard,2021-10-30,Sat,10,Away,W 3–0,Manchester Utd,Tottenham,N,FW,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Jesse Lingard,2021-11-06,Sat,11,Home,L 0–2,Manchester Utd,Manchester City,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Jesse Lingard,2021-11-20,Sat,12,Away,L 1–4,Manchester Utd,Watford,N,RW,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Jesse Lingard,2021-11-28,Sun,13,Away,D 1–1,Manchester Utd,Chelsea,N,FW,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Donny van de Beek,2021-08-14,Sat,1,Home,W 5–1,Manchester Utd,Leeds United,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Donny van de Beek,2021-08-22,Sun,2,Away,D 1–1,Manchester Utd,Southampton,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Donny van de Beek,2021-08-29,Sun,3,Away,W 1–0,Manchester Utd,Wolves,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Donny van de Beek,2021-09-11,Sat,4,Home,W 4–1,Manchester Utd,Newcastle Utd,N,AM,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Donny van de Beek,2021-09-19,Sun,5,Away,W 2–1,Manchester Utd,West Ham,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Donny van de Beek,2021-09-25,Sat,6,Home,L 0–1,Manchester Utd,Aston Villa,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Donny van de Beek,2021-10-02,Sat,7,Home,D 1–1,Manchester Utd,Everton,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Donny van de Beek,2021-10-16,Sat,8,Away,L 2–4,Manchester Utd,Leicester City,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Donny van de Beek,2021-10-24,Sun,9,Home,L 0–5,Manchester Utd,Liverpool,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Donny van de Beek,2021-10-30,Sat,10,Away,W 3–0,Manchester Utd,Tottenham,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Donny van de Beek,2021-11-06,Sat,11,Home,L 0–2,Manchester Utd,Manchester City,N,DM,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Donny van de Beek,2021-11-20,Sat,12,Away,L 1–4,Manchester Utd,Watford,N,CM,45.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Donny van de Beek,2021-11-28,Sun,13,Away,D 1–1,Manchester Utd,Chelsea,N,AM,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,

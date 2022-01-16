@@ -1,0 +1,15 @@
+name,date,dayofweek,round,venue,result,squad,opponent,game_started,position,minutes,shots_on_target_against,goals_against_gk,saves,save_pct,clean_sheets,psxg_gk,pens_att_gk,pens_allowed,pens_saved,pens_missed_gk,passes_completed_launched_gk,passes_launched_gk,passes_pct_launched_gk,passes_gk,passes_throws_gk,pct_passes_launched_gk,passes_length_avg_gk,goal_kicks,pct_goal_kicks_launched,goal_kick_length_avg,crosses_gk,crosses_stopped_gk,crosses_stopped_pct_gk,def_actions_outside_pen_area_gk,avg_distance_def_actions_gk
+Łukasz Fabiański,2021-08-15,Sun,1,Away,W 4–2,West Ham,Newcastle Utd,Y,GK,90.0,3.0,2.0,1.0,33.3,0.0,1.5,0.0,0.0,0.0,0.0,8.0,20.0,40.0,20.0,2.0,65.0,46.7,11.0,63.6,49.8,17.0,1.0,5.9,0.0,9.0
+Łukasz Fabiański,2021-08-23,Mon,2,Home,W 4–1,West Ham,Leicester City,Y,GK,90.0,1.0,1.0,0.0,0.0,0.0,0.4,0.0,0.0,0.0,0.0,9.0,11.0,81.8,15.0,6.0,53.3,39.9,3.0,100.0,51.3,1.0,0.0,0.0,0.0,14.6
+Łukasz Fabiański,2021-08-28,Sat,3,Home,D 2–2,West Ham,Crystal Palace,Y,GK,90.0,2.0,2.0,0.0,0.0,0.0,1.1,0.0,0.0,0.0,0.0,2.0,9.0,22.2,10.0,1.0,50.0,46.6,6.0,66.7,43.8,6.0,1.0,16.7,0.0,13.0
+Łukasz Fabiański,2021-09-11,Sat,4,Away,D 0–0,West Ham,Southampton,Y,GK,90.0,2.0,0.0,2.0,100.0,1.0,0.4,0.0,0.0,0.0,0.0,5.0,8.0,62.5,18.0,4.0,33.3,32.7,7.0,28.6,44.1,6.0,0.0,0.0,1.0,12.5
+Łukasz Fabiański,2021-09-19,Sun,5,Home,L 1–2,West Ham,Manchester Utd,Y,GK,90.0,10.0,2.0,7.0,80.0,0.0,2.7,0.0,0.0,0.0,0.0,4.0,13.0,30.8,15.0,4.0,60.0,47.7,10.0,40.0,35.2,14.0,1.0,7.1,0.0,5.0
+Łukasz Fabiański,2021-09-25,Sat,6,Away,W 2–1,West Ham,Leeds United,Y,GK,90.0,5.0,1.0,4.0,80.0,0.0,1.4,0.0,0.0,0.0,0.0,5.0,12.0,41.7,23.0,7.0,30.4,34.5,6.0,83.3,55.8,7.0,0.0,0.0,0.0,12.7
+Łukasz Fabiański,2021-10-03,Sun,7,Home,L 1–2,West Ham,Brentford,Y,GK,90.0,6.0,2.0,4.0,66.7,0.0,1.4,0.0,0.0,0.0,0.0,6.0,17.0,35.3,16.0,4.0,68.8,50.6,6.0,100.0,72.7,5.0,1.0,20.0,0.0,20.0
+Łukasz Fabiański,2021-10-17,Sun,8,Away,W 1–0,West Ham,Everton,Y,GK,90.0,2.0,0.0,2.0,100.0,1.0,0.1,0.0,0.0,0.0,0.0,6.0,13.0,46.2,15.0,4.0,20.0,35.4,13.0,76.9,62.5,16.0,0.0,0.0,0.0,4.0
+Łukasz Fabiański,2021-10-24,Sun,9,Home,W 1–0,West Ham,Tottenham,Y,GK,90.0,4.0,0.0,4.0,100.0,1.0,0.2,0.0,0.0,0.0,0.0,8.0,15.0,53.3,28.0,12.0,46.4,37.9,3.0,66.7,46.3,8.0,2.0,25.0,0.0,11.1
+Łukasz Fabiański,2021-10-31,Sun,10,Away,W 4–1,West Ham,Aston Villa,Y,GK,90.0,3.0,1.0,1.0,66.7,0.0,0.9,0.0,0.0,0.0,0.0,6.0,12.0,50.0,18.0,4.0,33.3,36.9,7.0,85.7,54.4,10.0,0.0,0.0,0.0,11.3
+Łukasz Fabiański,2021-11-07,Sun,11,Home,W 3–2,West Ham,Liverpool,Y,GK,90.0,5.0,2.0,3.0,60.0,0.0,1.6,0.0,0.0,0.0,0.0,8.0,22.0,36.4,17.0,3.0,70.6,47.8,10.0,100.0,64.2,14.0,0.0,0.0,0.0,11.8
+Łukasz Fabiański,2021-11-20,Sat,12,Away,L 0–1,West Ham,Wolves,Y,GK,90.0,5.0,1.0,4.0,80.0,0.0,1.4,0.0,0.0,0.0,0.0,3.0,8.0,37.5,16.0,5.0,12.5,24.8,11.0,54.5,56.5,9.0,0.0,0.0,0.0,10.0
+Łukasz Fabiański,2021-11-28,Sun,13,Away,L 1–2,West Ham,Manchester City,Y,GK,90.0,8.0,2.0,6.0,75.0,0.0,3.6,0.0,0.0,0.0,0.0,9.0,23.0,39.1,22.0,0.0,86.4,52.4,9.0,44.4,34.6,7.0,0.0,0.0,0.0,6.0
+Łukasz Fabiański,2021-12-01,Wed,14,Home,D 1–1,West Ham,Brighton,Y,GK,90.0,3.0,1.0,2.0,66.7,0.0,0.9,0.0,0.0,0.0,0.0,7.0,13.0,53.8,7.0,1.0,85.7,58.3,8.0,87.5,59.1,10.0,0.0,0.0,0.0,7.0

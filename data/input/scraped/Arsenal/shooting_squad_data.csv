@@ -1,0 +1,27 @@
+player,nationality,position,age,minutes_90s,goals,shots_total,shots_on_target,shots_on_target_pct,shots_total_per90,shots_on_target_per90,goals_per_shot,goals_per_shot_on_target,average_shot_distance,shots_free_kicks,pens_made,pens_att,xg,npxg,npxg_per_shot,xg_net,npxg_net,matches
+"Smith-Rowe, Emile",ENG,"MF,FW",21.0,11.9,4.0,20.0,11.0,55.0,1.68,0.93,0.2,0.36,16.4,0.0,0.0,0.0,2.2,2.2,0.11,1.8,1.8,https://fbref.com/en/players/17695062/matchlogs/2021-2022/summary/Emile-Smith-Rowe-Match-Logs
+"Saka, Bukayo",ENG,"FW,MF",20.0,10.6,2.0,23.0,7.0,30.4,2.17,0.66,0.09,0.29,14.2,0.0,0.0,0.0,2.3,2.3,0.1,-0.3,-0.3,https://fbref.com/en/players/bc7dc64d/matchlogs/2021-2022/summary/Bukayo-Saka-Match-Logs
+"White, Ben",ENG,DF,24.0,11.0,0.0,2.0,0.0,0.0,0.18,0.0,0.0,,17.0,0.0,0.0,0.0,0.1,0.1,0.05,-0.1,-0.1,https://fbref.com/en/players/35e413f1/matchlogs/2021-2022/summary/Ben-White-Match-Logs
+"Aubameyang, Pierre-Emerick",GAB,FW,32.0,10.6,4.0,26.0,12.0,46.2,2.46,1.13,0.15,0.33,14.1,0.0,0.0,2.0,5.0,3.4,0.13,-1.0,0.6,https://fbref.com/en/players/d5dd5f1f/matchlogs/2021-2022/summary/Pierre-Emerick-Aubameyang-Match-Logs
+"Dos Santos, Gabriel",BRA,DF,23.0,10.0,1.0,8.0,2.0,25.0,0.8,0.2,0.13,0.5,9.0,0.0,0.0,0.0,0.5,0.5,0.06,0.5,0.5,https://fbref.com/en/players/67ac5bb8/matchlogs/2021-2022/summary/Gabriel-Dos-Santos-Match-Logs
+"Ramsdale, Aaron",ENG,GK,23.0,10.0,0.0,0.0,0.0,,0.0,0.0,,,,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,https://fbref.com/en/players/466fb2c5/matchlogs/2021-2022/summary/Aaron-Ramsdale-Match-Logs
+"Tomiyasu, Takehiro",JPN,DF,23.0,9.7,0.0,8.0,1.0,12.5,0.83,0.1,0.0,0.0,20.1,0.0,0.0,0.0,0.3,0.3,0.04,-0.3,-0.3,https://fbref.com/en/players/b3af9be1/matchlogs/2021-2022/summary/Takehiro-Tomiyasu-Match-Logs
+"Sambi Lokonga, Albert",BEL,MF,22.0,9.0,0.0,15.0,6.0,40.0,1.67,0.67,0.0,0.0,25.3,0.0,0.0,0.0,0.5,0.5,0.03,-0.5,-0.5,https://fbref.com/en/players/1b4f1169/matchlogs/2021-2022/summary/Albert-Sambi-Lokonga-Match-Logs
+"Partey, Thomas",GHA,MF,28.0,7.9,1.0,18.0,4.0,22.2,2.28,0.51,0.06,0.25,22.1,1.0,0.0,0.0,1.1,1.1,0.06,-0.1,-0.1,https://fbref.com/en/players/529f49ab/matchlogs/2021-2022/summary/Thomas-Partey-Match-Logs
+"Tierney, Kieran",SCO,DF,24.0,7.6,0.0,7.0,1.0,14.3,0.92,0.13,0.0,0.0,22.4,0.0,0.0,0.0,0.3,0.3,0.04,-0.3,-0.3,https://fbref.com/en/players/fce2302c/matchlogs/2021-2022/summary/Kieran-Tierney-Match-Logs
+"Ødegaard, Martin",NOR,MF,22.0,7.3,1.0,6.0,3.0,50.0,0.82,0.41,0.17,0.33,26.1,4.0,0.0,0.0,0.3,0.3,0.06,0.7,0.7,https://fbref.com/en/players/79300479/matchlogs/2021-2022/summary/Martin-Odegaard-Match-Logs
+"Tavares, Nuno",POR,DF,21.0,5.6,0.0,13.0,1.0,7.7,2.34,0.18,0.0,0.0,21.2,0.0,0.0,0.0,0.4,0.4,0.03,-0.4,-0.4,https://fbref.com/en/players/a65c844b/matchlogs/2021-2022/summary/Nuno-Tavares-Match-Logs
+"Pépé, Nicolas",CIV,"FW,MF",26.0,5.4,0.0,15.0,5.0,33.3,2.79,0.93,0.0,0.0,16.5,3.0,0.0,0.0,1.6,1.6,0.1,-1.6,-1.6,https://fbref.com/en/players/57e3f0c7/matchlogs/2021-2022/summary/Nicolas-Pepe-Match-Logs
+"Lacazette, Alexandre",FRA,"MF,FW",30.0,3.9,1.0,5.0,3.0,60.0,1.29,0.78,0.2,0.33,13.1,0.0,0.0,0.0,0.8,0.8,0.15,0.2,0.2,https://fbref.com/en/players/9dbb75ca/matchlogs/2021-2022/summary/Alexandre-Lacazette-Match-Logs
+"Xhaka, Granit",SUI,MF,29.0,3.3,0.0,2.0,0.0,0.0,0.61,0.0,0.0,,20.4,0.0,0.0,0.0,0.1,0.1,0.04,-0.1,-0.1,https://fbref.com/en/players/e61b8aee/matchlogs/2021-2022/summary/Granit-Xhaka-Match-Logs
+"Leno, Bernd",GER,GK,29.0,3.0,0.0,0.0,0.0,,0.0,0.0,,,,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,https://fbref.com/en/players/2628fd2b/matchlogs/2021-2022/summary/Bernd-Leno-Match-Logs
+"Maitland-Niles, Ainsley",ENG,MF,24.0,3.0,0.0,2.0,0.0,0.0,0.67,0.0,0.0,,26.5,0.0,0.0,0.0,0.0,0.0,0.02,0.0,0.0,https://fbref.com/en/players/e3a5814e/matchlogs/2021-2022/summary/Ainsley-Maitland-Niles-Match-Logs
+"Soares, Cédric",POR,DF,30.0,2.1,0.0,1.0,0.0,0.0,0.48,0.0,0.0,,22.0,0.0,0.0,0.0,0.0,0.0,0.02,0.0,0.0,https://fbref.com/en/players/839c14e1/matchlogs/2021-2022/summary/Cedric-Soares-Match-Logs
+Martinelli,BRA,"FW,MF",20.0,2.1,1.0,3.0,2.0,66.7,1.44,0.96,0.33,0.5,6.5,0.0,0.0,0.0,0.4,0.4,0.12,0.6,0.6,https://fbref.com/en/players/48a5a5d6/matchlogs/2021-2022/summary/Martinelli-Match-Logs
+"Holding, Rob",ENG,"DF,MF",26.0,2.0,0.0,1.0,0.0,0.0,0.5,0.0,0.0,,6.0,0.0,0.0,0.0,0.1,0.1,0.11,-0.1,-0.1,https://fbref.com/en/players/d79a8c87/matchlogs/2021-2022/summary/Rob-Holding-Match-Logs
+"Marí, Pablo",ESP,DF,28.0,2.0,0.0,1.0,0.0,0.0,0.5,0.0,0.0,,4.1,0.0,0.0,0.0,0.3,0.3,0.31,-0.3,-0.3,https://fbref.com/en/players/aa54ec6f/matchlogs/2021-2022/summary/Pablo-Mari-Match-Logs
+"Chambers, Calum",ENG,DF,26.0,1.9,0.0,2.0,0.0,0.0,1.06,0.0,0.0,,20.3,0.0,0.0,0.0,0.1,0.1,0.04,-0.1,-0.1,https://fbref.com/en/players/dc6f5bdd/matchlogs/2021-2022/summary/Calum-Chambers-Match-Logs
+"Kolašinac, Sead",BIH,DF,28.0,1.0,0.0,0.0,0.0,,0.0,0.0,,,,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,https://fbref.com/en/players/3935e52e/matchlogs/2021-2022/summary/Sead-Kolasinac-Match-Logs
+"Balogun, Folarin",ENG,FW,20.0,0.8,0.0,3.0,0.0,0.0,3.86,0.0,0.0,,14.0,0.0,0.0,0.0,0.3,0.3,0.09,-0.3,-0.3,https://fbref.com/en/players/31822f8c/matchlogs/2021-2022/summary/Folarin-Balogun-Match-Logs
+"Elneny, Mohamed",EGY,"MF,FW",29.0,0.7,0.0,0.0,0.0,,0.0,0.0,,,,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,https://fbref.com/en/players/47a34c4f/matchlogs/2021-2022/summary/Mohamed-Elneny-Match-Logs
+"Nelson, Reiss",ENG,FW,21.0,0.2,0.0,1.0,0.0,0.0,4.5,0.0,0.0,,18.0,0.0,0.0,0.0,0.0,0.0,0.04,0.0,0.0,https://fbref.com/en/players/c5bdb6e3/matchlogs/2021-2022/summary/Reiss-Nelson-Match-Logs

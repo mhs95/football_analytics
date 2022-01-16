@@ -1,0 +1,297 @@
+name,date,dayofweek,round,venue,result,squad,opponent,game_started,position,minutes,tackles,tackles_won,tackles_def_3rd,tackles_mid_3rd,tackles_att_3rd,dribble_tackles,dribbles_vs,dribble_tackles_pct,dribbled_past,pressures,pressure_regains,pressure_regain_pct,pressures_def_3rd,pressures_mid_3rd,pressures_att_3rd,blocks,blocked_shots,blocked_shots_saves,blocked_passes,interceptions,tackles_interceptions,clearances,errors,bench_explain
+Virgil van Dijk,2021-08-14,Sat,1,Away,W 3–0,Liverpool,Norwich City,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,5.0,0.0,
+Virgil van Dijk,2021-08-21,Sat,2,Home,W 2–0,Liverpool,Burnley,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,6.0,2.0,33.3,5.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,12.0,0.0,
+Virgil van Dijk,2021-08-28,Sat,3,Home,D 1–1,Liverpool,Chelsea,Y,CB,90.0,3.0,2.0,0.0,3.0,0.0,1.0,1.0,100.0,0.0,5.0,2.0,40.0,3.0,2.0,0.0,2.0,2.0,0.0,0.0,1.0,4.0,4.0,0.0,
+Virgil van Dijk,2021-09-12,Sun,4,Away,W 3–0,Liverpool,Leeds United,Y*,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,4.0,2.0,50.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,
+Virgil van Dijk,2021-09-18,Sat,5,Home,W 3–0,Liverpool,Crystal Palace,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,2.0,0.0,0.0,0.0,2.0,0.0,2.0,2.0,0.0,0.0,1.0,1.0,6.0,0.0,
+Virgil van Dijk,2021-09-25,Sat,6,Away,D 3–3,Liverpool,Brentford,Y,CB,90.0,3.0,2.0,3.0,0.0,0.0,1.0,1.0,100.0,0.0,5.0,2.0,40.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,5.0,8.0,0.0,
+Virgil van Dijk,2021-10-03,Sun,7,Home,D 2–2,Liverpool,Manchester City,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,,0.0,0.0,0.0,2.0,1.0,0.0,1.0,0.0,0.0,3.0,0.0,
+Virgil van Dijk,2021-10-16,Sat,8,Away,W 5–0,Liverpool,Watford,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,2.0,0.0,
+Virgil van Dijk,2021-10-24,Sun,9,Away,W 5–0,Liverpool,Manchester Utd,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,4.0,0.0,
+Virgil van Dijk,2021-10-30,Sat,10,Home,D 2–2,Liverpool,Brighton,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,7.0,0.0,0.0,2.0,5.0,0.0,0.0,0.0,0.0,0.0,4.0,4.0,3.0,0.0,
+Virgil van Dijk,2021-11-07,Sun,11,Away,L 2–3,Liverpool,West Ham,Y,CB,90.0,2.0,2.0,1.0,1.0,0.0,1.0,1.0,100.0,0.0,6.0,3.0,50.0,4.0,1.0,1.0,3.0,2.0,0.0,1.0,1.0,3.0,1.0,0.0,
+Virgil van Dijk,2021-11-20,Sat,12,Home,W 4–0,Liverpool,Arsenal,Y*,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,2.0,0.0,0.0,1.0,1.0,0.0,2.0,1.0,0.0,1.0,1.0,1.0,3.0,0.0,
+Virgil van Dijk,2021-11-27,Sat,13,Home,W 4–0,Liverpool,Southampton,Y,CB,90.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,100.0,0.0,2.0,1.0,50.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,3.0,8.0,0.0,
+Virgil van Dijk,2021-12-01,Wed,14,Away,W 4–1,Liverpool,Everton,Y,CB,90.0,1.0,0.0,0.0,1.0,0.0,1.0,1.0,100.0,0.0,3.0,2.0,66.7,0.0,3.0,0.0,2.0,1.0,0.0,1.0,1.0,2.0,3.0,0.0,
+Mohamed Salah,2021-08-14,Sat,1,Away,W 3–0,Liverpool,Norwich City,Y,RW,90.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,24.0,5.0,20.8,2.0,5.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Mohamed Salah,2021-08-21,Sat,2,Home,W 2–0,Liverpool,Burnley,Y,RW,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,9.0,4.0,44.4,3.0,2.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Mohamed Salah,2021-08-28,Sat,3,Home,D 1–1,Liverpool,Chelsea,Y,RW,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,6.0,1.0,16.7,0.0,2.0,4.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,
+Mohamed Salah,2021-09-12,Sun,4,Away,W 3–0,Liverpool,Leeds United,Y,RW,90.0,2.0,2.0,0.0,1.0,1.0,0.0,0.0,,0.0,13.0,4.0,30.8,3.0,5.0,5.0,1.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,
+Mohamed Salah,2021-09-18,Sat,5,Home,W 3–0,Liverpool,Crystal Palace,Y,RW,90.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,15.0,2.0,13.3,0.0,7.0,8.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,
+Mohamed Salah,2021-09-25,Sat,6,Away,D 3–3,Liverpool,Brentford,Y,"RW,FW",90.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,9.0,1.0,11.1,3.0,4.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Mohamed Salah,2021-10-03,Sun,7,Home,D 2–2,Liverpool,Manchester City,Y,RW,90.0,3.0,1.0,2.0,0.0,1.0,2.0,4.0,50.0,2.0,33.0,12.0,36.4,9.0,7.0,17.0,1.0,0.0,0.0,1.0,2.0,5.0,0.0,0.0,
+Mohamed Salah,2021-10-16,Sat,8,Away,W 5–0,Liverpool,Watford,Y,RW,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,13.0,6.0,46.2,1.0,1.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Mohamed Salah,2021-10-24,Sun,9,Away,W 5–0,Liverpool,Manchester Utd,Y,RW,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,8.0,0.0,0.0,5.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Mohamed Salah,2021-10-30,Sat,10,Home,D 2–2,Liverpool,Brighton,Y,"RW,FW",90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,18.0,8.0,44.4,1.0,6.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,
+Mohamed Salah,2021-11-07,Sun,11,Away,L 2–3,Liverpool,West Ham,Y,RW,90.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,11.0,2.0,18.2,3.0,3.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Mohamed Salah,2021-11-20,Sat,12,Home,W 4–0,Liverpool,Arsenal,Y,RW,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,10.0,3.0,30.0,0.0,4.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Mohamed Salah,2021-11-27,Sat,13,Home,W 4–0,Liverpool,Southampton,Y,RW,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,17.0,4.0,23.5,2.0,5.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,
+Mohamed Salah,2021-12-01,Wed,14,Away,W 4–1,Liverpool,Everton,Y,RW,90.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,,0.0,13.0,3.0,23.1,2.0,3.0,8.0,1.0,0.0,0.0,1.0,1.0,2.0,0.0,0.0,
+Sadio Mané,2021-08-14,Sat,1,Away,W 3–0,Liverpool,Norwich City,Y,LW,90.0,2.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,19.0,5.0,26.3,4.0,6.0,9.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,
+Sadio Mané,2021-08-21,Sat,2,Home,W 2–0,Liverpool,Burnley,Y,LW,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,8.0,1.0,12.5,3.0,4.0,1.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,
+Sadio Mané,2021-08-28,Sat,3,Home,D 1–1,Liverpool,Chelsea,Y,LW,90.0,3.0,2.0,0.0,3.0,0.0,0.0,0.0,,0.0,13.0,6.0,46.2,2.0,5.0,6.0,2.0,0.0,0.0,2.0,2.0,5.0,1.0,0.0,
+Sadio Mané,2021-09-12,Sun,4,Away,W 3–0,Liverpool,Leeds United,Y,LW,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,8.0,2.0,25.0,1.0,4.0,3.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,
+Sadio Mané,2021-09-18,Sat,5,Home,W 3–0,Liverpool,Crystal Palace,Y,"LW,FW",90.0,2.0,1.0,0.0,0.0,2.0,0.0,0.0,,0.0,10.0,4.0,40.0,1.0,3.0,6.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,
+Sadio Mané,2021-09-25,Sat,6,Away,D 3–3,Liverpool,Brentford,Y,"LW,LM",90.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,6.0,2.0,33.3,0.0,4.0,2.0,1.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,
+Sadio Mané,2021-10-03,Sun,7,Home,D 2–2,Liverpool,Manchester City,Y,LW,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,18.0,5.0,27.8,3.0,7.0,8.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,
+Sadio Mané,2021-10-16,Sat,8,Away,W 5–0,Liverpool,Watford,Y,LW,90.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,6.0,3.0,50.0,1.0,4.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,1.0,0.0,
+Sadio Mané,2021-10-24,Sun,9,Away,W 5–0,Liverpool,Manchester Utd,N,FW,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,2.0,1.0,50.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Sadio Mané,2021-10-30,Sat,10,Home,D 2–2,Liverpool,Brighton,Y,"LW,RW",90.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,,0.0,17.0,3.0,17.6,1.0,7.0,9.0,3.0,0.0,0.0,3.0,1.0,2.0,1.0,0.0,
+Sadio Mané,2021-11-07,Sun,11,Away,L 2–3,Liverpool,West Ham,Y,LW,90.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,6.0,0.0,0.0,1.0,2.0,3.0,3.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,
+Sadio Mané,2021-11-20,Sat,12,Home,W 4–0,Liverpool,Arsenal,Y,LW,90.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,,0.0,13.0,4.0,30.8,0.0,5.0,8.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,
+Sadio Mané,2021-11-27,Sat,13,Home,W 4–0,Liverpool,Southampton,Y,LW,90.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,17.0,5.0,29.4,2.0,8.0,7.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,
+Sadio Mané,2021-12-01,Wed,14,Away,W 4–1,Liverpool,Everton,Y,LW,90.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,17.0,7.0,41.2,3.0,9.0,5.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,
+Alisson,2021-08-14,Sat,1,Away,W 3–0,Liverpool,Norwich City,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Alisson,2021-08-21,Sat,2,Home,W 2–0,Liverpool,Burnley,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Alisson,2021-08-28,Sat,3,Home,D 1–1,Liverpool,Chelsea,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Alisson,2021-09-12,Sun,4,Away,W 3–0,Liverpool,Leeds United,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Alisson,2021-09-18,Sat,5,Home,W 3–0,Liverpool,Crystal Palace,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,
+Alisson,2021-09-25,Sat,6,Away,D 3–3,Liverpool,Brentford,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Alisson,2021-10-03,Sun,7,Home,D 2–2,Liverpool,Manchester City,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Alisson,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Alisson,2021-10-24,Sun,9,Away,W 5–0,Liverpool,Manchester Utd,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Alisson,2021-10-30,Sat,10,Home,D 2–2,Liverpool,Brighton,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Alisson,2021-11-07,Sun,11,Away,L 2–3,Liverpool,West Ham,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Alisson,2021-11-20,Sat,12,Home,W 4–0,Liverpool,Arsenal,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Alisson,2021-11-27,Sat,13,Home,W 4–0,Liverpool,Southampton,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,1.0,1.0,100.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Alisson,2021-12-01,Wed,14,Away,W 4–1,Liverpool,Everton,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Trent Alexander-Arnold,2021-08-14,Sat,1,Away,W 3–0,Liverpool,Norwich City,Y,RB,90.0,2.0,2.0,0.0,2.0,0.0,1.0,3.0,33.3,2.0,13.0,7.0,53.8,5.0,3.0,5.0,2.0,1.0,0.0,1.0,4.0,6.0,0.0,0.0,
+Trent Alexander-Arnold,2021-08-21,Sat,2,Home,W 2–0,Liverpool,Burnley,Y,RB,90.0,2.0,1.0,2.0,0.0,0.0,1.0,5.0,20.0,4.0,16.0,3.0,18.8,9.0,3.0,4.0,2.0,0.0,0.0,2.0,2.0,4.0,5.0,0.0,
+Trent Alexander-Arnold,2021-08-28,Sat,3,Home,D 1–1,Liverpool,Chelsea,Y,RB,90.0,2.0,1.0,0.0,2.0,0.0,2.0,2.0,100.0,0.0,6.0,0.0,0.0,2.0,1.0,3.0,1.0,0.0,0.0,1.0,0.0,2.0,3.0,0.0,
+Trent Alexander-Arnold,2021-09-12,Sun,4,Away,W 3–0,Liverpool,Leeds United,Y,RB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,14.0,3.0,21.4,3.0,9.0,2.0,3.0,0.0,0.0,3.0,5.0,5.0,1.0,0.0,
+Trent Alexander-Arnold,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Trent Alexander-Arnold,2021-09-25,Sat,6,Away,D 3–3,Liverpool,Brentford,Y,RB,90.0,4.0,2.0,1.0,1.0,2.0,2.0,2.0,100.0,0.0,9.0,4.0,44.4,5.0,2.0,2.0,1.0,1.0,0.0,0.0,4.0,8.0,2.0,0.0,
+Trent Alexander-Arnold,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Trent Alexander-Arnold,2021-10-16,Sat,8,Away,W 5–0,Liverpool,Watford,Y,RB,64.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,,0.0,3.0,2.0,66.7,2.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,3.0,1.0,0.0,
+Trent Alexander-Arnold,2021-10-24,Sun,9,Away,W 5–0,Liverpool,Manchester Utd,Y,RB,90.0,2.0,2.0,0.0,1.0,1.0,2.0,4.0,50.0,2.0,6.0,4.0,66.7,2.0,4.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,1.0,0.0,
+Trent Alexander-Arnold,2021-10-30,Sat,10,Home,D 2–2,Liverpool,Brighton,Y,RB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,3.0,2.0,66.7,0.0,2.0,1.0,0.0,0.0,0.0,0.0,3.0,3.0,6.0,0.0,
+Trent Alexander-Arnold,2021-11-07,Sun,11,Away,L 2–3,Liverpool,West Ham,Y,RB,90.0,2.0,2.0,1.0,1.0,0.0,0.0,0.0,,0.0,8.0,5.0,62.5,4.0,4.0,0.0,1.0,0.0,0.0,1.0,5.0,7.0,1.0,0.0,
+Trent Alexander-Arnold,2021-11-20,Sat,12,Home,W 4–0,Liverpool,Arsenal,Y,RB,90.0,1.0,1.0,0.0,1.0,0.0,1.0,3.0,33.3,2.0,7.0,4.0,57.1,0.0,1.0,6.0,1.0,0.0,0.0,1.0,1.0,2.0,0.0,0.0,
+Trent Alexander-Arnold,2021-11-27,Sat,13,Home,W 4–0,Liverpool,Southampton,Y,RB,90.0,2.0,1.0,1.0,1.0,0.0,2.0,4.0,50.0,2.0,15.0,5.0,33.3,5.0,3.0,7.0,2.0,0.0,0.0,2.0,2.0,4.0,1.0,0.0,
+Trent Alexander-Arnold,2021-12-01,Wed,14,Away,W 4–1,Liverpool,Everton,Y,RB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,7.0,1.0,14.3,3.0,1.0,3.0,0.0,0.0,0.0,0.0,3.0,3.0,1.0,0.0,
+Jordan Henderson,2021-08-21,Sat,2,Home,W 2–0,Liverpool,Burnley,Y*,DM,90.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,9.0,3.0,33.3,6.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Jordan Henderson,2021-08-28,Sat,3,Home,D 1–1,Liverpool,Chelsea,Y*,CM,73.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,7.0,1.0,14.3,0.0,1.0,6.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,
+Jordan Henderson,2021-09-12,Sun,4,Away,W 3–0,Liverpool,Leeds United,N,CM,28.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,100.0,0.0,13.0,5.0,38.5,4.0,6.0,3.0,1.0,0.0,0.0,1.0,1.0,2.0,0.0,0.0,
+Jordan Henderson,2021-09-18,Sat,5,Home,W 3–0,Liverpool,Crystal Palace,Y*,CM,87.0,2.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,16.0,5.0,31.3,4.0,9.0,3.0,1.0,0.0,0.0,1.0,0.0,2.0,1.0,0.0,
+Jordan Henderson,2021-09-25,Sat,6,Away,D 3–3,Liverpool,Brentford,Y*,"CM,DM",90.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,,0.0,16.0,5.0,31.3,4.0,9.0,3.0,1.0,0.0,0.0,1.0,2.0,3.0,1.0,0.0,
+Jordan Henderson,2021-10-03,Sun,7,Home,D 2–2,Liverpool,Manchester City,Y*,CM,90.0,2.0,1.0,0.0,1.0,1.0,1.0,4.0,25.0,3.0,36.0,10.0,27.8,4.0,26.0,6.0,2.0,0.0,0.0,2.0,3.0,5.0,1.0,0.0,
+Jordan Henderson,2021-10-16,Sat,8,Away,W 5–0,Liverpool,Watford,Y*,DM,90.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,50.0,1.0,18.0,5.0,27.8,4.0,12.0,2.0,1.0,0.0,0.0,1.0,1.0,2.0,0.0,0.0,
+Jordan Henderson,2021-10-24,Sun,9,Away,W 5–0,Liverpool,Manchester Utd,Y*,DM,90.0,3.0,2.0,0.0,3.0,0.0,1.0,3.0,33.3,2.0,14.0,8.0,57.1,5.0,9.0,0.0,2.0,0.0,0.0,2.0,4.0,7.0,0.0,0.0,
+Jordan Henderson,2021-10-30,Sat,10,Home,D 2–2,Liverpool,Brighton,Y*,DM,90.0,4.0,4.0,1.0,2.0,1.0,3.0,3.0,100.0,0.0,16.0,1.0,6.3,4.0,11.0,1.0,0.0,0.0,0.0,0.0,3.0,7.0,3.0,0.0,
+Jordan Henderson,2021-11-07,Sun,11,Away,L 2–3,Liverpool,West Ham,Y*,CM,90.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,,0.0,9.0,5.0,55.6,4.0,4.0,1.0,2.0,0.0,0.0,2.0,0.0,1.0,1.0,0.0,
+Jordan Henderson,2021-11-20,Sat,12,Home,W 4–0,Liverpool,Arsenal,N,CM,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,
+Jordan Henderson,2021-11-27,Sat,13,Home,W 4–0,Liverpool,Southampton,Y*,CM,66.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,10.0,4.0,40.0,3.0,6.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,
+Jordan Henderson,2021-12-01,Wed,14,Away,W 4–1,Liverpool,Everton,Y*,CM,82.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,16.0,5.0,31.3,3.0,8.0,5.0,1.0,0.0,0.0,1.0,1.0,2.0,0.0,0.0,
+Diogo Jota,2021-08-14,Sat,1,Away,W 3–0,Liverpool,Norwich City,Y,FW,60.0,1.0,0.0,0.0,1.0,0.0,1.0,1.0,100.0,0.0,14.0,5.0,35.7,2.0,5.0,7.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,
+Diogo Jota,2021-08-21,Sat,2,Home,W 2–0,Liverpool,Burnley,Y,FW,80.0,2.0,1.0,0.0,2.0,0.0,0.0,3.0,0.0,3.0,16.0,2.0,12.5,5.0,8.0,3.0,0.0,0.0,0.0,0.0,1.0,3.0,1.0,0.0,
+Diogo Jota,2021-08-28,Sat,3,Home,D 1–1,Liverpool,Chelsea,N,FW,48.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,7.0,3.0,42.9,3.0,2.0,2.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,
+Diogo Jota,2021-09-12,Sun,4,Away,W 3–0,Liverpool,Leeds United,Y,FW,81.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,31.0,6.0,19.4,4.0,6.0,21.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,
+Diogo Jota,2021-09-18,Sat,5,Home,W 3–0,Liverpool,Crystal Palace,Y,FW,75.0,3.0,2.0,3.0,0.0,0.0,1.0,2.0,50.0,1.0,17.0,5.0,29.4,6.0,6.0,5.0,1.0,1.0,0.0,0.0,0.0,3.0,1.0,0.0,
+Diogo Jota,2021-09-25,Sat,6,Away,D 3–3,Liverpool,Brentford,Y,"FW,RM",90.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,10.0,2.0,20.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Diogo Jota,2021-10-03,Sun,7,Home,D 2–2,Liverpool,Manchester City,Y,FW,67.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,26.0,3.0,11.5,3.0,9.0,14.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,
+Diogo Jota,2021-10-16,Sat,8,Away,W 5–0,Liverpool,Watford,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Diogo Jota,2021-10-24,Sun,9,Away,W 5–0,Liverpool,Manchester Utd,Y,LW,90.0,1.0,1.0,0.0,0.0,1.0,1.0,3.0,33.3,2.0,25.0,8.0,32.0,1.0,17.0,7.0,2.0,1.0,0.0,1.0,1.0,2.0,0.0,0.0,
+Diogo Jota,2021-10-30,Sat,10,Home,D 2–2,Liverpool,Brighton,N,LW,13.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,5.0,0.0,0.0,3.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,
+Diogo Jota,2021-11-07,Sun,11,Away,L 2–3,Liverpool,West Ham,Y,FW,75.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,,0.0,8.0,3.0,37.5,4.0,1.0,3.0,1.0,0.0,0.0,1.0,1.0,2.0,0.0,0.0,
+Diogo Jota,2021-11-20,Sat,12,Home,W 4–0,Liverpool,Arsenal,Y,FW,75.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,7.0,1.0,14.3,2.0,3.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Diogo Jota,2021-11-27,Sat,13,Home,W 4–0,Liverpool,Southampton,Y,FW,80.0,2.0,1.0,0.0,1.0,1.0,1.0,1.0,100.0,0.0,22.0,4.0,18.2,0.0,15.0,7.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,
+Diogo Jota,2021-12-01,Wed,14,Away,W 4–1,Liverpool,Everton,Y,FW,87.0,2.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,14.0,6.0,42.9,4.0,6.0,4.0,0.0,0.0,0.0,0.0,2.0,4.0,1.0,0.0,
+Joël Matip,2021-08-14,Sat,1,Away,W 3–0,Liverpool,Norwich City,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,4.0,1.0,25.0,2.0,0.0,2.0,1.0,0.0,0.0,1.0,2.0,2.0,1.0,0.0,
+Joël Matip,2021-08-21,Sat,2,Home,W 2–0,Liverpool,Burnley,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,6.0,1.0,16.7,3.0,3.0,0.0,1.0,0.0,0.0,1.0,2.0,2.0,15.0,0.0,
+Joël Matip,2021-08-28,Sat,3,Home,D 1–1,Liverpool,Chelsea,Y,CB,90.0,3.0,2.0,0.0,3.0,0.0,0.0,1.0,0.0,1.0,14.0,7.0,50.0,4.0,10.0,0.0,1.0,1.0,0.0,0.0,1.0,4.0,4.0,0.0,
+Joël Matip,2021-09-12,Sun,4,Away,W 3–0,Liverpool,Leeds United,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,4.0,2.0,50.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,
+Joël Matip,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Joël Matip,2021-09-25,Sat,6,Away,D 3–3,Liverpool,Brentford,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,6.0,2.0,33.3,6.0,0.0,0.0,3.0,2.0,1.0,1.0,2.0,2.0,8.0,0.0,
+Joël Matip,2021-10-03,Sun,7,Home,D 2–2,Liverpool,Manchester City,Y,CB,90.0,3.0,3.0,1.0,2.0,0.0,2.0,2.0,100.0,0.0,8.0,3.0,37.5,2.0,4.0,2.0,4.0,3.0,0.0,1.0,3.0,6.0,1.0,0.0,
+Joël Matip,2021-10-16,Sat,8,Away,W 5–0,Liverpool,Watford,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,6.0,2.0,33.3,4.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,
+Joël Matip,2021-10-24,Sun,9,Away,W 5–0,Liverpool,Manchester Utd,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Joël Matip,2021-10-30,Sat,10,Home,D 2–2,Liverpool,Brighton,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Joël Matip,2021-11-07,Sun,11,Away,L 2–3,Liverpool,West Ham,Y,CB,90.0,1.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,2.0,7.0,5.0,71.4,4.0,3.0,0.0,2.0,0.0,0.0,2.0,2.0,3.0,6.0,0.0,
+Joël Matip,2021-11-20,Sat,12,Home,W 4–0,Liverpool,Arsenal,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,2.0,1.0,50.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,
+Joël Matip,2021-11-27,Sat,13,Home,W 4–0,Liverpool,Southampton,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Joël Matip,2021-12-01,Wed,14,Away,W 4–1,Liverpool,Everton,Y,CB,90.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,100.0,0.0,10.0,5.0,50.0,9.0,1.0,0.0,3.0,2.0,0.0,1.0,2.0,3.0,5.0,0.0,
+Andrew Robertson,2021-08-21,Sat,2,Home,W 2–0,Liverpool,Burnley,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Andrew Robertson,2021-08-28,Sat,3,Home,D 1–1,Liverpool,Chelsea,Y,LB,85.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,7.0,1.0,14.3,0.0,2.0,5.0,2.0,1.0,0.0,1.0,2.0,2.0,2.0,0.0,
+Andrew Robertson,2021-09-12,Sun,4,Away,W 3–0,Liverpool,Leeds United,Y,LB,90.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,50.0,1.0,8.0,3.0,37.5,2.0,6.0,0.0,3.0,0.0,0.0,3.0,2.0,3.0,5.0,0.0,
+Andrew Robertson,2021-09-18,Sat,5,Home,W 3–0,Liverpool,Crystal Palace,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Andrew Robertson,2021-09-25,Sat,6,Away,D 3–3,Liverpool,Brentford,Y,LB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,6.0,0.0,0.0,3.0,2.0,1.0,1.0,0.0,0.0,1.0,2.0,2.0,2.0,0.0,
+Andrew Robertson,2021-10-03,Sun,7,Home,D 2–2,Liverpool,Manchester City,Y,LB,90.0,2.0,1.0,0.0,1.0,1.0,0.0,0.0,,0.0,15.0,3.0,20.0,1.0,10.0,4.0,3.0,1.0,0.0,2.0,3.0,5.0,4.0,0.0,
+Andrew Robertson,2021-10-16,Sat,8,Away,W 5–0,Liverpool,Watford,Y,LB,63.0,2.0,1.0,2.0,0.0,0.0,1.0,1.0,100.0,0.0,8.0,1.0,12.5,3.0,1.0,4.0,0.0,0.0,0.0,0.0,3.0,5.0,2.0,0.0,
+Andrew Robertson,2021-10-24,Sun,9,Away,W 5–0,Liverpool,Manchester Utd,Y,LB,90.0,2.0,1.0,1.0,1.0,0.0,1.0,1.0,100.0,0.0,7.0,2.0,28.6,5.0,2.0,0.0,3.0,1.0,1.0,2.0,0.0,2.0,4.0,0.0,
+Andrew Robertson,2021-10-30,Sat,10,Home,D 2–2,Liverpool,Brighton,Y,LB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,15.0,3.0,20.0,4.0,6.0,5.0,0.0,0.0,0.0,0.0,3.0,3.0,1.0,0.0,
+Andrew Robertson,2021-11-07,Sun,11,Away,L 2–3,Liverpool,West Ham,Y,LB,90.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,,0.0,13.0,4.0,30.8,1.0,6.0,6.0,3.0,0.0,0.0,3.0,2.0,3.0,1.0,0.0,
+Andrew Robertson,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Andrew Robertson,2021-11-27,Sat,13,Home,W 4–0,Liverpool,Southampton,Y,LB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,8.0,2.0,25.0,0.0,5.0,3.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,0.0,
+Andrew Robertson,2021-12-01,Wed,14,Away,W 4–1,Liverpool,Everton,Y,LB,90.0,5.0,1.0,0.0,2.0,3.0,2.0,2.0,100.0,0.0,20.0,8.0,40.0,3.0,9.0,8.0,2.0,0.0,0.0,2.0,1.0,6.0,3.0,0.0,
+Fabinho,2021-08-14,Sat,1,Away,W 3–0,Liverpool,Norwich City,N,CM,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,6.0,0.0,0.0,2.0,3.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,
+Fabinho,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Fabinho,2021-08-28,Sat,3,Home,D 1–1,Liverpool,Chelsea,Y,DM,90.0,2.0,1.0,0.0,2.0,0.0,0.0,1.0,0.0,1.0,14.0,3.0,21.4,1.0,9.0,4.0,1.0,0.0,0.0,1.0,0.0,2.0,2.0,0.0,
+Fabinho,2021-09-12,Sun,4,Away,W 3–0,Liverpool,Leeds United,Y,DM,90.0,2.0,2.0,2.0,0.0,0.0,1.0,2.0,50.0,1.0,24.0,9.0,37.5,12.0,10.0,2.0,4.0,2.0,0.0,2.0,5.0,7.0,4.0,0.0,
+Fabinho,2021-09-18,Sat,5,Home,W 3–0,Liverpool,Crystal Palace,Y,DM,90.0,4.0,1.0,1.0,2.0,1.0,1.0,1.0,100.0,0.0,16.0,6.0,37.5,4.0,9.0,3.0,1.0,0.0,0.0,1.0,1.0,5.0,1.0,0.0,
+Fabinho,2021-09-25,Sat,6,Away,D 3–3,Liverpool,Brentford,Y,DM,90.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,12.0,1.0,8.3,4.0,4.0,4.0,2.0,0.0,0.0,2.0,1.0,1.0,1.0,0.0,
+Fabinho,2021-10-03,Sun,7,Home,D 2–2,Liverpool,Manchester City,Y,DM,90.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,3.0,19.0,4.0,21.1,6.0,10.0,3.0,2.0,0.0,0.0,2.0,1.0,1.0,0.0,0.0,
+Fabinho,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Fabinho,2021-11-07,Sun,11,Away,L 2–3,Liverpool,West Ham,Y,DM,79.0,3.0,1.0,0.0,2.0,1.0,1.0,3.0,33.3,2.0,11.0,3.0,27.3,5.0,4.0,2.0,1.0,0.0,0.0,1.0,2.0,5.0,1.0,0.0,
+Fabinho,2021-11-20,Sat,12,Home,W 4–0,Liverpool,Arsenal,Y,DM,90.0,2.0,1.0,0.0,2.0,0.0,0.0,2.0,0.0,2.0,12.0,4.0,33.3,6.0,5.0,1.0,1.0,0.0,0.0,1.0,3.0,5.0,0.0,0.0,
+Fabinho,2021-11-27,Sat,13,Home,W 4–0,Liverpool,Southampton,Y,DM,90.0,3.0,3.0,0.0,3.0,0.0,1.0,4.0,25.0,3.0,24.0,7.0,29.2,6.0,15.0,3.0,3.0,2.0,0.0,1.0,4.0,7.0,5.0,0.0,
+Fabinho,2021-12-01,Wed,14,Away,W 4–1,Liverpool,Everton,Y,DM,90.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,17.0,6.0,35.3,7.0,9.0,1.0,0.0,0.0,0.0,0.0,3.0,4.0,3.0,0.0,
+Thiago Alcántara,2021-08-21,Sat,2,Home,W 2–0,Liverpool,Burnley,N,CM,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,
+Thiago Alcántara,2021-08-28,Sat,3,Home,D 1–1,Liverpool,Chelsea,N,CM,17.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,3.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,
+Thiago Alcántara,2021-09-12,Sun,4,Away,W 3–0,Liverpool,Leeds United,Y,CM,89.0,4.0,2.0,3.0,1.0,0.0,1.0,2.0,50.0,1.0,10.0,7.0,70.0,5.0,4.0,1.0,1.0,0.0,0.0,1.0,2.0,6.0,2.0,0.0,
+Thiago Alcántara,2021-09-18,Sat,5,Home,W 3–0,Liverpool,Crystal Palace,Y,CM,61.0,2.0,2.0,0.0,1.0,1.0,0.0,0.0,,0.0,7.0,3.0,42.9,3.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,
+Thiago Alcántara,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Thiago Alcántara,2021-11-07,Sun,11,Away,L 2–3,Liverpool,West Ham,N,CM,23.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,,0.0,1.0,1.0,100.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,
+Thiago Alcántara,2021-11-20,Sat,12,Home,W 4–0,Liverpool,Arsenal,Y,CM,83.0,3.0,2.0,1.0,1.0,1.0,1.0,1.0,100.0,0.0,14.0,6.0,42.9,3.0,9.0,2.0,1.0,0.0,0.0,1.0,2.0,5.0,0.0,0.0,
+Thiago Alcántara,2021-11-27,Sat,13,Home,W 4–0,Liverpool,Southampton,Y,CM,58.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,11.0,3.0,27.3,1.0,9.0,1.0,1.0,0.0,0.0,1.0,1.0,3.0,0.0,0.0,
+Thiago Alcántara,2021-12-01,Wed,14,Away,W 4–1,Liverpool,Everton,Y,CM,74.0,3.0,3.0,0.0,3.0,0.0,1.0,2.0,50.0,1.0,18.0,5.0,27.8,5.0,9.0,4.0,2.0,1.0,0.0,1.0,1.0,4.0,0.0,0.0,
+James Milner,2021-08-14,Sat,1,Away,W 3–0,Liverpool,Norwich City,Y*,DM,90.0,3.0,0.0,1.0,2.0,0.0,2.0,4.0,50.0,2.0,14.0,6.0,42.9,1.0,9.0,4.0,2.0,1.0,0.0,1.0,1.0,4.0,1.0,0.0,
+James Milner,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+James Milner,2021-09-12,Sun,4,Away,W 3–0,Liverpool,Leeds United,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+James Milner,2021-09-18,Sat,5,Home,W 3–0,Liverpool,Crystal Palace,Y,RB,90.0,4.0,3.0,3.0,1.0,0.0,2.0,5.0,40.0,3.0,15.0,4.0,26.7,5.0,7.0,3.0,1.0,0.0,0.0,1.0,6.0,10.0,7.0,0.0,
+James Milner,2021-09-25,Sat,6,Away,D 3–3,Liverpool,Brentford,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+James Milner,2021-10-03,Sun,7,Home,D 2–2,Liverpool,Manchester City,Y,RB,77.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,9.0,2.0,22.2,3.0,6.0,0.0,4.0,1.0,0.0,3.0,2.0,3.0,2.0,0.0,
+James Milner,2021-10-16,Sat,8,Away,W 5–0,Liverpool,Watford,Y,"CM,RB",82.0,5.0,4.0,3.0,0.0,2.0,2.0,7.0,28.6,5.0,15.0,8.0,53.3,4.0,8.0,3.0,0.0,0.0,0.0,0.0,1.0,6.0,2.0,0.0,
+James Milner,2021-10-24,Sun,9,Away,W 5–0,Liverpool,Manchester Utd,Y,CM,26.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,5.0,2.0,40.0,0.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+James Milner,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+James Milner,2021-11-27,Sat,13,Home,W 4–0,Liverpool,Southampton,N,CM,24.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,100.0,0.0,8.0,5.0,62.5,0.0,3.0,5.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,
+James Milner,2021-12-01,Wed,14,Away,W 4–1,Liverpool,Everton,N,CM,16.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,100.0,0.0,2.0,2.0,100.0,0.0,0.0,2.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,
+Naby Keïta,2021-08-14,Sat,1,Away,W 3–0,Liverpool,Norwich City,Y,CM,82.0,4.0,4.0,0.0,2.0,2.0,2.0,4.0,50.0,2.0,33.0,8.0,24.2,7.0,16.0,10.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,
+Naby Keïta,2021-08-21,Sat,2,Home,W 2–0,Liverpool,Burnley,Y,CM,80.0,4.0,3.0,2.0,2.0,0.0,2.0,2.0,100.0,0.0,14.0,3.0,21.4,4.0,9.0,1.0,1.0,0.0,0.0,1.0,0.0,4.0,0.0,0.0,
+Naby Keïta,2021-08-28,Sat,3,Home,D 1–1,Liverpool,Chelsea,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Naby Keïta,2021-09-12,Sun,4,Away,W 3–0,Liverpool,Leeds United,N,CM,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Naby Keïta,2021-09-18,Sat,5,Home,W 3–0,Liverpool,Crystal Palace,N,CM,29.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,,0.0,7.0,4.0,57.1,4.0,1.0,2.0,2.0,0.0,0.0,2.0,0.0,1.0,0.0,0.0,
+Naby Keïta,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Naby Keïta,2021-10-03,Sun,7,Home,D 2–2,Liverpool,Manchester City,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Naby Keïta,2021-10-16,Sat,8,Away,W 5–0,Liverpool,Watford,Y,CM,90.0,4.0,2.0,2.0,1.0,1.0,3.0,4.0,75.0,1.0,25.0,8.0,32.0,5.0,10.0,10.0,3.0,1.0,0.0,2.0,0.0,4.0,0.0,0.0,
+Naby Keïta,2021-10-24,Sun,9,Away,W 5–0,Liverpool,Manchester Utd,Y,CM,62.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,,0.0,16.0,4.0,25.0,3.0,11.0,2.0,2.0,0.0,0.0,2.0,3.0,4.0,0.0,0.0,
+Naby Keïta,2021-10-30,Sat,10,Home,D 2–2,Liverpool,Brighton,Y,CM,18.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,50.0,1.0,5.0,2.0,40.0,0.0,4.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,
+Kostas Tsimikas,2021-08-14,Sat,1,Away,W 3–0,Liverpool,Norwich City,Y,LB,90.0,3.0,1.0,2.0,0.0,1.0,2.0,4.0,50.0,2.0,16.0,2.0,12.5,3.0,6.0,7.0,1.0,0.0,0.0,1.0,2.0,5.0,3.0,0.0,
+Kostas Tsimikas,2021-08-21,Sat,2,Home,W 2–0,Liverpool,Burnley,Y,LB,89.0,2.0,1.0,2.0,0.0,0.0,0.0,2.0,0.0,2.0,14.0,5.0,35.7,12.0,0.0,2.0,2.0,0.0,0.0,2.0,1.0,3.0,6.0,0.0,
+Kostas Tsimikas,2021-08-28,Sat,3,Home,D 1–1,Liverpool,Chelsea,N,LB,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,1.0,1.0,100.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,
+Kostas Tsimikas,2021-09-12,Sun,4,Away,W 3–0,Liverpool,Leeds United,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Kostas Tsimikas,2021-09-18,Sat,5,Home,W 3–0,Liverpool,Crystal Palace,Y,LB,90.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,100.0,0.0,12.0,2.0,16.7,3.0,6.0,3.0,2.0,1.0,0.0,1.0,2.0,4.0,3.0,0.0,
+Kostas Tsimikas,2021-09-25,Sat,6,Away,D 3–3,Liverpool,Brentford,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Kostas Tsimikas,2021-10-03,Sun,7,Home,D 2–2,Liverpool,Manchester City,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Kostas Tsimikas,2021-10-16,Sat,8,Away,W 5–0,Liverpool,Watford,N,LB,27.0,2.0,1.0,0.0,0.0,2.0,1.0,1.0,100.0,0.0,10.0,4.0,40.0,2.0,1.0,7.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,
+Kostas Tsimikas,2021-10-24,Sun,9,Away,W 5–0,Liverpool,Manchester Utd,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Kostas Tsimikas,2021-10-30,Sat,10,Home,D 2–2,Liverpool,Brighton,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Kostas Tsimikas,2021-11-07,Sun,11,Away,L 2–3,Liverpool,West Ham,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Kostas Tsimikas,2021-11-20,Sat,12,Home,W 4–0,Liverpool,Arsenal,Y,LB,90.0,4.0,2.0,0.0,3.0,1.0,1.0,1.0,100.0,0.0,15.0,6.0,40.0,8.0,5.0,2.0,0.0,0.0,0.0,0.0,0.0,4.0,2.0,0.0,
+Kostas Tsimikas,2021-11-27,Sat,13,Home,W 4–0,Liverpool,Southampton,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Kostas Tsimikas,2021-12-01,Wed,14,Away,W 4–1,Liverpool,Everton,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Roberto Firmino,2021-08-14,Sat,1,Away,W 3–0,Liverpool,Norwich City,N,FW,30.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,10.0,5.0,50.0,1.0,3.0,6.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,
+Roberto Firmino,2021-08-21,Sat,2,Home,W 2–0,Liverpool,Burnley,N,FW,10.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,,0.0,3.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,
+Roberto Firmino,2021-08-28,Sat,3,Home,D 1–1,Liverpool,Chelsea,Y,FW,42.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,,0.0,8.0,3.0,37.5,3.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,
+Roberto Firmino,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Roberto Firmino,2021-09-25,Sat,6,Away,D 3–3,Liverpool,Brentford,N,FW,23.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,7.0,3.0,42.9,0.0,5.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Roberto Firmino,2021-10-03,Sun,7,Home,D 2–2,Liverpool,Manchester City,N,FW,23.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,,0.0,6.0,1.0,16.7,1.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,
+Roberto Firmino,2021-10-16,Sat,8,Away,W 5–0,Liverpool,Watford,Y,FW,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,16.0,8.0,50.0,0.0,7.0,9.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,
+Roberto Firmino,2021-10-24,Sun,9,Away,W 5–0,Liverpool,Manchester Utd,Y,FW,76.0,1.0,1.0,0.0,1.0,0.0,0.0,2.0,0.0,2.0,19.0,3.0,15.8,2.0,8.0,9.0,2.0,0.0,0.0,2.0,1.0,2.0,1.0,0.0,
+Roberto Firmino,2021-10-30,Sat,10,Home,D 2–2,Liverpool,Brighton,Y,FW,77.0,4.0,2.0,1.0,2.0,1.0,1.0,2.0,50.0,1.0,22.0,9.0,40.9,4.0,12.0,6.0,1.0,0.0,0.0,1.0,0.0,4.0,0.0,0.0,
+Ibrahima Konaté,2021-08-14,Sat,1,Away,W 3–0,Liverpool,Norwich City,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ibrahima Konaté,2021-08-21,Sat,2,Home,W 2–0,Liverpool,Burnley,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ibrahima Konaté,2021-08-28,Sat,3,Home,D 1–1,Liverpool,Chelsea,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ibrahima Konaté,2021-09-12,Sun,4,Away,W 3–0,Liverpool,Leeds United,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ibrahima Konaté,2021-09-18,Sat,5,Home,W 3–0,Liverpool,Crystal Palace,Y,CB,90.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,100.0,0.0,7.0,4.0,57.1,6.0,1.0,0.0,2.0,2.0,0.0,0.0,2.0,3.0,4.0,0.0,
+Ibrahima Konaté,2021-09-25,Sat,6,Away,D 3–3,Liverpool,Brentford,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ibrahima Konaté,2021-10-03,Sun,7,Home,D 2–2,Liverpool,Manchester City,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ibrahima Konaté,2021-10-16,Sat,8,Away,W 5–0,Liverpool,Watford,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ibrahima Konaté,2021-10-24,Sun,9,Away,W 5–0,Liverpool,Manchester Utd,Y,CB,90.0,2.0,1.0,2.0,0.0,0.0,1.0,1.0,100.0,0.0,5.0,2.0,40.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,5.0,1.0,0.0,
+Ibrahima Konaté,2021-10-30,Sat,10,Home,D 2–2,Liverpool,Brighton,Y,CB,90.0,2.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,8.0,2.0,25.0,6.0,2.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,12.0,0.0,
+Ibrahima Konaté,2021-11-07,Sun,11,Away,L 2–3,Liverpool,West Ham,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ibrahima Konaté,2021-11-20,Sat,12,Home,W 4–0,Liverpool,Arsenal,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ibrahima Konaté,2021-11-27,Sat,13,Home,W 4–0,Liverpool,Southampton,Y,CB,90.0,2.0,1.0,1.0,0.0,1.0,0.0,0.0,,0.0,7.0,2.0,28.6,4.0,2.0,1.0,2.0,1.0,0.0,1.0,2.0,4.0,7.0,0.0,
+Ibrahima Konaté,2021-12-01,Wed,14,Away,W 4–1,Liverpool,Everton,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Alex Oxlade-Chamberlain,2021-08-14,Sat,1,Away,W 3–0,Liverpool,Norwich City,Y,CM,60.0,2.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,19.0,2.0,10.5,4.0,14.0,1.0,0.0,0.0,0.0,0.0,3.0,5.0,0.0,0.0,
+Alex Oxlade-Chamberlain,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Alex Oxlade-Chamberlain,2021-08-28,Sat,3,Home,D 1–1,Liverpool,Chelsea,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Alex Oxlade-Chamberlain,2021-09-12,Sun,4,Away,W 3–0,Liverpool,Leeds United,N,FW,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Alex Oxlade-Chamberlain,2021-09-18,Sat,5,Home,W 3–0,Liverpool,Crystal Palace,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Alex Oxlade-Chamberlain,2021-09-25,Sat,6,Away,D 3–3,Liverpool,Brentford,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Alex Oxlade-Chamberlain,2021-10-03,Sun,7,Home,D 2–2,Liverpool,Manchester City,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Alex Oxlade-Chamberlain,2021-10-16,Sat,8,Away,W 5–0,Liverpool,Watford,N,CM,26.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,4.0,1.0,25.0,0.0,2.0,2.0,1.0,0.0,0.0,1.0,2.0,2.0,0.0,0.0,
+Alex Oxlade-Chamberlain,2021-10-24,Sun,9,Away,W 5–0,Liverpool,Manchester Utd,N,CM,28.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,,0.0,6.0,2.0,33.3,2.0,3.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,
+Alex Oxlade-Chamberlain,2021-10-30,Sat,10,Home,D 2–2,Liverpool,Brighton,N,CM,72.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,,0.0,13.0,4.0,30.8,1.0,6.0,6.0,0.0,0.0,0.0,0.0,1.0,2.0,1.0,0.0,
+Alex Oxlade-Chamberlain,2021-11-07,Sun,11,Away,L 2–3,Liverpool,West Ham,Y,CM,67.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,100.0,0.0,5.0,1.0,20.0,1.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,
+Alex Oxlade-Chamberlain,2021-11-20,Sat,12,Home,W 4–0,Liverpool,Arsenal,Y,CM,75.0,2.0,2.0,1.0,1.0,0.0,1.0,2.0,50.0,1.0,16.0,9.0,56.3,2.0,5.0,9.0,3.0,1.0,0.0,2.0,1.0,3.0,2.0,0.0,
+Alex Oxlade-Chamberlain,2021-11-27,Sat,13,Home,W 4–0,Liverpool,Southampton,N,CM,32.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,10.0,3.0,30.0,0.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,
+Alex Oxlade-Chamberlain,2021-12-01,Wed,14,Away,W 4–1,Liverpool,Everton,N,CM,8.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,4.0,1.0,25.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Curtis Jones,2021-08-21,Sat,2,Home,W 2–0,Liverpool,Burnley,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Curtis Jones,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Curtis Jones,2021-09-12,Sun,4,Away,W 3–0,Liverpool,Leeds United,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Curtis Jones,2021-09-18,Sat,5,Home,W 3–0,Liverpool,Crystal Palace,N,"LW,CM",15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Curtis Jones,2021-09-25,Sat,6,Away,D 3–3,Liverpool,Brentford,Y,CM,67.0,2.0,1.0,0.0,2.0,0.0,0.0,0.0,,0.0,13.0,4.0,30.8,2.0,10.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,
+Curtis Jones,2021-10-03,Sun,7,Home,D 2–2,Liverpool,Manchester City,Y,CM,90.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,,0.0,33.0,5.0,15.2,5.0,23.0,5.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,
+Curtis Jones,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Curtis Jones,2021-10-24,Sun,9,Away,W 5–0,Liverpool,Manchester Utd,N,CM,64.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,16.0,3.0,18.8,4.0,8.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Curtis Jones,2021-10-30,Sat,10,Home,D 2–2,Liverpool,Brighton,Y,CM,86.0,2.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,2.0,21.0,6.0,28.6,4.0,14.0,3.0,1.0,0.0,0.0,1.0,0.0,2.0,1.0,0.0,
+Curtis Jones,2021-08-21,Sat,2,Home,W 2–0,Liverpool,Burnley,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Curtis Jones,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Curtis Jones,2021-09-12,Sun,4,Away,W 3–0,Liverpool,Leeds United,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Curtis Jones,2021-09-18,Sat,5,Home,W 3–0,Liverpool,Crystal Palace,N,"LW,CM",15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Curtis Jones,2021-09-25,Sat,6,Away,D 3–3,Liverpool,Brentford,Y,CM,67.0,2.0,1.0,0.0,2.0,0.0,0.0,0.0,,0.0,13.0,4.0,30.8,2.0,10.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,
+Curtis Jones,2021-10-03,Sun,7,Home,D 2–2,Liverpool,Manchester City,Y,CM,90.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,,0.0,33.0,5.0,15.2,5.0,23.0,5.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,
+Curtis Jones,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Curtis Jones,2021-10-24,Sun,9,Away,W 5–0,Liverpool,Manchester Utd,N,CM,64.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,16.0,3.0,18.8,4.0,8.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Curtis Jones,2021-10-30,Sat,10,Home,D 2–2,Liverpool,Brighton,Y,CM,86.0,2.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,2.0,21.0,6.0,28.6,4.0,14.0,3.0,1.0,0.0,0.0,1.0,0.0,2.0,1.0,0.0,
+Caoimhín Kelleher,2021-08-14,Sat,1,Away,W 3–0,Liverpool,Norwich City,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Caoimhín Kelleher,2021-08-21,Sat,2,Home,W 2–0,Liverpool,Burnley,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Caoimhín Kelleher,2021-08-28,Sat,3,Home,D 1–1,Liverpool,Chelsea,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Caoimhín Kelleher,2021-09-12,Sun,4,Away,W 3–0,Liverpool,Leeds United,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Caoimhín Kelleher,2021-09-18,Sat,5,Home,W 3–0,Liverpool,Crystal Palace,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Caoimhín Kelleher,2021-09-25,Sat,6,Away,D 3–3,Liverpool,Brentford,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Caoimhín Kelleher,2021-10-03,Sun,7,Home,D 2–2,Liverpool,Manchester City,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Caoimhín Kelleher,2021-10-16,Sat,8,Away,W 5–0,Liverpool,Watford,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Caoimhín Kelleher,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Caoimhín Kelleher,2021-11-07,Sun,11,Away,L 2–3,Liverpool,West Ham,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Caoimhín Kelleher,2021-11-20,Sat,12,Home,W 4–0,Liverpool,Arsenal,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Caoimhín Kelleher,2021-11-27,Sat,13,Home,W 4–0,Liverpool,Southampton,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Caoimhín Kelleher,2021-12-01,Wed,14,Away,W 4–1,Liverpool,Everton,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Takumi Minamino,2021-08-14,Sat,1,Away,W 3–0,Liverpool,Norwich City,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Takumi Minamino,2021-08-21,Sat,2,Home,W 2–0,Liverpool,Burnley,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Takumi Minamino,2021-08-28,Sat,3,Home,D 1–1,Liverpool,Chelsea,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Takumi Minamino,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Takumi Minamino,2021-09-18,Sat,5,Home,W 3–0,Liverpool,Crystal Palace,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Takumi Minamino,2021-09-25,Sat,6,Away,D 3–3,Liverpool,Brentford,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Takumi Minamino,2021-10-03,Sun,7,Home,D 2–2,Liverpool,Manchester City,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Takumi Minamino,2021-10-16,Sat,8,Away,W 5–0,Liverpool,Watford,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Takumi Minamino,2021-10-24,Sun,9,Away,W 5–0,Liverpool,Manchester Utd,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Takumi Minamino,2021-10-30,Sat,10,Home,D 2–2,Liverpool,Brighton,N,CM,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,2.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Takumi Minamino,2021-11-07,Sun,11,Away,L 2–3,Liverpool,West Ham,N,DM,11.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,,0.0,4.0,2.0,50.0,1.0,3.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,
+Takumi Minamino,2021-11-20,Sat,12,Home,W 4–0,Liverpool,Arsenal,N,FW,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,3.0,1.0,33.3,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Takumi Minamino,2021-11-27,Sat,13,Home,W 4–0,Liverpool,Southampton,N,FW,10.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,3.0,9.0,7.0,77.8,0.0,5.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Takumi Minamino,2021-12-01,Wed,14,Away,W 4–1,Liverpool,Everton,N,FW,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,1.0,1.0,100.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Divock Origi,2021-08-14,Sat,1,Away,W 3–0,Liverpool,Norwich City,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Divock Origi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Divock Origi,2021-09-18,Sat,5,Home,W 3–0,Liverpool,Crystal Palace,N,LW,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,2.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,
+Divock Origi,2021-09-25,Sat,6,Away,D 3–3,Liverpool,Brentford,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Divock Origi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Divock Origi,2021-10-16,Sat,8,Away,W 5–0,Liverpool,Watford,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Divock Origi,2021-10-24,Sun,9,Away,W 5–0,Liverpool,Manchester Utd,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Divock Origi,2021-10-30,Sat,10,Home,D 2–2,Liverpool,Brighton,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Divock Origi,2021-11-07,Sun,11,Away,L 2–3,Liverpool,West Ham,N,FW,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,3.0,1.0,33.3,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Divock Origi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Divock Origi,2021-11-27,Sat,13,Home,W 4–0,Liverpool,Southampton,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Divock Origi,2021-12-01,Wed,14,Away,W 4–1,Liverpool,Everton,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Joe Gomez,2021-08-14,Sat,1,Away,W 3–0,Liverpool,Norwich City,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Joe Gomez,2021-08-21,Sat,2,Home,W 2–0,Liverpool,Burnley,N,LB,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Joe Gomez,2021-08-28,Sat,3,Home,D 1–1,Liverpool,Chelsea,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Joe Gomez,2021-09-12,Sun,4,Away,W 3–0,Liverpool,Leeds United,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Joe Gomez,2021-09-18,Sat,5,Home,W 3–0,Liverpool,Crystal Palace,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Joe Gomez,2021-09-25,Sat,6,Away,D 3–3,Liverpool,Brentford,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Joe Gomez,2021-10-03,Sun,7,Home,D 2–2,Liverpool,Manchester City,N,RB,13.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,
+Joe Gomez,2021-10-16,Sat,8,Away,W 5–0,Liverpool,Watford,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Joe Gomez,2021-10-24,Sun,9,Away,W 5–0,Liverpool,Manchester Utd,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Joe Gomez,2021-10-30,Sat,10,Home,D 2–2,Liverpool,Brighton,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Neco Williams,2021-10-03,Sun,7,Home,D 2–2,Liverpool,Manchester City,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Neco Williams,2021-10-16,Sat,8,Away,W 5–0,Liverpool,Watford,N,RB,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Neco Williams,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Neco Williams,2021-11-07,Sun,11,Away,L 2–3,Liverpool,West Ham,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Neco Williams,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Neco Williams,2021-11-27,Sat,13,Home,W 4–0,Liverpool,Southampton,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Neco Williams,2021-12-01,Wed,14,Away,W 4–1,Liverpool,Everton,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Tyler Morton,2021-10-30,Sat,10,Home,D 2–2,Liverpool,Brighton,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Tyler Morton,2021-11-07,Sun,11,Away,L 2–3,Liverpool,West Ham,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Tyler Morton,2021-11-20,Sat,12,Home,W 4–0,Liverpool,Arsenal,N,CM,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,2.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Tyler Morton,2021-11-27,Sat,13,Home,W 4–0,Liverpool,Southampton,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Tyler Morton,2021-12-01,Wed,14,Away,W 4–1,Liverpool,Everton,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"

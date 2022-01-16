@@ -1,0 +1,24 @@
+player,nationality,position,age,minutes_90s,sca,sca_per90,sca_passes_live,sca_passes_dead,sca_dribbles,sca_shots,sca_fouled,sca_defense,gca,gca_per90,gca_passes_live,gca_passes_dead,gca_dribbles,gca_shots,gca_fouled,gca_defense,matches
+"Gea, David",ESP,GK,31.0,13.0,2.0,0.15,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/7ba6d84e/matchlogs/2021-2022/gca/David-de-Gea-Match-Logs
+"Wan-Bissaka, Aaron",ENG,DF,24.0,13.0,21.0,1.62,17.0,0.0,2.0,1.0,1.0,0.0,1.0,0.08,1.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/9e525177/matchlogs/2021-2022/gca/Aaron-Wan-Bissaka-Match-Logs
+"Fernandes, Bruno",POR,MF,27.0,12.4,56.0,4.51,46.0,7.0,0.0,2.0,1.0,0.0,4.0,0.32,4.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/507c7bdf/matchlogs/2021-2022/gca/Bruno-Fernandes-Match-Logs
+"Shaw, Luke",ENG,DF,26.0,11.1,37.0,3.33,21.0,16.0,0.0,0.0,0.0,0.0,4.0,0.36,4.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/9c94165b/matchlogs/2021-2022/gca/Luke-Shaw-Match-Logs
+"Maguire, Harry",ENG,DF,28.0,10.5,5.0,0.48,1.0,1.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/d8931174/matchlogs/2021-2022/gca/Harry-Maguire-Match-Logs
+Fred,BRA,MF,28.0,9.4,14.0,1.48,11.0,0.0,0.0,0.0,1.0,2.0,1.0,0.11,1.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/b853e0ad/matchlogs/2021-2022/gca/Fred-Match-Logs
+"Greenwood, Mason",ENG,FW,20.0,8.8,30.0,3.4,24.0,0.0,3.0,1.0,2.0,0.0,5.0,0.57,4.0,0.0,0.0,1.0,0.0,0.0,https://fbref.com/en/players/58eee997/matchlogs/2021-2022/gca/Mason-Greenwood-Match-Logs
+"Lindelöf, Victor",SWE,DF,27.0,9.3,4.0,0.43,4.0,0.0,0.0,0.0,0.0,0.0,2.0,0.22,2.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/f5deef4c/matchlogs/2021-2022/gca/Victor-Lindelof-Match-Logs
+"McTominay, Scott",SCO,MF,24.0,8.4,11.0,1.3,11.0,0.0,0.0,0.0,0.0,0.0,3.0,0.36,3.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/d93c2511/matchlogs/2021-2022/gca/Scott-McTominay-Match-Logs
+"Ronaldo, Cristiano",POR,FW,36.0,8.5,22.0,2.6,15.0,0.0,3.0,2.0,2.0,0.0,4.0,0.47,2.0,0.0,1.0,1.0,0.0,0.0,https://fbref.com/en/players/dea698d9/matchlogs/2021-2022/gca/Cristiano-Ronaldo-Match-Logs
+"Pogba, Paul",FRA,"MF,FW",28.0,7.0,30.0,4.28,25.0,0.0,2.0,1.0,2.0,0.0,8.0,1.14,8.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/867239d3/matchlogs/2021-2022/gca/Paul-Pogba-Match-Logs
+"Varane, Raphaël",FRA,DF,28.0,6.0,5.0,0.83,4.0,0.0,0.0,0.0,0.0,1.0,1.0,0.17,1.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/9f8e9423/matchlogs/2021-2022/gca/Raphael-Varane-Match-Logs
+"Sancho, Jadon",ENG,FW,21.0,5.5,25.0,4.53,20.0,1.0,3.0,1.0,0.0,0.0,2.0,0.36,1.0,0.0,1.0,0.0,0.0,0.0,https://fbref.com/en/players/dbf053da/matchlogs/2021-2022/gca/Jadon-Sancho-Match-Logs
+"Matić, Nemanja",SRB,MF,33.0,5.3,11.0,2.09,10.0,0.0,0.0,0.0,0.0,1.0,2.0,0.38,2.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/eb7822d7/matchlogs/2021-2022/gca/Nemanja-Matic-Match-Logs
+"Rashford, Marcus",ENG,FW,24.0,2.8,2.0,0.71,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/a1d5bd30/matchlogs/2021-2022/gca/Marcus-Rashford-Match-Logs
+"Cavani, Edinson",URU,FW,34.0,2.4,2.0,0.85,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/527f063d/matchlogs/2021-2022/gca/Edinson-Cavani-Match-Logs
+"Martial, Anthony",FRA,FW,25.0,2.2,2.0,0.9,2.0,0.0,0.0,0.0,0.0,0.0,1.0,0.45,1.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/8b788c01/matchlogs/2021-2022/gca/Anthony-Martial-Match-Logs
+"Bailly, Eric",CIV,DF,27.0,1.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/a1232f4e/matchlogs/2021-2022/gca/Eric-Bailly-Match-Logs
+"James, Daniel",WAL,FW,24.0,1.4,3.0,2.14,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/c931d9f9/matchlogs/2021-2022/gca/Daniel-James-Match-Logs
+"Telles, Alex",BRA,DF,28.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/e73c9bb2/matchlogs/2021-2022/gca/Alex-Telles-Match-Logs
+"Dalot, Diogo",POR,DF,22.0,1.0,2.0,1.94,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/d9565625/matchlogs/2021-2022/gca/Diogo-Dalot-Match-Logs
+"Lingard, Jesse",ENG,FW,28.0,0.9,4.0,4.34,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/810e3c74/matchlogs/2021-2022/gca/Jesse-Lingard-Match-Logs
+"Beek, Donny van",NED,MF,24.0,0.7,4.0,5.63,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/50dc94ce/matchlogs/2021-2022/gca/Donny-van-de-Beek-Match-Logs

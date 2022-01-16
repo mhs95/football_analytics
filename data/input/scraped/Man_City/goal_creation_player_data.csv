@@ -1,0 +1,276 @@
+name,date,dayofweek,round,venue,result,squad,opponent,game_started,position,minutes,sca,sca_passes_live,sca_passes_dead,sca_dribbles,sca_shots,sca_fouled,sca_defense,gca,gca_passes_live,gca_passes_dead,gca_dribbles,gca_shots,gca_fouled,gca_defense,bench_explain
+João Cancelo,2021-08-15,Sun,1,Away,L 0–1,Manchester City,Tottenham,Y,RB,90.0,4.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+João Cancelo,2021-08-21,Sat,2,Home,W 5–0,Manchester City,Norwich City,Y,LB,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+João Cancelo,2021-08-28,Sat,3,Home,W 5–0,Manchester City,Arsenal,Y,"RB,LB",90.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+João Cancelo,2021-09-11,Sat,4,Away,W 1–0,Manchester City,Leicester City,Y,LB,90.0,2.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,
+João Cancelo,2021-09-18,Sat,5,Home,D 0–0,Manchester City,Southampton,Y,LB,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+João Cancelo,2021-09-25,Sat,6,Away,W 1–0,Manchester City,Chelsea,Y,LB,90.0,2.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,
+João Cancelo,2021-10-03,Sun,7,Away,D 2–2,Manchester City,Liverpool,Y,LB,90.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+João Cancelo,2021-10-16,Sat,8,Home,W 2–0,Manchester City,Burnley,Y,RB,90.0,5.0,4.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+João Cancelo,2021-10-23,Sat,9,Away,W 4–1,Manchester City,Brighton,Y,LB,90.0,5.0,4.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+João Cancelo,2021-10-30,Sat,10,Home,L 0–2,Manchester City,Crystal Palace,Y,"LB,WB",77.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+João Cancelo,2021-11-06,Sat,11,Away,W 2–0,Manchester City,Manchester Utd,Y,LB,90.0,2.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+João Cancelo,2021-11-21,Sun,12,Home,W 3–0,Manchester City,Everton,Y,LB,90.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+João Cancelo,2021-11-28,Sun,13,Home,W 2–1,Manchester City,West Ham,Y,LB,90.0,4.0,3.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+João Cancelo,2021-12-01,Wed,14,Away,W 2–1,Manchester City,Aston Villa,Y,RB,90.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Ederson,2021-08-15,Sun,1,Away,L 0–1,Manchester City,Tottenham,Y,GK,90.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Ederson,2021-08-21,Sat,2,Home,W 5–0,Manchester City,Norwich City,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Ederson,2021-08-28,Sat,3,Home,W 5–0,Manchester City,Arsenal,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Ederson,2021-09-11,Sat,4,Away,W 1–0,Manchester City,Leicester City,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Ederson,2021-09-18,Sat,5,Home,D 0–0,Manchester City,Southampton,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Ederson,2021-09-25,Sat,6,Away,W 1–0,Manchester City,Chelsea,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Ederson,2021-10-03,Sun,7,Away,D 2–2,Manchester City,Liverpool,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Ederson,,,,,,,,,,,,,,,,,,,,,,,,,
+Ederson,2021-10-23,Sat,9,Away,W 4–1,Manchester City,Brighton,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Ederson,2021-10-30,Sat,10,Home,L 0–2,Manchester City,Crystal Palace,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Ederson,2021-11-06,Sat,11,Away,W 2–0,Manchester City,Manchester Utd,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Ederson,2021-11-21,Sun,12,Home,W 3–0,Manchester City,Everton,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Ederson,2021-11-28,Sun,13,Home,W 2–1,Manchester City,West Ham,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Ederson,2021-12-01,Wed,14,Away,W 2–1,Manchester City,Aston Villa,Y,GK,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Bernardo Silva,2021-08-15,Sun,1,Away,L 0–1,Manchester City,Tottenham,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Bernardo Silva,2021-08-21,Sat,2,Home,W 5–0,Manchester City,Norwich City,Y,CM,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Bernardo Silva,2021-08-28,Sat,3,Home,W 5–0,Manchester City,Arsenal,Y,CM,57.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Bernardo Silva,2021-09-11,Sat,4,Away,W 1–0,Manchester City,Leicester City,Y,"CM,RW",90.0,6.0,4.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Bernardo Silva,2021-09-18,Sat,5,Home,D 0–0,Manchester City,Southampton,Y,CM,71.0,3.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Bernardo Silva,2021-09-25,Sat,6,Away,W 1–0,Manchester City,Chelsea,Y,CM,90.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Bernardo Silva,2021-10-03,Sun,7,Away,D 2–2,Manchester City,Liverpool,Y,CM,90.0,6.0,4.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Bernardo Silva,2021-10-16,Sat,8,Home,W 2–0,Manchester City,Burnley,Y,CM,89.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Bernardo Silva,2021-10-23,Sat,9,Away,W 4–1,Manchester City,Brighton,Y,"CM,AM",90.0,6.0,4.0,0.0,1.0,1.0,0.0,0.0,2.0,1.0,0.0,0.0,1.0,0.0,0.0,
+Bernardo Silva,2021-10-30,Sat,10,Home,L 0–2,Manchester City,Crystal Palace,Y,"CM,DM",90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Bernardo Silva,2021-11-06,Sat,11,Away,W 2–0,Manchester City,Manchester Utd,Y,FW,90.0,4.0,3.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Bernardo Silva,2021-11-21,Sun,12,Home,W 3–0,Manchester City,Everton,Y,CM,90.0,2.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Bernardo Silva,2021-11-28,Sun,13,Home,W 2–1,Manchester City,West Ham,Y,"CM,FW",90.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Bernardo Silva,2021-12-01,Wed,14,Away,W 2–1,Manchester City,Aston Villa,Y,AM,90.0,2.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Rúben Dias,2021-08-15,Sun,1,Away,L 0–1,Manchester City,Tottenham,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Rúben Dias,2021-08-21,Sat,2,Home,W 5–0,Manchester City,Norwich City,Y,CB,90.0,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Rúben Dias,2021-08-28,Sat,3,Home,W 5–0,Manchester City,Arsenal,Y,CB,90.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Rúben Dias,2021-09-11,Sat,4,Away,W 1–0,Manchester City,Leicester City,Y,CB,90.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Rúben Dias,2021-09-18,Sat,5,Home,D 0–0,Manchester City,Southampton,Y,CB,90.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Rúben Dias,2021-09-25,Sat,6,Away,W 1–0,Manchester City,Chelsea,Y*,CB,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Rúben Dias,2021-10-03,Sun,7,Away,D 2–2,Manchester City,Liverpool,Y*,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Rúben Dias,2021-10-16,Sat,8,Home,W 2–0,Manchester City,Burnley,N,CB,19.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Rúben Dias,2021-10-23,Sat,9,Away,W 4–1,Manchester City,Brighton,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Rúben Dias,2021-10-30,Sat,10,Home,L 0–2,Manchester City,Crystal Palace,Y*,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Rúben Dias,2021-11-06,Sat,11,Away,W 2–0,Manchester City,Manchester Utd,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Rúben Dias,2021-11-21,Sun,12,Home,W 3–0,Manchester City,Everton,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Rúben Dias,2021-11-28,Sun,13,Home,W 2–1,Manchester City,West Ham,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Rúben Dias,2021-12-01,Wed,14,Away,W 2–1,Manchester City,Aston Villa,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Rodri,2021-08-15,Sun,1,Away,L 0–1,Manchester City,Tottenham,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Rodri,2021-08-21,Sat,2,Home,W 5–0,Manchester City,Norwich City,Y,DM,90.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Rodri,2021-08-28,Sat,3,Home,W 5–0,Manchester City,Arsenal,Y,DM,90.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Rodri,2021-09-11,Sat,4,Away,W 1–0,Manchester City,Leicester City,Y,DM,90.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Rodri,,,,,,,,,,,,,,,,,,,,,,,,,
+Rodri,2021-09-25,Sat,6,Away,W 1–0,Manchester City,Chelsea,Y,DM,90.0,3.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Rodri,2021-10-03,Sun,7,Away,D 2–2,Manchester City,Liverpool,Y,DM,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Rodri,2021-10-16,Sat,8,Home,W 2–0,Manchester City,Burnley,Y,DM,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Rodri,2021-10-23,Sat,9,Away,W 4–1,Manchester City,Brighton,Y,DM,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Rodri,2021-10-30,Sat,10,Home,L 0–2,Manchester City,Crystal Palace,Y,DM,90.0,5.0,4.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Rodri,2021-11-06,Sat,11,Away,W 2–0,Manchester City,Manchester Utd,Y,DM,90.0,2.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Rodri,2021-11-21,Sun,12,Home,W 3–0,Manchester City,Everton,Y,DM,90.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Rodri,2021-11-28,Sun,13,Home,W 2–1,Manchester City,West Ham,Y,DM,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Rodri,2021-12-01,Wed,14,Away,W 2–1,Manchester City,Aston Villa,Y,DM,90.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kyle Walker,2021-08-15,Sun,1,Away,L 0–1,Manchester City,Tottenham,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Kyle Walker,2021-08-21,Sat,2,Home,W 5–0,Manchester City,Norwich City,Y,RB,90.0,5.0,4.0,0.0,0.0,1.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,
+Kyle Walker,2021-08-28,Sat,3,Home,W 5–0,Manchester City,Arsenal,Y,RB,45.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kyle Walker,2021-09-11,Sat,4,Away,W 1–0,Manchester City,Leicester City,Y,RB,90.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kyle Walker,2021-09-18,Sat,5,Home,D 0–0,Manchester City,Southampton,Y,RB,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kyle Walker,2021-09-25,Sat,6,Away,W 1–0,Manchester City,Chelsea,Y,RB,90.0,3.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kyle Walker,2021-10-03,Sun,7,Away,D 2–2,Manchester City,Liverpool,Y,RB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kyle Walker,2021-10-16,Sat,8,Home,W 2–0,Manchester City,Burnley,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Kyle Walker,2021-10-23,Sat,9,Away,W 4–1,Manchester City,Brighton,Y,RB,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kyle Walker,2021-10-30,Sat,10,Home,L 0–2,Manchester City,Crystal Palace,Y,"RB,CB",90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kyle Walker,2021-11-06,Sat,11,Away,W 2–0,Manchester City,Manchester Utd,Y,RB,90.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kyle Walker,2021-11-21,Sun,12,Home,W 3–0,Manchester City,Everton,Y,RB,90.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kyle Walker,2021-11-28,Sun,13,Home,W 2–1,Manchester City,West Ham,Y,RB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Gabriel Jesus,2021-08-15,Sun,1,Away,L 0–1,Manchester City,Tottenham,N,"FW,LW",21.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Gabriel Jesus,2021-08-21,Sat,2,Home,W 5–0,Manchester City,Norwich City,Y,"RW,LW",90.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,
+Gabriel Jesus,2021-08-28,Sat,3,Home,W 5–0,Manchester City,Arsenal,Y,RW,60.0,6.0,6.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,
+Gabriel Jesus,2021-09-11,Sat,4,Away,W 1–0,Manchester City,Leicester City,Y,RW,83.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Gabriel Jesus,2021-09-18,Sat,5,Home,D 0–0,Manchester City,Southampton,Y,RW,66.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Gabriel Jesus,2021-09-25,Sat,6,Away,W 1–0,Manchester City,Chelsea,Y,"RW,FW",90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Gabriel Jesus,2021-10-03,Sun,7,Away,D 2–2,Manchester City,Liverpool,Y,RW,90.0,5.0,4.0,0.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,
+Gabriel Jesus,,,,,,,,,,,,,,,,,,,,,,,,,
+Gabriel Jesus,2021-10-23,Sat,9,Away,W 4–1,Manchester City,Brighton,Y,RW,86.0,4.0,2.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,
+Gabriel Jesus,2021-10-30,Sat,10,Home,L 0–2,Manchester City,Crystal Palace,Y,"RW,AM",90.0,3.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Gabriel Jesus,2021-11-06,Sat,11,Away,W 2–0,Manchester City,Manchester Utd,Y,RW,90.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Gabriel Jesus,2021-11-21,Sun,12,Home,W 3–0,Manchester City,Everton,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Gabriel Jesus,2021-11-28,Sun,13,Home,W 2–1,Manchester City,West Ham,Y,"FW,RW,LW",90.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Gabriel Jesus,2021-12-01,Wed,14,Away,W 2–1,Manchester City,Aston Villa,Y,FW,86.0,3.0,1.0,0.0,2.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Aymeric Laporte,2021-08-15,Sun,1,Away,L 0–1,Manchester City,Tottenham,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Aymeric Laporte,2021-08-21,Sat,2,Home,W 5–0,Manchester City,Norwich City,Y,CB,90.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Aymeric Laporte,2021-08-28,Sat,3,Home,W 5–0,Manchester City,Arsenal,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Aymeric Laporte,2021-09-11,Sat,4,Away,W 1–0,Manchester City,Leicester City,Y,CB,90.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Aymeric Laporte,,,,,,,,,,,,,,,,,,,,,,,,,
+Aymeric Laporte,2021-09-25,Sat,6,Away,W 1–0,Manchester City,Chelsea,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Aymeric Laporte,2021-10-03,Sun,7,Away,D 2–2,Manchester City,Liverpool,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Aymeric Laporte,2021-10-16,Sat,8,Home,W 2–0,Manchester City,Burnley,Y,CB,71.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Aymeric Laporte,2021-10-23,Sat,9,Away,W 4–1,Manchester City,Brighton,Y,CB,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Aymeric Laporte,2021-10-30,Sat,10,Home,L 0–2,Manchester City,Crystal Palace,Y,"CB,WB",44.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Aymeric Laporte,,,,,,,,,,,,,,,,,,,,,,,,,
+Aymeric Laporte,2021-11-21,Sun,12,Home,W 3–0,Manchester City,Everton,Y,CB,75.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Aymeric Laporte,2021-11-28,Sun,13,Home,W 2–1,Manchester City,West Ham,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+İlkay Gündoğan,2021-08-15,Sun,1,Away,L 0–1,Manchester City,Tottenham,Y,CM,90.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+İlkay Gündoğan,2021-08-21,Sat,2,Home,W 5–0,Manchester City,Norwich City,Y*,CM,68.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+İlkay Gündoğan,2021-08-28,Sat,3,Home,W 5–0,Manchester City,Arsenal,Y*,CM,90.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+İlkay Gündoğan,2021-09-11,Sat,4,Away,W 1–0,Manchester City,Leicester City,Y*,CM,90.0,4.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+İlkay Gündoğan,2021-09-18,Sat,5,Home,D 0–0,Manchester City,Southampton,Y,CM,90.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+İlkay Gündoğan,,,,,,,,,,,,,,,,,,,,,,,,,
+İlkay Gündoğan,2021-10-16,Sat,8,Home,W 2–0,Manchester City,Burnley,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+İlkay Gündoğan,2021-10-23,Sat,9,Away,W 4–1,Manchester City,Brighton,Y*,CM,74.0,5.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+İlkay Gündoğan,2021-10-30,Sat,10,Home,L 0–2,Manchester City,Crystal Palace,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+İlkay Gündoğan,2021-11-06,Sat,11,Away,W 2–0,Manchester City,Manchester Utd,Y*,CM,90.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+İlkay Gündoğan,2021-11-21,Sun,12,Home,W 3–0,Manchester City,Everton,Y*,CM,90.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+İlkay Gündoğan,2021-11-28,Sun,13,Home,W 2–1,Manchester City,West Ham,Y*,CM,90.0,7.0,5.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Jack Grealish,2021-08-15,Sun,1,Away,L 0–1,Manchester City,Tottenham,Y,"CM,LW",90.0,5.0,3.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Jack Grealish,2021-08-21,Sat,2,Home,W 5–0,Manchester City,Norwich City,Y,LW,74.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Jack Grealish,2021-08-28,Sat,3,Home,W 5–0,Manchester City,Arsenal,Y,LW,90.0,7.0,7.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Jack Grealish,2021-09-11,Sat,4,Away,W 1–0,Manchester City,Leicester City,Y,LW,90.0,9.0,8.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Jack Grealish,2021-09-18,Sat,5,Home,D 0–0,Manchester City,Southampton,Y,LW,90.0,6.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Jack Grealish,2021-09-25,Sat,6,Away,W 1–0,Manchester City,Chelsea,Y,LW,86.0,6.0,3.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Jack Grealish,2021-10-03,Sun,7,Away,D 2–2,Manchester City,Liverpool,Y,FW,65.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Jack Grealish,2021-10-16,Sat,8,Home,W 2–0,Manchester City,Burnley,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Jack Grealish,2021-10-23,Sat,9,Away,W 4–1,Manchester City,Brighton,Y,LW,76.0,7.0,4.0,0.0,0.0,2.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Jack Grealish,2021-10-30,Sat,10,Home,L 0–2,Manchester City,Crystal Palace,Y,"LW,AM",77.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Jack Grealish,2021-11-06,Sat,11,Away,W 2–0,Manchester City,Manchester Utd,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Jack Grealish,,,,,,,,,,,,,,,,,,,,,,,,,
+Jack Grealish,2021-12-01,Wed,14,Away,W 2–1,Manchester City,Aston Villa,N,FW,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Phil Foden,2021-09-11,Sat,4,Away,W 1–0,Manchester City,Leicester City,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Phil Foden,2021-09-18,Sat,5,Home,D 0–0,Manchester City,Southampton,N,CM,19.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Phil Foden,2021-09-25,Sat,6,Away,W 1–0,Manchester City,Chelsea,Y,"FW,CM",86.0,4.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Phil Foden,2021-10-03,Sun,7,Away,D 2–2,Manchester City,Liverpool,Y,LW,90.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Phil Foden,2021-10-16,Sat,8,Home,W 2–0,Manchester City,Burnley,Y,"FW,LW",90.0,3.0,2.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,
+Phil Foden,2021-10-23,Sat,9,Away,W 4–1,Manchester City,Brighton,Y,"FW,LW",90.0,3.0,2.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Phil Foden,2021-10-30,Sat,10,Home,L 0–2,Manchester City,Crystal Palace,Y,FW,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Phil Foden,2021-11-06,Sat,11,Away,W 2–0,Manchester City,Manchester Utd,Y,LW,90.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Phil Foden,2021-11-21,Sun,12,Home,W 3–0,Manchester City,Everton,Y,LW,57.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Phil Foden,,,,,,,,,,,,,,,,,,,,,,,,,
+Phil Foden,2021-12-01,Wed,14,Away,W 2–1,Manchester City,Aston Villa,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Raheem Sterling,2021-08-15,Sun,1,Away,L 0–1,Manchester City,Tottenham,Y,LW,69.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Raheem Sterling,2021-08-21,Sat,2,Home,W 5–0,Manchester City,Norwich City,N,FW,30.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Raheem Sterling,2021-08-28,Sat,3,Home,W 5–0,Manchester City,Arsenal,N,CM,33.0,3.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Raheem Sterling,2021-09-11,Sat,4,Away,W 1–0,Manchester City,Leicester City,N,FW,27.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Raheem Sterling,2021-09-18,Sat,5,Home,D 0–0,Manchester City,Southampton,Y,FW,90.0,4.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Raheem Sterling,2021-09-25,Sat,6,Away,W 1–0,Manchester City,Chelsea,N,LW,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Raheem Sterling,2021-10-03,Sun,7,Away,D 2–2,Manchester City,Liverpool,N,FW,25.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Raheem Sterling,2021-10-16,Sat,8,Home,W 2–0,Manchester City,Burnley,Y,"LW,FW",90.0,3.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Raheem Sterling,,,,,,,,,,,,,,,,,,,,,,,,,
+Raheem Sterling,2021-10-30,Sat,10,Home,L 0–2,Manchester City,Crystal Palace,N,AM,13.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Raheem Sterling,2021-11-06,Sat,11,Away,W 2–0,Manchester City,Manchester Utd,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Raheem Sterling,2021-11-21,Sun,12,Home,W 3–0,Manchester City,Everton,Y,"RW,LW",90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Raheem Sterling,2021-11-28,Sun,13,Home,W 2–1,Manchester City,West Ham,Y,LW,86.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Raheem Sterling,2021-12-01,Wed,14,Away,W 2–1,Manchester City,Aston Villa,Y,LW,90.0,7.0,6.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Kevin De Bruyne,2021-08-15,Sun,1,Away,L 0–1,Manchester City,Tottenham,N,CM,12.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kevin De Bruyne,,,,,,,,,,,,,,,,,,,,,,,,,
+Kevin De Bruyne,2021-09-11,Sat,4,Away,W 1–0,Manchester City,Leicester City,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Kevin De Bruyne,2021-09-18,Sat,5,Home,D 0–0,Manchester City,Southampton,N,DM,26.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kevin De Bruyne,2021-09-25,Sat,6,Away,W 1–0,Manchester City,Chelsea,Y,CM,80.0,4.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kevin De Bruyne,2021-10-03,Sun,7,Away,D 2–2,Manchester City,Liverpool,Y,CM,90.0,4.0,3.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kevin De Bruyne,2021-10-16,Sat,8,Home,W 2–0,Manchester City,Burnley,Y*,CM,83.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kevin De Bruyne,2021-10-23,Sat,9,Away,W 4–1,Manchester City,Brighton,N,"FW,LW",14.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kevin De Bruyne,2021-10-30,Sat,10,Home,L 0–2,Manchester City,Crystal Palace,Y,CM,58.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kevin De Bruyne,2021-11-06,Sat,11,Away,W 2–0,Manchester City,Manchester Utd,Y,CM,90.0,6.0,4.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Riyad Mahrez,2021-08-15,Sun,1,Away,L 0–1,Manchester City,Tottenham,Y,RW,78.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Riyad Mahrez,2021-08-21,Sat,2,Home,W 5–0,Manchester City,Norwich City,N,RW,16.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Riyad Mahrez,2021-08-28,Sat,3,Home,W 5–0,Manchester City,Arsenal,N,RW,30.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Riyad Mahrez,2021-09-11,Sat,4,Away,W 1–0,Manchester City,Leicester City,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Riyad Mahrez,2021-09-18,Sat,5,Home,D 0–0,Manchester City,Southampton,N,RW,24.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Riyad Mahrez,2021-09-25,Sat,6,Away,W 1–0,Manchester City,Chelsea,N,RW,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Riyad Mahrez,2021-10-03,Sun,7,Away,D 2–2,Manchester City,Liverpool,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Riyad Mahrez,2021-10-16,Sat,8,Home,W 2–0,Manchester City,Burnley,Y,RW,90.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Riyad Mahrez,2021-10-23,Sat,9,Away,W 4–1,Manchester City,Brighton,N,RW,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Riyad Mahrez,2021-10-30,Sat,10,Home,L 0–2,Manchester City,Crystal Palace,N,WB,13.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Riyad Mahrez,2021-11-06,Sat,11,Away,W 2–0,Manchester City,Manchester Utd,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Riyad Mahrez,2021-11-21,Sun,12,Home,W 3–0,Manchester City,Everton,N,RW,33.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Riyad Mahrez,2021-11-28,Sun,13,Home,W 2–1,Manchester City,West Ham,Y,"RW,FW",90.0,4.0,2.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,
+Riyad Mahrez,2021-12-01,Wed,14,Away,W 2–1,Manchester City,Aston Villa,Y,RW,90.0,3.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Nathan Aké,2021-08-15,Sun,1,Away,L 0–1,Manchester City,Tottenham,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Nathan Aké,2021-08-21,Sat,2,Home,W 5–0,Manchester City,Norwich City,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Nathan Aké,2021-08-28,Sat,3,Home,W 5–0,Manchester City,Arsenal,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Nathan Aké,2021-09-11,Sat,4,Away,W 1–0,Manchester City,Leicester City,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Nathan Aké,2021-09-18,Sat,5,Home,D 0–0,Manchester City,Southampton,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Nathan Aké,2021-09-25,Sat,6,Away,W 1–0,Manchester City,Chelsea,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Nathan Aké,2021-10-03,Sun,7,Away,D 2–2,Manchester City,Liverpool,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Nathan Aké,2021-10-16,Sat,8,Home,W 2–0,Manchester City,Burnley,Y,LB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Nathan Aké,2021-10-23,Sat,9,Away,W 4–1,Manchester City,Brighton,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Nathan Aké,2021-10-30,Sat,10,Home,L 0–2,Manchester City,Crystal Palace,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Nathan Aké,2021-11-06,Sat,11,Away,W 2–0,Manchester City,Manchester Utd,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Nathan Aké,2021-11-21,Sun,12,Home,W 3–0,Manchester City,Everton,N,CB,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Nathan Aké,2021-11-28,Sun,13,Home,W 2–1,Manchester City,West Ham,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Nathan Aké,2021-12-01,Wed,14,Away,W 2–1,Manchester City,Aston Villa,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Ferrán Torres,2021-08-15,Sun,1,Away,L 0–1,Manchester City,Tottenham,Y,"FW,RW",90.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Ferrán Torres,2021-08-21,Sat,2,Home,W 5–0,Manchester City,Norwich City,Y,FW,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Ferrán Torres,2021-08-28,Sat,3,Home,W 5–0,Manchester City,Arsenal,Y,FW,90.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,
+Ferrán Torres,2021-09-11,Sat,4,Away,W 1–0,Manchester City,Leicester City,Y,FW,63.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Ferrán Torres,2021-09-18,Sat,5,Home,D 0–0,Manchester City,Southampton,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ferrán Torres,2021-09-25,Sat,6,Away,W 1–0,Manchester City,Chelsea,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ferrán Torres,2021-10-03,Sun,7,Away,D 2–2,Manchester City,Liverpool,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+John Stones,2021-08-15,Sun,1,Away,L 0–1,Manchester City,Tottenham,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+John Stones,,,,,,,,,,,,,,,,,,,,,,,,,
+John Stones,2021-08-28,Sat,3,Home,W 5–0,Manchester City,Arsenal,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+John Stones,2021-09-11,Sat,4,Away,W 1–0,Manchester City,Leicester City,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+John Stones,,,,,,,,,,,,,,,,,,,,,,,,,
+John Stones,2021-09-25,Sat,6,Away,W 1–0,Manchester City,Chelsea,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+John Stones,2021-10-03,Sun,7,Away,D 2–2,Manchester City,Liverpool,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+John Stones,2021-10-16,Sat,8,Home,W 2–0,Manchester City,Burnley,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+John Stones,2021-10-23,Sat,9,Away,W 4–1,Manchester City,Brighton,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+John Stones,2021-10-30,Sat,10,Home,L 0–2,Manchester City,Crystal Palace,N,CB,32.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+John Stones,2021-11-06,Sat,11,Away,W 2–0,Manchester City,Manchester Utd,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+John Stones,2021-11-21,Sun,12,Home,W 3–0,Manchester City,Everton,Y,CB,90.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+John Stones,2021-11-28,Sun,13,Home,W 2–1,Manchester City,West Ham,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Fernandinho,2021-08-15,Sun,1,Away,L 0–1,Manchester City,Tottenham,Y*,DM,90.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Fernandinho,2021-08-21,Sat,2,Home,W 5–0,Manchester City,Norwich City,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Fernandinho,2021-08-28,Sat,3,Home,W 5–0,Manchester City,Arsenal,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Fernandinho,2021-09-11,Sat,4,Away,W 1–0,Manchester City,Leicester City,N,CM,7.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Fernandinho,2021-09-18,Sat,5,Home,D 0–0,Manchester City,Southampton,Y*,DM,64.0,3.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Fernandinho,2021-09-25,Sat,6,Away,W 1–0,Manchester City,Chelsea,N,CM,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Fernandinho,2021-10-03,Sun,7,Away,D 2–2,Manchester City,Liverpool,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Fernandinho,2021-10-16,Sat,8,Home,W 2–0,Manchester City,Burnley,N,CM,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Fernandinho,2021-10-23,Sat,9,Away,W 4–1,Manchester City,Brighton,N,"DM,CM",16.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Fernandinho,2021-10-30,Sat,10,Home,L 0–2,Manchester City,Crystal Palace,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Fernandinho,2021-11-06,Sat,11,Away,W 2–0,Manchester City,Manchester Utd,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Fernandinho,2021-11-21,Sun,12,Home,W 3–0,Manchester City,Everton,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Fernandinho,2021-11-28,Sun,13,Home,W 2–1,Manchester City,West Ham,N,CM,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Fernandinho,2021-12-01,Wed,14,Away,W 2–1,Manchester City,Aston Villa,Y*,DM,90.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Oleksandr Zinchenko,2021-08-15,Sun,1,Away,L 0–1,Manchester City,Tottenham,N,LB,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Oleksandr Zinchenko,2021-08-21,Sat,2,Home,W 5–0,Manchester City,Norwich City,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Oleksandr Zinchenko,2021-08-28,Sat,3,Home,W 5–0,Manchester City,Arsenal,N,LB,45.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Oleksandr Zinchenko,2021-09-11,Sat,4,Away,W 1–0,Manchester City,Leicester City,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Oleksandr Zinchenko,,,,,,,,,,,,,,,,,,,,,,,,,
+Oleksandr Zinchenko,2021-10-16,Sat,8,Home,W 2–0,Manchester City,Burnley,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Oleksandr Zinchenko,2021-10-23,Sat,9,Away,W 4–1,Manchester City,Brighton,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Oleksandr Zinchenko,2021-10-30,Sat,10,Home,L 0–2,Manchester City,Crystal Palace,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Oleksandr Zinchenko,2021-11-06,Sat,11,Away,W 2–0,Manchester City,Manchester Utd,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Oleksandr Zinchenko,2021-11-21,Sun,12,Home,W 3–0,Manchester City,Everton,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Oleksandr Zinchenko,2021-11-28,Sun,13,Home,W 2–1,Manchester City,West Ham,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Oleksandr Zinchenko,2021-12-01,Wed,14,Away,W 2–1,Manchester City,Aston Villa,Y,LB,90.0,4.0,3.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Cole Palmer,2021-08-21,Sat,2,Home,W 5–0,Manchester City,Norwich City,N,CM,22.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Cole Palmer,2021-08-28,Sat,3,Home,W 5–0,Manchester City,Arsenal,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Cole Palmer,,,,,,,,,,,,,,,,,,,,,,,,,
+Cole Palmer,2021-09-18,Sat,5,Home,D 0–0,Manchester City,Southampton,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Cole Palmer,2021-09-25,Sat,6,Away,W 1–0,Manchester City,Chelsea,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Cole Palmer,2021-10-03,Sun,7,Away,D 2–2,Manchester City,Liverpool,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Cole Palmer,2021-10-16,Sat,8,Home,W 2–0,Manchester City,Burnley,N,CM,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Cole Palmer,2021-10-23,Sat,9,Away,W 4–1,Manchester City,Brighton,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Cole Palmer,2021-10-30,Sat,10,Home,L 0–2,Manchester City,Crystal Palace,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Cole Palmer,2021-11-06,Sat,11,Away,W 2–0,Manchester City,Manchester Utd,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Cole Palmer,2021-11-21,Sun,12,Home,W 3–0,Manchester City,Everton,Y,FW,86.0,7.0,4.0,0.0,0.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,
+Cole Palmer,2021-11-28,Sun,13,Home,W 2–1,Manchester City,West Ham,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Cole Palmer,2021-12-01,Wed,14,Away,W 2–1,Manchester City,Aston Villa,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Zack Steffen,2021-08-15,Sun,1,Away,L 0–1,Manchester City,Tottenham,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Zack Steffen,2021-08-21,Sat,2,Home,W 5–0,Manchester City,Norwich City,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Zack Steffen,2021-08-28,Sat,3,Home,W 5–0,Manchester City,Arsenal,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Zack Steffen,,,,,,,,,,,,,,,,,,,,,,,,,
+Zack Steffen,2021-09-25,Sat,6,Away,W 1–0,Manchester City,Chelsea,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Zack Steffen,2021-10-03,Sun,7,Away,D 2–2,Manchester City,Liverpool,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Zack Steffen,2021-10-16,Sat,8,Home,W 2–0,Manchester City,Burnley,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Zack Steffen,2021-10-23,Sat,9,Away,W 4–1,Manchester City,Brighton,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Zack Steffen,2021-10-30,Sat,10,Home,L 0–2,Manchester City,Crystal Palace,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Zack Steffen,2021-11-06,Sat,11,Away,W 2–0,Manchester City,Manchester Utd,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Zack Steffen,2021-11-21,Sun,12,Home,W 3–0,Manchester City,Everton,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Zack Steffen,2021-11-28,Sun,13,Home,W 2–1,Manchester City,West Ham,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Zack Steffen,2021-12-01,Wed,14,Away,W 2–1,Manchester City,Aston Villa,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Benjamin Mendy,2021-08-15,Sun,1,Away,L 0–1,Manchester City,Tottenham,Y,LB,78.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Benjamin Mendy,2021-08-21,Sat,2,Home,W 5–0,Manchester City,Norwich City,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+James Mcatee,2021-11-21,Sun,12,Home,W 3–0,Manchester City,Everton,N,FW,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+James Mcatee,2021-11-28,Sun,13,Home,W 2–1,Manchester City,West Ham,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+James Mcatee,2021-12-01,Wed,14,Away,W 2–1,Manchester City,Aston Villa,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"

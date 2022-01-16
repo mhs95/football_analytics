@@ -1,0 +1,279 @@
+name,date,dayofweek,round,venue,result,squad,opponent,game_started,position,minutes,sca,sca_passes_live,sca_passes_dead,sca_dribbles,sca_shots,sca_fouled,sca_defense,gca,gca_passes_live,gca_passes_dead,gca_dribbles,gca_shots,gca_fouled,gca_defense,bench_explain
+Kasper Schmeichel,2021-08-14,Sat,1,Home,W 1–0,Leicester City,Wolves,Y*,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kasper Schmeichel,2021-08-23,Mon,2,Away,L 1–4,Leicester City,West Ham,Y*,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kasper Schmeichel,2021-08-28,Sat,3,Away,W 2–1,Leicester City,Norwich City,Y*,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kasper Schmeichel,2021-09-11,Sat,4,Home,L 0–1,Leicester City,Manchester City,Y*,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kasper Schmeichel,2021-09-19,Sun,5,Away,L 1–2,Leicester City,Brighton,Y*,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kasper Schmeichel,2021-09-25,Sat,6,Home,D 2–2,Leicester City,Burnley,Y*,GK,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kasper Schmeichel,2021-10-03,Sun,7,Away,D 2–2,Leicester City,Crystal Palace,Y*,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kasper Schmeichel,2021-10-16,Sat,8,Home,W 4–2,Leicester City,Manchester Utd,Y*,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kasper Schmeichel,2021-10-24,Sun,9,Away,W 2–1,Leicester City,Brentford,Y*,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kasper Schmeichel,2021-10-30,Sat,10,Home,L 0–2,Leicester City,Arsenal,Y*,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kasper Schmeichel,2021-11-07,Sun,11,Away,D 1–1,Leicester City,Leeds United,Y*,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kasper Schmeichel,2021-11-20,Sat,12,Home,L 0–3,Leicester City,Chelsea,Y*,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kasper Schmeichel,2021-11-28,Sun,13,Home,W 4–2,Leicester City,Watford,Y*,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kasper Schmeichel,2021-12-01,Wed,14,Away,D 2–2,Leicester City,Southampton,Y*,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Çağlar Söyüncü,2021-08-14,Sat,1,Home,W 1–0,Leicester City,Wolves,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Çağlar Söyüncü,2021-08-23,Mon,2,Away,L 1–4,Leicester City,West Ham,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Çağlar Söyüncü,2021-08-28,Sat,3,Away,W 2–1,Leicester City,Norwich City,Y,CB,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Çağlar Söyüncü,2021-09-11,Sat,4,Home,L 0–1,Leicester City,Manchester City,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Çağlar Söyüncü,2021-09-19,Sun,5,Away,L 1–2,Leicester City,Brighton,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Çağlar Söyüncü,2021-09-25,Sat,6,Home,D 2–2,Leicester City,Burnley,Y,CB,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Çağlar Söyüncü,2021-10-03,Sun,7,Away,D 2–2,Leicester City,Crystal Palace,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Çağlar Söyüncü,2021-10-16,Sat,8,Home,W 4–2,Leicester City,Manchester Utd,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Çağlar Söyüncü,2021-10-24,Sun,9,Away,W 2–1,Leicester City,Brentford,Y,CB,67.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Çağlar Söyüncü,2021-10-30,Sat,10,Home,L 0–2,Leicester City,Arsenal,Y,CB,90.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Çağlar Söyüncü,2021-11-07,Sun,11,Away,D 1–1,Leicester City,Leeds United,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Çağlar Söyüncü,2021-11-20,Sat,12,Home,L 0–3,Leicester City,Chelsea,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Çağlar Söyüncü,2021-11-28,Sun,13,Home,W 4–2,Leicester City,Watford,Y,CB,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Çağlar Söyüncü,2021-12-01,Wed,14,Away,D 2–2,Leicester City,Southampton,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Jamie Vardy,2021-08-14,Sat,1,Home,W 1–0,Leicester City,Wolves,Y,FW,90.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Jamie Vardy,2021-08-23,Mon,2,Away,L 1–4,Leicester City,West Ham,Y,FW,80.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Jamie Vardy,2021-08-28,Sat,3,Away,W 2–1,Leicester City,Norwich City,Y,FW,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Jamie Vardy,2021-09-11,Sat,4,Home,L 0–1,Leicester City,Manchester City,Y,FW,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Jamie Vardy,2021-09-19,Sun,5,Away,L 1–2,Leicester City,Brighton,Y,FW,90.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Jamie Vardy,2021-09-25,Sat,6,Home,D 2–2,Leicester City,Burnley,Y,FW,90.0,4.0,3.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,
+Jamie Vardy,2021-10-03,Sun,7,Away,D 2–2,Leicester City,Crystal Palace,Y,FW,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Jamie Vardy,2021-10-16,Sat,8,Home,W 4–2,Leicester City,Manchester Utd,Y,FW,90.0,5.0,3.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Jamie Vardy,2021-10-24,Sun,9,Away,W 2–1,Leicester City,Brentford,Y,FW,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Jamie Vardy,2021-10-30,Sat,10,Home,L 0–2,Leicester City,Arsenal,Y,"RW,FW",90.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Jamie Vardy,2021-11-07,Sun,11,Away,D 1–1,Leicester City,Leeds United,Y,FW,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Jamie Vardy,2021-11-20,Sat,12,Home,L 0–3,Leicester City,Chelsea,Y,FW,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Jamie Vardy,2021-11-28,Sun,13,Home,W 4–2,Leicester City,Watford,Y,FW,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Jamie Vardy,2021-12-01,Wed,14,Away,D 2–2,Leicester City,Southampton,Y,FW,90.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Youri Tielemans,2021-08-14,Sat,1,Home,W 1–0,Leicester City,Wolves,Y,"CM,DM",90.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Youri Tielemans,2021-08-23,Mon,2,Away,L 1–4,Leicester City,West Ham,Y,DM,90.0,2.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,
+Youri Tielemans,2021-08-28,Sat,3,Away,W 2–1,Leicester City,Norwich City,Y,DM,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Youri Tielemans,2021-09-11,Sat,4,Home,L 0–1,Leicester City,Manchester City,Y,DM,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Youri Tielemans,2021-09-19,Sun,5,Away,L 1–2,Leicester City,Brighton,Y,"CM,DM",90.0,4.0,2.0,2.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Youri Tielemans,2021-09-25,Sat,6,Home,D 2–2,Leicester City,Burnley,Y,CM,90.0,8.0,8.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Youri Tielemans,2021-10-03,Sun,7,Away,D 2–2,Leicester City,Crystal Palace,Y,DM,90.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Youri Tielemans,2021-10-16,Sat,8,Home,W 4–2,Leicester City,Manchester Utd,Y,DM,90.0,6.0,3.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Youri Tielemans,2021-10-24,Sun,9,Away,W 2–1,Leicester City,Brentford,Y,DM,90.0,5.0,4.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Youri Tielemans,2021-10-30,Sat,10,Home,L 0–2,Leicester City,Arsenal,Y,DM,90.0,7.0,6.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Youri Tielemans,2021-11-07,Sun,11,Away,D 1–1,Leicester City,Leeds United,Y,CM,76.0,3.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Harvey Barnes,2021-08-14,Sat,1,Home,W 1–0,Leicester City,Wolves,Y,"LW,AM",71.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Harvey Barnes,2021-08-23,Mon,2,Away,L 1–4,Leicester City,West Ham,Y,"LW,LM",63.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Harvey Barnes,2021-08-28,Sat,3,Away,W 2–1,Leicester City,Norwich City,Y,LM,66.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Harvey Barnes,2021-09-11,Sat,4,Home,L 0–1,Leicester City,Manchester City,Y,LW,72.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Harvey Barnes,2021-09-19,Sun,5,Away,L 1–2,Leicester City,Brighton,Y,"LW,LM",90.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Harvey Barnes,2021-09-25,Sat,6,Home,D 2–2,Leicester City,Burnley,Y,LW,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Harvey Barnes,2021-10-03,Sun,7,Away,D 2–2,Leicester City,Crystal Palace,Y,LM,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Harvey Barnes,2021-10-16,Sat,8,Home,W 4–2,Leicester City,Manchester Utd,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Harvey Barnes,2021-10-24,Sun,9,Away,W 2–1,Leicester City,Brentford,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Harvey Barnes,2021-10-30,Sat,10,Home,L 0–2,Leicester City,Arsenal,N,LW,45.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Harvey Barnes,2021-11-07,Sun,11,Away,D 1–1,Leicester City,Leeds United,Y,LW,69.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Harvey Barnes,2021-11-20,Sat,12,Home,L 0–3,Leicester City,Chelsea,Y,LW,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Harvey Barnes,2021-11-28,Sun,13,Home,W 4–2,Leicester City,Watford,Y,LW,90.0,4.0,3.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,
+Harvey Barnes,2021-12-01,Wed,14,Away,D 2–2,Leicester City,Southampton,Y,LW,74.0,4.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Wilfred Ndidi,2021-08-14,Sat,1,Home,W 1–0,Leicester City,Wolves,Y,"CM,DM",90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Wilfred Ndidi,2021-08-23,Mon,2,Away,L 1–4,Leicester City,West Ham,Y,DM,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Wilfred Ndidi,2021-08-28,Sat,3,Away,W 2–1,Leicester City,Norwich City,Y,DM,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Wilfred Ndidi,2021-09-11,Sat,4,Home,L 0–1,Leicester City,Manchester City,Y,DM,90.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Wilfred Ndidi,2021-09-19,Sun,5,Away,L 1–2,Leicester City,Brighton,Y,DM,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Wilfred Ndidi,2021-09-25,Sat,6,Home,D 2–2,Leicester City,Burnley,Y,DM,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Wilfred Ndidi,,,,,,,,,,,,,,,,,,,,,,,,,
+Wilfred Ndidi,2021-10-30,Sat,10,Home,L 0–2,Leicester City,Arsenal,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Wilfred Ndidi,2021-11-07,Sun,11,Away,D 1–1,Leicester City,Leeds United,Y,CM,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Wilfred Ndidi,2021-11-20,Sat,12,Home,L 0–3,Leicester City,Chelsea,Y,DM,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Wilfred Ndidi,2021-11-28,Sun,13,Home,W 4–2,Leicester City,Watford,Y,DM,90.0,3.0,1.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Wilfred Ndidi,2021-12-01,Wed,14,Away,D 2–2,Leicester City,Southampton,Y,CM,90.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,
+James Maddison,2021-08-14,Sat,1,Home,W 1–0,Leicester City,Wolves,Y,AM,61.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+James Maddison,2021-08-23,Mon,2,Away,L 1–4,Leicester City,West Ham,Y,"AM,RM,LM",80.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+James Maddison,2021-08-28,Sat,3,Away,W 2–1,Leicester City,Norwich City,Y,"FW,LM",85.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+James Maddison,2021-09-11,Sat,4,Home,L 0–1,Leicester City,Manchester City,Y,AM,72.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+James Maddison,2021-09-19,Sun,5,Away,L 1–2,Leicester City,Brighton,Y,RW,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+James Maddison,2021-09-25,Sat,6,Home,D 2–2,Leicester City,Burnley,N,RW,13.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+James Maddison,2021-10-03,Sun,7,Away,D 2–2,Leicester City,Crystal Palace,N,FW,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+James Maddison,2021-10-16,Sat,8,Home,W 4–2,Leicester City,Manchester Utd,Y,AM,72.0,3.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+James Maddison,2021-10-24,Sun,9,Away,W 2–1,Leicester City,Brentford,Y,AM,77.0,2.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+James Maddison,2021-10-30,Sat,10,Home,L 0–2,Leicester City,Arsenal,Y,AM,69.0,7.0,3.0,0.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+James Maddison,2021-11-07,Sun,11,Away,D 1–1,Leicester City,Leeds United,N,FW,11.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+James Maddison,2021-11-20,Sat,12,Home,L 0–3,Leicester City,Chelsea,N,LW,45.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+James Maddison,2021-11-28,Sun,13,Home,W 4–2,Leicester City,Watford,Y,AM,87.0,6.0,3.0,2.0,1.0,0.0,0.0,0.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,
+James Maddison,2021-12-01,Wed,14,Away,D 2–2,Leicester City,Southampton,Y,"AM,LW",90.0,4.0,1.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,
+Timothy Castagne,2021-08-23,Mon,2,Away,L 1–4,Leicester City,West Ham,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Timothy Castagne,2021-08-28,Sat,3,Away,W 2–1,Leicester City,Norwich City,N,RB,80.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Timothy Castagne,2021-09-11,Sat,4,Home,L 0–1,Leicester City,Manchester City,Y,RB,90.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Timothy Castagne,2021-09-19,Sun,5,Away,L 1–2,Leicester City,Brighton,N,LB,23.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Timothy Castagne,2021-09-25,Sat,6,Home,D 2–2,Leicester City,Burnley,N,RB,45.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Timothy Castagne,2021-10-03,Sun,7,Away,D 2–2,Leicester City,Crystal Palace,Y,RB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Timothy Castagne,2021-10-16,Sat,8,Home,W 4–2,Leicester City,Manchester Utd,Y,WB,90.0,3.0,2.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,
+Timothy Castagne,2021-10-24,Sun,9,Away,W 2–1,Leicester City,Brentford,Y,WB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Timothy Castagne,2021-10-30,Sat,10,Home,L 0–2,Leicester City,Arsenal,Y,"RB,WB",90.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Timothy Castagne,2021-11-07,Sun,11,Away,D 1–1,Leicester City,Leeds United,Y,"LB,WB",90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Timothy Castagne,2021-11-20,Sat,12,Home,L 0–3,Leicester City,Chelsea,Y,WB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Timothy Castagne,2021-11-28,Sun,13,Home,W 4–2,Leicester City,Watford,Y,RB,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Timothy Castagne,2021-12-01,Wed,14,Away,D 2–2,Leicester City,Southampton,Y,RB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Boubakary Soumaré,2021-08-14,Sat,1,Home,W 1–0,Leicester City,Wolves,N,AM,29.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Boubakary Soumaré,2021-08-23,Mon,2,Away,L 1–4,Leicester City,West Ham,N,LM,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Boubakary Soumaré,2021-08-28,Sat,3,Away,W 2–1,Leicester City,Norwich City,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Boubakary Soumaré,2021-09-11,Sat,4,Home,L 0–1,Leicester City,Manchester City,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Boubakary Soumaré,2021-09-19,Sun,5,Away,L 1–2,Leicester City,Brighton,Y,CM,74.0,3.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Boubakary Soumaré,2021-09-25,Sat,6,Home,D 2–2,Leicester City,Burnley,Y,CM,61.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Boubakary Soumaré,2021-10-03,Sun,7,Away,D 2–2,Leicester City,Crystal Palace,N,DM,31.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Boubakary Soumaré,2021-10-16,Sat,8,Home,W 4–2,Leicester City,Manchester Utd,Y,DM,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Boubakary Soumaré,2021-10-24,Sun,9,Away,W 2–1,Leicester City,Brentford,Y,DM,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Boubakary Soumaré,2021-10-30,Sat,10,Home,L 0–2,Leicester City,Arsenal,Y,DM,90.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Boubakary Soumaré,2021-11-07,Sun,11,Away,D 1–1,Leicester City,Leeds United,Y,DM,90.0,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Boubakary Soumaré,2021-11-20,Sat,12,Home,L 0–3,Leicester City,Chelsea,Y,DM,74.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Boubakary Soumaré,2021-11-28,Sun,13,Home,W 4–2,Leicester City,Watford,Y,DM,90.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Boubakary Soumaré,2021-12-01,Wed,14,Away,D 2–2,Leicester City,Southampton,Y,CM,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Ricardo Pereira,2021-08-14,Sat,1,Home,W 1–0,Leicester City,Wolves,Y,"RB,WB",90.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,
+Ricardo Pereira,2021-08-23,Mon,2,Away,L 1–4,Leicester City,West Ham,Y,RB,90.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Ricardo Pereira,2021-08-28,Sat,3,Away,W 2–1,Leicester City,Norwich City,Y,RB,10.0,2.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,1.0,
+Ricardo Pereira,2021-09-11,Sat,4,Home,L 0–1,Leicester City,Manchester City,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ricardo Pereira,2021-09-19,Sun,5,Away,L 1–2,Leicester City,Brighton,Y,RB,90.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Ricardo Pereira,2021-09-25,Sat,6,Home,D 2–2,Leicester City,Burnley,Y,RB,45.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Ricardo Pereira,2021-10-03,Sun,7,Away,D 2–2,Leicester City,Crystal Palace,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ricardo Pereira,2021-10-16,Sat,8,Home,W 4–2,Leicester City,Manchester Utd,Y,WB,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Ricardo Pereira,2021-10-24,Sun,9,Away,W 2–1,Leicester City,Brentford,Y,WB,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Ricardo Pereira,,,,,,,,,,,,,,,,,,,,,,,,,
+Ricardo Pereira,2021-11-07,Sun,11,Away,D 1–1,Leicester City,Leeds United,Y,"RB,WB",90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Jonny Evans,2021-09-11,Sat,4,Home,L 0–1,Leicester City,Manchester City,N,CB,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Jonny Evans,,,,,,,,,,,,,,,,,,,,,,,,,
+Jonny Evans,2021-09-25,Sat,6,Home,D 2–2,Leicester City,Burnley,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Jonny Evans,,,,,,,,,,,,,,,,,,,,,,,,,
+Jonny Evans,2021-10-16,Sat,8,Home,W 4–2,Leicester City,Manchester Utd,Y,CB,87.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Jonny Evans,2021-10-24,Sun,9,Away,W 2–1,Leicester City,Brentford,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Jonny Evans,2021-10-30,Sat,10,Home,L 0–2,Leicester City,Arsenal,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Jonny Evans,2021-11-07,Sun,11,Away,D 1–1,Leicester City,Leeds United,Y,CB,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Jonny Evans,2021-11-20,Sat,12,Home,L 0–3,Leicester City,Chelsea,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Jonny Evans,2021-11-28,Sun,13,Home,W 4–2,Leicester City,Watford,Y,CB,90.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,
+Jonny Evans,2021-12-01,Wed,14,Away,D 2–2,Leicester City,Southampton,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Daniel Amartey,2021-08-14,Sat,1,Home,W 1–0,Leicester City,Wolves,Y,CB,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Daniel Amartey,2021-08-23,Mon,2,Away,L 1–4,Leicester City,West Ham,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Daniel Amartey,2021-08-28,Sat,3,Away,W 2–1,Leicester City,Norwich City,Y,CB,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Daniel Amartey,2021-09-11,Sat,4,Home,L 0–1,Leicester City,Manchester City,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Daniel Amartey,2021-09-19,Sun,5,Away,L 1–2,Leicester City,Brighton,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Daniel Amartey,,,,,,,,,,,,,,,,,,,,,,,,,
+Daniel Amartey,2021-10-03,Sun,7,Away,D 2–2,Leicester City,Crystal Palace,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Daniel Amartey,2021-10-16,Sat,8,Home,W 4–2,Leicester City,Manchester Utd,Y,CB,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Daniel Amartey,2021-10-24,Sun,9,Away,W 2–1,Leicester City,Brentford,Y,CB,90.0,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Daniel Amartey,2021-10-30,Sat,10,Home,L 0–2,Leicester City,Arsenal,Y,CB,45.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Daniel Amartey,2021-11-07,Sun,11,Away,D 1–1,Leicester City,Leeds United,N,CB,21.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Daniel Amartey,2021-11-20,Sat,12,Home,L 0–3,Leicester City,Chelsea,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Daniel Amartey,2021-11-28,Sun,13,Home,W 4–2,Leicester City,Watford,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Daniel Amartey,2021-12-01,Wed,14,Away,D 2–2,Leicester City,Southampton,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Luke Thomas,2021-08-14,Sat,1,Home,W 1–0,Leicester City,Wolves,Y,"LB,WB",90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Luke Thomas,2021-08-23,Mon,2,Away,L 1–4,Leicester City,West Ham,Y,LB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Luke Thomas,2021-08-28,Sat,3,Away,W 2–1,Leicester City,Norwich City,Y,LB,90.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Luke Thomas,,,,,,,,,,,,,,,,,,,,,,,,,
+Luke Thomas,2021-10-30,Sat,10,Home,L 0–2,Leicester City,Arsenal,Y,"LB,WB",90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Luke Thomas,2021-11-07,Sun,11,Away,D 1–1,Leicester City,Leeds United,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Luke Thomas,,,,,,,,,,,,,,,,,,,,,,,,,
+Luke Thomas,2021-11-28,Sun,13,Home,W 4–2,Leicester City,Watford,Y,LB,90.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Luke Thomas,2021-12-01,Wed,14,Away,D 2–2,Leicester City,Southampton,Y,LB,90.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Ademola Lookman,2021-09-11,Sat,4,Home,L 0–1,Leicester City,Manchester City,N,LW,18.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Ademola Lookman,2021-09-19,Sun,5,Away,L 1–2,Leicester City,Brighton,N,"RW,RM",45.0,4.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Ademola Lookman,2021-09-25,Sat,6,Home,D 2–2,Leicester City,Burnley,Y,RW,77.0,6.0,5.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Ademola Lookman,2021-10-03,Sun,7,Away,D 2–2,Leicester City,Crystal Palace,Y,RM,79.0,2.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Ademola Lookman,2021-10-16,Sat,8,Home,W 4–2,Leicester City,Manchester Utd,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ademola Lookman,2021-10-24,Sun,9,Away,W 2–1,Leicester City,Brentford,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ademola Lookman,2021-10-30,Sat,10,Home,L 0–2,Leicester City,Arsenal,N,FW,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Ademola Lookman,2021-11-07,Sun,11,Away,D 1–1,Leicester City,Leeds United,Y,"RW,FW",79.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Ademola Lookman,2021-11-20,Sat,12,Home,L 0–3,Leicester City,Chelsea,Y,RW,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Ademola Lookman,2021-11-28,Sun,13,Home,W 4–2,Leicester City,Watford,Y,RW,74.0,3.0,2.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,
+Ademola Lookman,2021-12-01,Wed,14,Away,D 2–2,Leicester City,Southampton,Y,RW,60.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kelechi Iheanacho,2021-08-14,Sat,1,Home,W 1–0,Leicester City,Wolves,N,AM,19.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kelechi Iheanacho,2021-08-23,Mon,2,Away,L 1–4,Leicester City,West Ham,N,FW,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kelechi Iheanacho,2021-08-28,Sat,3,Away,W 2–1,Leicester City,Norwich City,N,FW,24.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kelechi Iheanacho,2021-09-11,Sat,4,Home,L 0–1,Leicester City,Manchester City,N,AM,18.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kelechi Iheanacho,2021-09-19,Sun,5,Away,L 1–2,Leicester City,Brighton,N,FW,16.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kelechi Iheanacho,2021-09-25,Sat,6,Home,D 2–2,Leicester City,Burnley,N,CM,29.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Kelechi Iheanacho,2021-10-03,Sun,7,Away,D 2–2,Leicester City,Crystal Palace,Y,FW,70.0,4.0,2.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,
+Kelechi Iheanacho,2021-10-16,Sat,8,Home,W 4–2,Leicester City,Manchester Utd,Y,FW,76.0,3.0,1.0,0.0,0.0,1.0,0.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,1.0,
+Kelechi Iheanacho,2021-10-24,Sun,9,Away,W 2–1,Leicester City,Brentford,Y,FW,90.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kelechi Iheanacho,2021-10-30,Sat,10,Home,L 0–2,Leicester City,Arsenal,Y,FW,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kelechi Iheanacho,2021-11-07,Sun,11,Away,D 1–1,Leicester City,Leeds United,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Kelechi Iheanacho,2021-11-20,Sat,12,Home,L 0–3,Leicester City,Chelsea,N,RW,45.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kelechi Iheanacho,2021-11-28,Sun,13,Home,W 4–2,Leicester City,Watford,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Kelechi Iheanacho,2021-12-01,Wed,14,Away,D 2–2,Leicester City,Southampton,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Jannik Vestergaard,2021-08-14,Sat,1,Home,W 1–0,Leicester City,Wolves,N,CB,29.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Jannik Vestergaard,,,,,,,,,,,,,,,,,,,,,,,,,
+Jannik Vestergaard,2021-09-11,Sat,4,Home,L 0–1,Leicester City,Manchester City,Y,CB,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Jannik Vestergaard,2021-09-19,Sun,5,Away,L 1–2,Leicester City,Brighton,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Jannik Vestergaard,2021-09-25,Sat,6,Home,D 2–2,Leicester City,Burnley,Y,CB,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Jannik Vestergaard,2021-10-03,Sun,7,Away,D 2–2,Leicester City,Crystal Palace,Y,CB,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Jannik Vestergaard,2021-10-16,Sat,8,Home,W 4–2,Leicester City,Manchester Utd,N,CB,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Jannik Vestergaard,2021-10-24,Sun,9,Away,W 2–1,Leicester City,Brentford,N,CB,23.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Jannik Vestergaard,2021-10-30,Sat,10,Home,L 0–2,Leicester City,Arsenal,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Jannik Vestergaard,2021-11-07,Sun,11,Away,D 1–1,Leicester City,Leeds United,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Jannik Vestergaard,2021-11-20,Sat,12,Home,L 0–3,Leicester City,Chelsea,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Jannik Vestergaard,2021-11-28,Sun,13,Home,W 4–2,Leicester City,Watford,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Jannik Vestergaard,2021-12-01,Wed,14,Away,D 2–2,Leicester City,Southampton,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ryan Bertrand,2021-09-11,Sat,4,Home,L 0–1,Leicester City,Manchester City,Y,LB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Ryan Bertrand,2021-09-19,Sun,5,Away,L 1–2,Leicester City,Brighton,Y,LB,67.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Ryan Bertrand,2021-09-25,Sat,6,Home,D 2–2,Leicester City,Burnley,Y,LB,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Ryan Bertrand,2021-10-03,Sun,7,Away,D 2–2,Leicester City,Crystal Palace,Y,LB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Ryan Bertrand,2021-10-16,Sat,8,Home,W 4–2,Leicester City,Manchester Utd,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ryan Bertrand,2021-10-24,Sun,9,Away,W 2–1,Leicester City,Brentford,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ryan Bertrand,2021-10-30,Sat,10,Home,L 0–2,Leicester City,Arsenal,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ryan Bertrand,,,,,,,,,,,,,,,,,,,,,,,,,
+Ryan Bertrand,2021-11-20,Sat,12,Home,L 0–3,Leicester City,Chelsea,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Marc Albrighton,2021-08-14,Sat,1,Home,W 1–0,Leicester City,Wolves,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Marc Albrighton,2021-08-23,Mon,2,Away,L 1–4,Leicester City,West Ham,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Marc Albrighton,2021-08-28,Sat,3,Away,W 2–1,Leicester City,Norwich City,Y,RM,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Marc Albrighton,2021-09-11,Sat,4,Home,L 0–1,Leicester City,Manchester City,Y,RW,90.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Marc Albrighton,2021-09-19,Sun,5,Away,L 1–2,Leicester City,Brighton,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Marc Albrighton,2021-09-25,Sat,6,Home,D 2–2,Leicester City,Burnley,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Marc Albrighton,2021-10-03,Sun,7,Away,D 2–2,Leicester City,Crystal Palace,N,RM,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Marc Albrighton,2021-10-16,Sat,8,Home,W 4–2,Leicester City,Manchester Utd,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Marc Albrighton,,,,,,,,,,,,,,,,,,,,,,,,,
+Marc Albrighton,2021-11-20,Sat,12,Home,L 0–3,Leicester City,Chelsea,Y,WB,90.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Marc Albrighton,2021-11-28,Sun,13,Home,W 4–2,Leicester City,Watford,N,RW,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Marc Albrighton,2021-12-01,Wed,14,Away,D 2–2,Leicester City,Southampton,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ayoze Pérez,2021-08-14,Sat,1,Home,W 1–0,Leicester City,Wolves,Y,RW,61.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Ayoze Pérez,2021-08-23,Mon,2,Away,L 1–4,Leicester City,West Ham,Y,"AM,RW,RM",39.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Ayoze Pérez,,,,,,,,,,,,,,,,,,,,,,,,,
+Ayoze Pérez,2021-09-25,Sat,6,Home,D 2–2,Leicester City,Burnley,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ayoze Pérez,2021-10-03,Sun,7,Away,D 2–2,Leicester City,Crystal Palace,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ayoze Pérez,2021-10-16,Sat,8,Home,W 4–2,Leicester City,Manchester Utd,N,AM,18.0,3.0,2.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Ayoze Pérez,2021-10-24,Sun,9,Away,W 2–1,Leicester City,Brentford,N,AM,13.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Ayoze Pérez,,,,,,,,,,,,,,,,,,,,,,,,,
+Ayoze Pérez,2021-11-07,Sun,11,Away,D 1–1,Leicester City,Leeds United,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ayoze Pérez,2021-11-20,Sat,12,Home,L 0–3,Leicester City,Chelsea,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ayoze Pérez,2021-11-28,Sun,13,Home,W 4–2,Leicester City,Watford,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ayoze Pérez,2021-12-01,Wed,14,Away,D 2–2,Leicester City,Southampton,N,RW,30.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Hamza Choudhury,2021-08-14,Sat,1,Home,W 1–0,Leicester City,Wolves,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Hamza Choudhury,2021-08-23,Mon,2,Away,L 1–4,Leicester City,West Ham,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Hamza Choudhury,2021-08-28,Sat,3,Away,W 2–1,Leicester City,Norwich City,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Hamza Choudhury,,,,,,,,,,,,,,,,,,,,,,,,,
+Hamza Choudhury,2021-09-19,Sun,5,Away,L 1–2,Leicester City,Brighton,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Hamza Choudhury,,,,,,,,,,,,,,,,,,,,,,,,,
+Hamza Choudhury,2021-10-03,Sun,7,Away,D 2–2,Leicester City,Crystal Palace,Y,DM,59.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Hamza Choudhury,2021-10-16,Sat,8,Home,W 4–2,Leicester City,Manchester Utd,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Hamza Choudhury,2021-10-24,Sun,9,Away,W 2–1,Leicester City,Brentford,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Hamza Choudhury,2021-10-30,Sat,10,Home,L 0–2,Leicester City,Arsenal,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Hamza Choudhury,,,,,,,,,,,,,,,,,,,,,,,,,
+Hamza Choudhury,2021-11-20,Sat,12,Home,L 0–3,Leicester City,Chelsea,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Hamza Choudhury,2021-11-28,Sun,13,Home,W 4–2,Leicester City,Watford,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Hamza Choudhury,2021-12-01,Wed,14,Away,D 2–2,Leicester City,Southampton,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Patson Daka,2021-08-14,Sat,1,Home,W 1–0,Leicester City,Wolves,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Patson Daka,2021-08-23,Mon,2,Away,L 1–4,Leicester City,West Ham,N,"RM,FW",27.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Patson Daka,2021-08-28,Sat,3,Away,W 2–1,Leicester City,Norwich City,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Patson Daka,2021-09-11,Sat,4,Home,L 0–1,Leicester City,Manchester City,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Patson Daka,2021-09-19,Sun,5,Away,L 1–2,Leicester City,Brighton,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Patson Daka,2021-09-25,Sat,6,Home,D 2–2,Leicester City,Burnley,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Patson Daka,2021-10-03,Sun,7,Away,D 2–2,Leicester City,Crystal Palace,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Patson Daka,2021-10-16,Sat,8,Home,W 4–2,Leicester City,Manchester Utd,N,FW,14.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,
+Patson Daka,2021-10-24,Sun,9,Away,W 2–1,Leicester City,Brentford,N,FW,45.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Patson Daka,2021-10-30,Sat,10,Home,L 0–2,Leicester City,Arsenal,N,AM,21.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Patson Daka,2021-11-07,Sun,11,Away,D 1–1,Leicester City,Leeds United,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Patson Daka,2021-11-20,Sat,12,Home,L 0–3,Leicester City,Chelsea,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Patson Daka,2021-11-28,Sun,13,Home,W 4–2,Leicester City,Watford,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Patson Daka,2021-12-01,Wed,14,Away,D 2–2,Leicester City,Southampton,N,"AM,LW",16.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kiernan Dewsbury Hall,2021-08-14,Sat,1,Home,W 1–0,Leicester City,Wolves,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Kiernan Dewsbury Hall,2021-08-23,Mon,2,Away,L 1–4,Leicester City,West Ham,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Kiernan Dewsbury Hall,2021-08-28,Sat,3,Away,W 2–1,Leicester City,Norwich City,N,LM,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kiernan Dewsbury Hall,2021-09-11,Sat,4,Home,L 0–1,Leicester City,Manchester City,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Kiernan Dewsbury Hall,2021-09-19,Sun,5,Away,L 1–2,Leicester City,Brighton,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Kiernan Dewsbury Hall,2021-09-25,Sat,6,Home,D 2–2,Leicester City,Burnley,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Kiernan Dewsbury Hall,2021-10-03,Sun,7,Away,D 2–2,Leicester City,Crystal Palace,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Kiernan Dewsbury Hall,,,,,,,,,,,,,,,,,,,,,,,,,
+Kiernan Dewsbury Hall,2021-10-24,Sun,9,Away,W 2–1,Leicester City,Brentford,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Kiernan Dewsbury Hall,2021-10-30,Sat,10,Home,L 0–2,Leicester City,Arsenal,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Kiernan Dewsbury Hall,2021-11-07,Sun,11,Away,D 1–1,Leicester City,Leeds United,N,CM,14.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kiernan Dewsbury Hall,2021-11-20,Sat,12,Home,L 0–3,Leicester City,Chelsea,N,DM,16.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kiernan Dewsbury Hall,2021-11-28,Sun,13,Home,W 4–2,Leicester City,Watford,N,AM,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kiernan Dewsbury Hall,2021-12-01,Wed,14,Away,D 2–2,Leicester City,Southampton,N,CM,45.0,3.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,

@@ -1,0 +1,23 @@
+player,nationality,position,age,minutes_90s,sca,sca_per90,sca_passes_live,sca_passes_dead,sca_dribbles,sca_shots,sca_fouled,sca_defense,gca,gca_per90,gca_passes_live,gca_passes_dead,gca_dribbles,gca_shots,gca_fouled,gca_defense,matches
+"Lloris, Hugo",FRA,GK,34.0,12.0,3.0,0.25,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/8f62b6ee/matchlogs/2021-2022/gca/Hugo-Lloris-Match-Logs
+"Højbjerg, Pierre",DEN,MF,26.0,12.0,22.0,1.84,18.0,1.0,1.0,0.0,1.0,1.0,2.0,0.17,2.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/8b04d6c1/matchlogs/2021-2022/gca/Pierre-Hojbjerg-Match-Logs
+"Dier, Eric",ENG,DF,27.0,11.1,11.0,0.99,7.0,0.0,0.0,2.0,0.0,2.0,2.0,0.18,1.0,0.0,0.0,1.0,0.0,0.0,https://fbref.com/en/players/ac861941/matchlogs/2021-2022/gca/Eric-Dier-Match-Logs
+"Heung-min, Son",KOR,"FW,MF",29.0,10.7,33.0,3.09,20.0,9.0,1.0,2.0,0.0,1.0,1.0,0.09,1.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/92e7e919/matchlogs/2021-2022/gca/Son-Heung-min-Match-Logs
+"Reguilón, Sergio",ESP,DF,24.0,10.6,21.0,1.99,19.0,1.0,0.0,0.0,1.0,0.0,4.0,0.38,4.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/3353737a/matchlogs/2021-2022/gca/Sergio-Reguilon-Match-Logs
+"Kane, Harry",ENG,FW,28.0,10.2,19.0,1.86,13.0,0.0,1.0,3.0,2.0,0.0,2.0,0.2,1.0,0.0,0.0,1.0,0.0,0.0,https://fbref.com/en/players/21a66f6a/matchlogs/2021-2022/gca/Harry-Kane-Match-Logs
+"Moura, Lucas",BRA,"FW,MF",29.0,9.3,27.0,2.91,21.0,0.0,2.0,1.0,2.0,1.0,3.0,0.32,3.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/2b622f01/matchlogs/2021-2022/gca/Lucas-Moura-Match-Logs
+"Skipp, Oliver",ENG,MF,21.0,9.5,8.0,0.84,8.0,0.0,0.0,0.0,0.0,0.0,1.0,0.1,1.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/6250083a/matchlogs/2021-2022/gca/Oliver-Skipp-Match-Logs
+Emerson,BRA,DF,22.0,8.5,10.0,1.18,8.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/df8b52a5/matchlogs/2021-2022/gca/Emerson-Match-Logs
+"Romero, Cristian",ARG,DF,23.0,5.9,2.0,0.34,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/a3d94a58/matchlogs/2021-2022/gca/Cristian-Romero-Match-Logs
+"Alli, Dele",ENG,MF,25.0,5.7,6.0,1.05,3.0,0.0,0.0,0.0,3.0,0.0,1.0,0.17,0.0,0.0,0.0,0.0,1.0,0.0,https://fbref.com/en/players/cea4ee8f/matchlogs/2021-2022/gca/Dele-Alli-Match-Logs
+"Tanganga, Japhet",ENG,DF,22.0,4.8,2.0,0.42,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/e9971f2d/matchlogs/2021-2022/gca/Japhet-Tanganga-Match-Logs
+"Ndombele, Tanguy",FRA,MF,24.0,4.5,10.0,2.2,7.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/5cdddffa/matchlogs/2021-2022/gca/Tanguy-Ndombele-Match-Logs
+"Sánchez, Davinson",COL,DF,25.0,4.3,3.0,0.69,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/da7b447d/matchlogs/2021-2022/gca/Davinson-Sanchez-Match-Logs
+"Davies, Ben",WAL,DF,28.0,3.3,1.0,0.3,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/44781702/matchlogs/2021-2022/gca/Ben-Davies-Match-Logs
+"Bergwijn, Steven",NED,FW,24.0,3.0,10.0,3.33,7.0,0.0,1.0,1.0,1.0,0.0,2.0,0.67,1.0,0.0,0.0,0.0,1.0,0.0,https://fbref.com/en/players/a29b1131/matchlogs/2021-2022/gca/Steven-Bergwijn-Match-Logs
+"Lo Celso, Giovani",ARG,"MF,FW",25.0,2.4,9.0,3.8,4.0,2.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/d7553721/matchlogs/2021-2022/gca/Giovani-Lo-Celso-Match-Logs
+"Winks, Harry",ENG,MF,25.0,1.7,1.0,0.6,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/2f7acede/matchlogs/2021-2022/gca/Harry-Winks-Match-Logs
+"Rodon, Joe",WAL,DF,24.0,0.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/8d62d31a/matchlogs/2021-2022/gca/Joe-Rodon-Match-Logs
+Bryan,ESP,"FW,MF",20.0,0.7,1.0,1.45,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.45,1.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/7b5ab7f2/matchlogs/2021-2022/gca/Bryan-Match-Logs
+"Doherty, Matt",IRL,DF,29.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/d557d734/matchlogs/2021-2022/gca/Matt-Doherty-Match-Logs
+"Sessegnon, Ryan",ENG,DF,21.0,0.1,1.0,7.5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/6aa3e78b/matchlogs/2021-2022/gca/Ryan-Sessegnon-Match-Logs

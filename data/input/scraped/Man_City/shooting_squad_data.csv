@@ -1,0 +1,24 @@
+player,nationality,position,age,minutes_90s,goals,shots_total,shots_on_target,shots_on_target_pct,shots_total_per90,shots_on_target_per90,goals_per_shot,goals_per_shot_on_target,average_shot_distance,shots_free_kicks,pens_made,pens_att,xg,npxg,npxg_per_shot,xg_net,npxg_net,matches
+"Cancelo, João",POR,DF,27.0,13.9,0.0,31.0,11.0,35.5,2.24,0.79,0.0,0.0,22.4,1.0,0.0,0.0,1.7,1.7,0.05,-1.7,-1.7,https://fbref.com/en/players/bd6351cd/matchlogs/2021-2022/summary/Joao-Cancelo-Match-Logs
+Ederson,BRA,GK,28.0,13.0,0.0,0.0,0.0,,0.0,0.0,,,,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,https://fbref.com/en/players/3bb7b8b4/matchlogs/2021-2022/summary/Ederson-Match-Logs
+"Silva, Bernardo",POR,MF,27.0,12.4,5.0,15.0,9.0,60.0,1.21,0.73,0.33,0.56,10.8,0.0,0.0,0.0,2.5,2.5,0.17,2.5,2.5,https://fbref.com/en/players/3eb22ec9/matchlogs/2021-2022/summary/Bernardo-Silva-Match-Logs
+"Dias, Rúben",POR,DF,24.0,12.2,1.0,6.0,1.0,16.7,0.49,0.08,0.17,1.0,10.6,0.0,0.0,0.0,0.3,0.3,0.05,0.7,0.7,https://fbref.com/en/players/31c69ef1/matchlogs/2021-2022/summary/Ruben-Dias-Match-Logs
+Rodri,ESP,MF,25.0,12.0,2.0,13.0,4.0,30.8,1.08,0.33,0.15,0.5,18.9,0.0,0.0,0.0,0.8,0.8,0.06,1.2,1.2,https://fbref.com/en/players/6434f10d/matchlogs/2021-2022/summary/Rodri-Match-Logs
+"Walker, Kyle",ENG,DF,31.0,10.5,0.0,5.0,1.0,20.0,0.48,0.1,0.0,0.0,23.6,1.0,0.0,0.0,0.2,0.2,0.03,-0.2,-0.2,https://fbref.com/en/players/86dd77d1/matchlogs/2021-2022/summary/Kyle-Walker-Match-Logs
+"Jesus, Gabriel",BRA,FW,24.0,10.5,2.0,30.0,10.0,33.3,2.87,0.96,0.07,0.2,13.9,0.0,0.0,0.0,4.1,4.1,0.14,-2.1,-2.1,https://fbref.com/en/players/b66315ae/matchlogs/2021-2022/summary/Gabriel-Jesus-Match-Logs
+"Laporte, Aymeric",ESP,DF,27.0,9.1,1.0,12.0,1.0,8.3,1.32,0.11,0.08,1.0,9.7,0.0,0.0,0.0,1.3,1.3,0.11,-0.3,-0.3,https://fbref.com/en/players/119b9a8e/matchlogs/2021-2022/summary/Aymeric-Laporte-Match-Logs
+"Gündoğan, İlkay",GER,MF,31.0,8.6,3.0,22.0,6.0,27.3,2.56,0.7,0.14,0.5,13.4,2.0,0.0,0.0,3.6,3.6,0.16,-0.6,-0.6,https://fbref.com/en/players/819b3158/matchlogs/2021-2022/summary/Ilkay-Gundogan-Match-Logs
+"Grealish, Jack",ENG,"FW,MF",26.0,8.2,1.0,16.0,7.0,43.8,1.94,0.85,0.06,0.14,16.3,0.0,0.0,0.0,2.0,2.0,0.12,-1.0,-1.0,https://fbref.com/en/players/b0b4fd3e/matchlogs/2021-2022/summary/Jack-Grealish-Match-Logs
+"Foden, Phil",ENG,FW,21.0,6.8,3.0,16.0,9.0,56.3,2.35,1.32,0.19,0.33,12.7,0.0,0.0,0.0,3.1,3.1,0.2,-0.1,-0.1,https://fbref.com/en/players/ed1e53f3/matchlogs/2021-2022/summary/Phil-Foden-Match-Logs
+"Sterling, Raheem",ENG,FW,26.0,7.2,2.0,18.0,6.0,33.3,2.5,0.83,0.11,0.33,13.3,0.0,0.0,0.0,2.6,2.6,0.15,-0.6,-0.6,https://fbref.com/en/players/b400bde0/matchlogs/2021-2022/summary/Raheem-Sterling-Match-Logs
+"De Bruyne, Kevin",BEL,MF,30.0,5.0,2.0,17.0,4.0,23.5,3.38,0.79,0.12,0.5,17.4,0.0,0.0,0.0,1.5,1.5,0.09,0.5,0.5,https://fbref.com/en/players/e46012d4/matchlogs/2021-2022/summary/Kevin-De-Bruyne-Match-Logs
+"Mahrez, Riyad",ALG,FW,30.0,5.3,2.0,19.0,6.0,31.6,3.58,1.13,0.11,0.33,16.7,3.0,0.0,0.0,2.5,2.5,0.13,-0.5,-0.5,https://fbref.com/en/players/892d5bb1/matchlogs/2021-2022/summary/Riyad-Mahrez-Match-Logs
+"Aké, Nathan",NED,DF,26.0,4.2,0.0,1.0,0.0,0.0,0.24,0.0,0.0,,6.0,0.0,0.0,0.0,0.2,0.2,0.2,-0.2,-0.2,https://fbref.com/en/players/eaeca114/matchlogs/2021-2022/summary/Nathan-Ake-Match-Logs
+"Torres, Ferrán",ESP,FW,21.0,3.4,2.0,13.0,4.0,30.8,3.86,1.19,0.15,0.5,14.1,0.0,0.0,0.0,2.5,2.5,0.19,-0.5,-0.5,https://fbref.com/en/players/9e1035f8/matchlogs/2021-2022/summary/Ferran-Torres-Match-Logs
+"Stones, John",ENG,DF,27.0,3.4,0.0,1.0,0.0,0.0,0.3,0.0,0.0,,9.1,0.0,0.0,0.0,0.3,0.3,0.29,-0.3,-0.3,https://fbref.com/en/players/5eecec3d/matchlogs/2021-2022/summary/John-Stones-Match-Logs
+Fernandinho,BRA,MF,36.0,3.1,1.0,6.0,1.0,16.7,1.91,0.32,0.17,1.0,19.6,0.0,0.0,0.0,0.7,0.7,0.11,0.3,0.3,https://fbref.com/en/players/101da2b5/matchlogs/2021-2022/summary/Fernandinho-Match-Logs
+"Zinchenko, Oleksandr",UKR,DF,24.0,1.6,0.0,3.0,1.0,33.3,1.84,0.61,0.0,0.0,26.2,0.0,0.0,0.0,0.1,0.1,0.03,-0.1,-0.1,https://fbref.com/en/players/51cf8561/matchlogs/2021-2022/summary/Oleksandr-Zinchenko-Match-Logs
+"Palmer, Cole",ENG,"FW,MF",19.0,1.2,0.0,4.0,1.0,25.0,3.3,0.83,0.0,0.0,20.1,0.0,0.0,0.0,0.3,0.3,0.08,-0.3,-0.3,https://fbref.com/en/players/dc7f8a28/matchlogs/2021-2022/summary/Cole-Palmer-Match-Logs
+"Steffen, Zack",USA,GK,26.0,1.0,0.0,0.0,0.0,,0.0,0.0,,,,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,https://fbref.com/en/players/42130443/matchlogs/2021-2022/summary/Zack-Steffen-Match-Logs
+"Mendy, Benjamin",FRA,DF,27.0,0.9,0.0,0.0,0.0,,0.0,0.0,,,,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,https://fbref.com/en/players/5271c8f1/matchlogs/2021-2022/summary/Benjamin-Mendy-Match-Logs
+"Mcatee, James",ENG,FW,19.0,0.0,0.0,1.0,0.0,0.0,22.5,0.0,0.0,,13.0,0.0,0.0,0.0,0.0,0.0,0.04,0.0,0.0,https://fbref.com/en/players/96593e89/matchlogs/2021-2022/summary/James-Mcatee-Match-Logs

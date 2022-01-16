@@ -1,0 +1,295 @@
+name,date,dayofweek,round,venue,result,squad,opponent,game_started,position,minutes,sca,sca_passes_live,sca_passes_dead,sca_dribbles,sca_shots,sca_fouled,sca_defense,gca,gca_passes_live,gca_passes_dead,gca_dribbles,gca_shots,gca_fouled,gca_defense,bench_explain
+Edouard Mendy,2021-08-14,Sat,1,Home,W 3–0,Chelsea,Crystal Palace,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Edouard Mendy,2021-08-22,Sun,2,Away,W 2–0,Chelsea,Arsenal,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Edouard Mendy,2021-08-28,Sat,3,Away,D 1–1,Chelsea,Liverpool,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Edouard Mendy,2021-09-11,Sat,4,Home,W 3–0,Chelsea,Aston Villa,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Edouard Mendy,,,,,,,,,,,,,,,,,,,,,,,,,
+Edouard Mendy,2021-09-25,Sat,6,Home,L 0–1,Chelsea,Manchester City,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Edouard Mendy,2021-10-02,Sat,7,Home,W 3–1,Chelsea,Southampton,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Edouard Mendy,2021-10-16,Sat,8,Away,W 1–0,Chelsea,Brentford,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Edouard Mendy,2021-10-23,Sat,9,Home,W 7–0,Chelsea,Norwich City,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Edouard Mendy,2021-10-30,Sat,10,Away,W 3–0,Chelsea,Newcastle Utd,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Edouard Mendy,2021-11-06,Sat,11,Home,D 1–1,Chelsea,Burnley,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Edouard Mendy,2021-11-20,Sat,12,Away,W 3–0,Chelsea,Leicester City,Y,GK,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Edouard Mendy,2021-11-28,Sun,13,Home,D 1–1,Chelsea,Manchester Utd,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Edouard Mendy,2021-12-01,Wed,14,Away,W 2–1,Chelsea,Watford,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Antonio Rüdiger,2021-08-14,Sat,1,Home,W 3–0,Chelsea,Crystal Palace,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Antonio Rüdiger,2021-08-22,Sun,2,Away,W 2–0,Chelsea,Arsenal,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Antonio Rüdiger,2021-08-28,Sat,3,Away,D 1–1,Chelsea,Liverpool,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Antonio Rüdiger,2021-09-11,Sat,4,Home,W 3–0,Chelsea,Aston Villa,Y,CB,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Antonio Rüdiger,2021-09-19,Sun,5,Away,W 3–0,Chelsea,Tottenham,Y,CB,90.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Antonio Rüdiger,2021-09-25,Sat,6,Home,L 0–1,Chelsea,Manchester City,Y,CB,90.0,3.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Antonio Rüdiger,2021-10-02,Sat,7,Home,W 3–1,Chelsea,Southampton,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Antonio Rüdiger,,,,,,,,,,,,,,,,,,,,,,,,,
+Antonio Rüdiger,2021-10-23,Sat,9,Home,W 7–0,Chelsea,Norwich City,Y,CB,90.0,4.0,3.0,0.0,0.0,1.0,0.0,0.0,2.0,1.0,0.0,0.0,1.0,0.0,0.0,
+Antonio Rüdiger,2021-10-30,Sat,10,Away,W 3–0,Chelsea,Newcastle Utd,Y,CB,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Antonio Rüdiger,2021-11-06,Sat,11,Home,D 1–1,Chelsea,Burnley,Y,CB,90.0,4.0,3.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Antonio Rüdiger,2021-11-20,Sat,12,Away,W 3–0,Chelsea,Leicester City,Y,CB,90.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Antonio Rüdiger,2021-11-28,Sun,13,Home,D 1–1,Chelsea,Manchester Utd,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Antonio Rüdiger,2021-12-01,Wed,14,Away,W 2–1,Chelsea,Watford,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Jorginho,2021-08-14,Sat,1,Home,W 3–0,Chelsea,Crystal Palace,Y,DM,90.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Jorginho,2021-08-22,Sun,2,Away,W 2–0,Chelsea,Arsenal,Y,DM,90.0,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Jorginho,2021-08-28,Sat,3,Away,D 1–1,Chelsea,Liverpool,Y,DM,86.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Jorginho,2021-09-11,Sat,4,Home,W 3–0,Chelsea,Aston Villa,N,DM,45.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Jorginho,2021-09-19,Sun,5,Away,W 3–0,Chelsea,Tottenham,Y,DM,90.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Jorginho,2021-09-25,Sat,6,Home,L 0–1,Chelsea,Manchester City,Y,DM,75.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Jorginho,2021-10-02,Sat,7,Home,W 3–1,Chelsea,Southampton,N,DM,18.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Jorginho,2021-10-16,Sat,8,Away,W 1–0,Chelsea,Brentford,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Jorginho,2021-10-23,Sat,9,Home,W 7–0,Chelsea,Norwich City,Y*,DM,63.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,
+Jorginho,2021-10-30,Sat,10,Away,W 3–0,Chelsea,Newcastle Utd,Y*,DM,90.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Jorginho,2021-11-06,Sat,11,Home,D 1–1,Chelsea,Burnley,Y*,DM,90.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Jorginho,2021-11-20,Sat,12,Away,W 3–0,Chelsea,Leicester City,Y*,DM,76.0,4.0,2.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Jorginho,2021-11-28,Sun,13,Home,D 1–1,Chelsea,Manchester Utd,Y*,DM,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Jorginho,2021-12-01,Wed,14,Away,W 2–1,Chelsea,Watford,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Andreas Christensen,2021-08-14,Sat,1,Home,W 3–0,Chelsea,Crystal Palace,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Andreas Christensen,2021-08-22,Sun,2,Away,W 2–0,Chelsea,Arsenal,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Andreas Christensen,2021-08-28,Sat,3,Away,D 1–1,Chelsea,Liverpool,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Andreas Christensen,2021-09-11,Sat,4,Home,W 3–0,Chelsea,Aston Villa,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Andreas Christensen,2021-09-19,Sun,5,Away,W 3–0,Chelsea,Tottenham,Y,CB,90.0,3.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Andreas Christensen,2021-09-25,Sat,6,Home,L 0–1,Chelsea,Manchester City,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Andreas Christensen,2021-10-02,Sat,7,Home,W 3–1,Chelsea,Southampton,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Andreas Christensen,2021-10-16,Sat,8,Away,W 1–0,Chelsea,Brentford,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Andreas Christensen,2021-10-23,Sat,9,Home,W 7–0,Chelsea,Norwich City,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Andreas Christensen,2021-10-30,Sat,10,Away,W 3–0,Chelsea,Newcastle Utd,Y,CB,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Andreas Christensen,2021-11-06,Sat,11,Home,D 1–1,Chelsea,Burnley,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Andreas Christensen,2021-11-20,Sat,12,Away,W 3–0,Chelsea,Leicester City,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Andreas Christensen,2021-11-28,Sun,13,Home,D 1–1,Chelsea,Manchester Utd,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Andreas Christensen,2021-12-01,Wed,14,Away,W 2–1,Chelsea,Watford,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kai Havertz,2021-08-14,Sat,1,Home,W 3–0,Chelsea,Crystal Palace,N,AM,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kai Havertz,2021-08-22,Sun,2,Away,W 2–0,Chelsea,Arsenal,Y,LW,89.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kai Havertz,2021-08-28,Sat,3,Away,D 1–1,Chelsea,Liverpool,Y,AM,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kai Havertz,2021-09-11,Sat,4,Home,W 3–0,Chelsea,Aston Villa,Y,AM,63.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kai Havertz,2021-09-19,Sun,5,Away,W 3–0,Chelsea,Tottenham,Y,"LW,FW",69.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kai Havertz,2021-09-25,Sat,6,Home,L 0–1,Chelsea,Manchester City,N,"AM,CM",31.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kai Havertz,2021-10-02,Sat,7,Home,W 3–1,Chelsea,Southampton,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Kai Havertz,2021-10-16,Sat,8,Away,W 1–0,Chelsea,Brentford,N,FW,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kai Havertz,2021-10-23,Sat,9,Home,W 7–0,Chelsea,Norwich City,Y,FW,69.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kai Havertz,2021-10-30,Sat,10,Away,W 3–0,Chelsea,Newcastle Utd,Y,FW,90.0,5.0,2.0,0.0,0.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,
+Kai Havertz,2021-11-06,Sat,11,Home,D 1–1,Chelsea,Burnley,Y,FW,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kai Havertz,2021-11-20,Sat,12,Away,W 3–0,Chelsea,Leicester City,Y,FW,61.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kai Havertz,2021-11-28,Sun,13,Home,D 1–1,Chelsea,Manchester Utd,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Kai Havertz,2021-12-01,Wed,14,Away,W 2–1,Chelsea,Watford,Y,"FW,AM",90.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Thiago Silva,2021-08-14,Sat,1,Home,W 3–0,Chelsea,Crystal Palace,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Thiago Silva,2021-08-22,Sun,2,Away,W 2–0,Chelsea,Arsenal,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Thiago Silva,2021-08-28,Sat,3,Away,D 1–1,Chelsea,Liverpool,N,CB,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Thiago Silva,2021-09-11,Sat,4,Home,W 3–0,Chelsea,Aston Villa,Y,CB,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Thiago Silva,2021-09-19,Sun,5,Away,W 3–0,Chelsea,Tottenham,Y,CB,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Thiago Silva,2021-09-25,Sat,6,Home,L 0–1,Chelsea,Manchester City,N,CB,62.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Thiago Silva,2021-10-02,Sat,7,Home,W 3–1,Chelsea,Southampton,Y,CB,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Thiago Silva,,,,,,,,,,,,,,,,,,,,,,,,,
+Thiago Silva,2021-10-23,Sat,9,Home,W 7–0,Chelsea,Norwich City,Y,CB,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Thiago Silva,2021-10-30,Sat,10,Away,W 3–0,Chelsea,Newcastle Utd,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Thiago Silva,2021-11-06,Sat,11,Home,D 1–1,Chelsea,Burnley,Y,CB,90.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Thiago Silva,2021-11-20,Sat,12,Away,W 3–0,Chelsea,Leicester City,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Thiago Silva,2021-11-28,Sun,13,Home,D 1–1,Chelsea,Manchester Utd,Y,CB,90.0,3.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,
+Thiago Silva,2021-12-01,Wed,14,Away,W 2–1,Chelsea,Watford,N,CB,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Marcos Alonso,2021-08-14,Sat,1,Home,W 3–0,Chelsea,Crystal Palace,Y,WB,85.0,3.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Marcos Alonso,2021-08-22,Sun,2,Away,W 2–0,Chelsea,Arsenal,Y,WB,90.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Marcos Alonso,2021-08-28,Sat,3,Away,D 1–1,Chelsea,Liverpool,Y,WB,90.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Marcos Alonso,2021-09-11,Sat,4,Home,W 3–0,Chelsea,Aston Villa,Y*,WB,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Marcos Alonso,2021-09-19,Sun,5,Away,W 3–0,Chelsea,Tottenham,Y,WB,90.0,5.0,2.0,2.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,
+Marcos Alonso,2021-09-25,Sat,6,Home,L 0–1,Chelsea,Manchester City,Y,WB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Marcos Alonso,2021-10-02,Sat,7,Home,W 3–1,Chelsea,Southampton,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Marcos Alonso,2021-10-16,Sat,8,Away,W 1–0,Chelsea,Brentford,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Marcos Alonso,2021-10-23,Sat,9,Home,W 7–0,Chelsea,Norwich City,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Marcos Alonso,2021-10-30,Sat,10,Away,W 3–0,Chelsea,Newcastle Utd,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Marcos Alonso,,,,,,,,,,,,,,,,,,,,,,,,,
+Marcos Alonso,2021-11-20,Sat,12,Away,W 3–0,Chelsea,Leicester City,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Marcos Alonso,2021-11-28,Sun,13,Home,D 1–1,Chelsea,Manchester Utd,Y,WB,77.0,7.0,5.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Marcos Alonso,2021-12-01,Wed,14,Away,W 2–1,Chelsea,Watford,Y,WB,90.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,
+Mateo Kovačić,2021-08-14,Sat,1,Home,W 3–0,Chelsea,Crystal Palace,Y,DM,90.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Mateo Kovačić,2021-08-22,Sun,2,Away,W 2–0,Chelsea,Arsenal,Y,DM,71.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Mateo Kovačić,2021-08-28,Sat,3,Away,D 1–1,Chelsea,Liverpool,N,CM,45.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Mateo Kovačić,2021-09-11,Sat,4,Home,W 3–0,Chelsea,Aston Villa,Y,DM,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Mateo Kovačić,2021-09-19,Sun,5,Away,W 3–0,Chelsea,Tottenham,Y,"CM,DM",90.0,6.0,6.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Mateo Kovačić,2021-09-25,Sat,6,Home,L 0–1,Chelsea,Manchester City,Y,"CM,DM",90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Mateo Kovačić,2021-10-02,Sat,7,Home,W 3–1,Chelsea,Southampton,Y,DM,72.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Mateo Kovačić,2021-10-16,Sat,8,Away,W 1–0,Chelsea,Brentford,Y,CM,64.0,2.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Mateo Kovačić,2021-10-23,Sat,9,Home,W 7–0,Chelsea,Norwich City,Y,DM,90.0,9.0,8.0,0.0,0.0,1.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,
+César Azpilicueta,2021-08-14,Sat,1,Home,W 3–0,Chelsea,Crystal Palace,Y*,WB,66.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,
+César Azpilicueta,2021-08-22,Sun,2,Away,W 2–0,Chelsea,Arsenal,Y*,CB,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+César Azpilicueta,2021-08-28,Sat,3,Away,D 1–1,Chelsea,Liverpool,Y*,"WB,CB",90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+César Azpilicueta,2021-09-11,Sat,4,Home,W 3–0,Chelsea,Aston Villa,N,WB,27.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,
+César Azpilicueta,2021-09-19,Sun,5,Away,W 3–0,Chelsea,Tottenham,Y*,WB,90.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+César Azpilicueta,2021-09-25,Sat,6,Home,L 0–1,Chelsea,Manchester City,Y*,"WB,CB",90.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+César Azpilicueta,2021-10-02,Sat,7,Home,W 3–1,Chelsea,Southampton,Y*,WB,90.0,7.0,6.0,0.0,0.0,1.0,0.0,0.0,2.0,1.0,0.0,0.0,1.0,0.0,0.0,
+César Azpilicueta,2021-10-16,Sat,8,Away,W 1–0,Chelsea,Brentford,Y*,WB,88.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+César Azpilicueta,2021-10-23,Sat,9,Home,W 7–0,Chelsea,Norwich City,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+César Azpilicueta,2021-10-30,Sat,10,Away,W 3–0,Chelsea,Newcastle Utd,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+César Azpilicueta,2021-11-06,Sat,11,Home,D 1–1,Chelsea,Burnley,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+César Azpilicueta,2021-11-20,Sat,12,Away,W 3–0,Chelsea,Leicester City,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+César Azpilicueta,2021-11-28,Sun,13,Home,D 1–1,Chelsea,Manchester Utd,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+César Azpilicueta,2021-12-01,Wed,14,Away,W 2–1,Chelsea,Watford,Y*,WB,68.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Trevoh Chalobah,2021-08-14,Sat,1,Home,W 3–0,Chelsea,Crystal Palace,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Trevoh Chalobah,2021-08-22,Sun,2,Away,W 2–0,Chelsea,Arsenal,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Trevoh Chalobah,2021-08-28,Sat,3,Away,D 1–1,Chelsea,Liverpool,N,DM,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Trevoh Chalobah,2021-09-11,Sat,4,Home,W 3–0,Chelsea,Aston Villa,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Trevoh Chalobah,2021-09-19,Sun,5,Away,W 3–0,Chelsea,Tottenham,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Trevoh Chalobah,2021-09-25,Sat,6,Home,L 0–1,Chelsea,Manchester City,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Trevoh Chalobah,2021-10-02,Sat,7,Home,W 3–1,Chelsea,Southampton,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Trevoh Chalobah,2021-10-16,Sat,8,Away,W 1–0,Chelsea,Brentford,Y,CB,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Trevoh Chalobah,2021-10-23,Sat,9,Home,W 7–0,Chelsea,Norwich City,Y,CB,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Trevoh Chalobah,2021-10-30,Sat,10,Away,W 3–0,Chelsea,Newcastle Utd,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Trevoh Chalobah,2021-11-06,Sat,11,Home,D 1–1,Chelsea,Burnley,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Trevoh Chalobah,2021-11-20,Sat,12,Away,W 3–0,Chelsea,Leicester City,Y,CB,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Trevoh Chalobah,2021-11-28,Sun,13,Home,D 1–1,Chelsea,Manchester Utd,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Trevoh Chalobah,2021-12-01,Wed,14,Away,W 2–1,Chelsea,Watford,Y,"CB,DM",59.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Reece James,2021-08-14,Sat,1,Home,W 3–0,Chelsea,Crystal Palace,N,WB,24.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Reece James,2021-08-22,Sun,2,Away,W 2–0,Chelsea,Arsenal,Y,WB,90.0,7.0,7.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Reece James,2021-08-28,Sat,3,Away,D 1–1,Chelsea,Liverpool,Y,"AM,WB",44.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,
+Reece James,,,,,,,,,,,,,,,,,,,,,,,,,
+Reece James,2021-09-19,Sun,5,Away,W 3–0,Chelsea,Tottenham,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Reece James,2021-09-25,Sat,6,Home,L 0–1,Chelsea,Manchester City,Y,WB,28.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Reece James,,,,,,,,,,,,,,,,,,,,,,,,,
+Reece James,2021-10-16,Sat,8,Away,W 1–0,Chelsea,Brentford,N,WB,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Reece James,2021-10-23,Sat,9,Home,W 7–0,Chelsea,Norwich City,Y,WB,90.0,4.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Reece James,2021-10-30,Sat,10,Away,W 3–0,Chelsea,Newcastle Utd,Y,WB,90.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Reece James,2021-11-06,Sat,11,Home,D 1–1,Chelsea,Burnley,Y,WB,90.0,7.0,6.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Reece James,2021-11-20,Sat,12,Away,W 3–0,Chelsea,Leicester City,Y,WB,90.0,4.0,2.0,0.0,1.0,1.0,0.0,0.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,
+Reece James,2021-11-28,Sun,13,Home,D 1–1,Chelsea,Manchester Utd,Y,WB,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Romelu Lukaku,2021-08-22,Sun,2,Away,W 2–0,Chelsea,Arsenal,Y,FW,90.0,5.0,4.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,
+Romelu Lukaku,2021-08-28,Sat,3,Away,D 1–1,Chelsea,Liverpool,Y,FW,90.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Romelu Lukaku,2021-09-11,Sat,4,Home,W 3–0,Chelsea,Aston Villa,Y,FW,90.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,
+Romelu Lukaku,2021-09-19,Sun,5,Away,W 3–0,Chelsea,Tottenham,Y,FW,90.0,4.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Romelu Lukaku,2021-09-25,Sat,6,Home,L 0–1,Chelsea,Manchester City,Y,FW,90.0,2.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Romelu Lukaku,2021-10-02,Sat,7,Home,W 3–1,Chelsea,Southampton,Y,FW,90.0,4.0,2.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Romelu Lukaku,2021-10-16,Sat,8,Away,W 1–0,Chelsea,Brentford,Y,FW,75.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Romelu Lukaku,,,,,,,,,,,,,,,,,,,,,,,,,
+Romelu Lukaku,2021-11-28,Sun,13,Home,D 1–1,Chelsea,Manchester Utd,N,FW,9.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Romelu Lukaku,2021-12-01,Wed,14,Away,W 2–1,Chelsea,Watford,N,FW,22.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Mason Mount,2021-08-14,Sat,1,Home,W 3–0,Chelsea,Crystal Palace,Y,AM,90.0,5.0,2.0,0.0,0.0,0.0,3.0,0.0,2.0,1.0,0.0,0.0,0.0,1.0,0.0,
+Mason Mount,2021-08-22,Sun,2,Away,W 2–0,Chelsea,Arsenal,Y,RW,81.0,6.0,5.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Mason Mount,2021-08-28,Sat,3,Away,D 1–1,Chelsea,Liverpool,Y,"CM,AM",90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Mason Mount,2021-09-11,Sat,4,Home,W 3–0,Chelsea,Aston Villa,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Mason Mount,2021-09-19,Sun,5,Away,W 3–0,Chelsea,Tottenham,Y,RW,45.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Mason Mount,,,,,,,,,,,,,,,,,,,,,,,,,
+Mason Mount,2021-10-02,Sat,7,Home,W 3–1,Chelsea,Southampton,N,RW,26.0,3.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Mason Mount,2021-10-16,Sat,8,Away,W 1–0,Chelsea,Brentford,N,CM,26.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Mason Mount,2021-10-23,Sat,9,Home,W 7–0,Chelsea,Norwich City,Y,"AM,FW",90.0,4.0,3.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Mason Mount,,,,,,,,,,,,,,,,,,,,,,,,,
+Mason Mount,2021-11-06,Sat,11,Home,D 1–1,Chelsea,Burnley,N,DM,6.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Mason Mount,2021-11-20,Sat,12,Away,W 3–0,Chelsea,Leicester City,Y,RW,61.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Mason Mount,2021-11-28,Sun,13,Home,D 1–1,Chelsea,Manchester Utd,N,RW,13.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Mason Mount,2021-12-01,Wed,14,Away,W 2–1,Chelsea,Watford,Y,"AM,DM",90.0,2.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Callum Hudson-Odoi,2021-08-14,Sat,1,Home,W 3–0,Chelsea,Crystal Palace,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Callum Hudson-Odoi,2021-08-22,Sun,2,Away,W 2–0,Chelsea,Arsenal,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Callum Hudson-Odoi,2021-08-28,Sat,3,Away,D 1–1,Chelsea,Liverpool,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Callum Hudson-Odoi,2021-09-11,Sat,4,Home,W 3–0,Chelsea,Aston Villa,Y,"WB,AM",81.0,4.0,2.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Callum Hudson-Odoi,2021-09-19,Sun,5,Away,W 3–0,Chelsea,Tottenham,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Callum Hudson-Odoi,2021-09-25,Sat,6,Home,L 0–1,Chelsea,Manchester City,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Callum Hudson-Odoi,2021-10-02,Sat,7,Home,W 3–1,Chelsea,Southampton,Y,LW,64.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Callum Hudson-Odoi,2021-10-16,Sat,8,Away,W 1–0,Chelsea,Brentford,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Callum Hudson-Odoi,2021-10-23,Sat,9,Home,W 7–0,Chelsea,Norwich City,Y,AM,69.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Callum Hudson-Odoi,2021-10-30,Sat,10,Away,W 3–0,Chelsea,Newcastle Utd,Y,AM,87.0,5.0,4.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Callum Hudson-Odoi,2021-11-06,Sat,11,Home,D 1–1,Chelsea,Burnley,Y,FW,84.0,8.0,6.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Callum Hudson-Odoi,2021-11-20,Sat,12,Away,W 3–0,Chelsea,Leicester City,Y,LW,90.0,5.0,2.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Callum Hudson-Odoi,2021-11-28,Sun,13,Home,D 1–1,Chelsea,Manchester Utd,Y,LW,77.0,6.0,5.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Callum Hudson-Odoi,2021-12-01,Wed,14,Away,W 2–1,Chelsea,Watford,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ben Chilwell,2021-08-14,Sat,1,Home,W 3–0,Chelsea,Crystal Palace,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ben Chilwell,2021-08-22,Sun,2,Away,W 2–0,Chelsea,Arsenal,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ben Chilwell,2021-08-28,Sat,3,Away,D 1–1,Chelsea,Liverpool,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ben Chilwell,2021-09-11,Sat,4,Home,W 3–0,Chelsea,Aston Villa,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ben Chilwell,2021-09-19,Sun,5,Away,W 3–0,Chelsea,Tottenham,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ben Chilwell,2021-09-25,Sat,6,Home,L 0–1,Chelsea,Manchester City,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ben Chilwell,2021-10-02,Sat,7,Home,W 3–1,Chelsea,Southampton,Y,WB,90.0,7.0,3.0,2.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Ben Chilwell,2021-10-16,Sat,8,Away,W 1–0,Chelsea,Brentford,Y,WB,90.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Ben Chilwell,2021-10-23,Sat,9,Home,W 7–0,Chelsea,Norwich City,Y,WB,90.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Ben Chilwell,2021-10-30,Sat,10,Away,W 3–0,Chelsea,Newcastle Utd,Y,WB,90.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Ben Chilwell,2021-11-06,Sat,11,Home,D 1–1,Chelsea,Burnley,Y,WB,90.0,6.0,2.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Ben Chilwell,2021-11-20,Sat,12,Away,W 3–0,Chelsea,Leicester City,Y,WB,90.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,
+N'Golo Kanté,2021-08-22,Sun,2,Away,W 2–0,Chelsea,Arsenal,N,"DM,LM",19.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+N'Golo Kanté,2021-08-28,Sat,3,Away,D 1–1,Chelsea,Liverpool,Y,DM,45.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+N'Golo Kanté,,,,,,,,,,,,,,,,,,,,,,,,,
+N'Golo Kanté,2021-09-19,Sun,5,Away,W 3–0,Chelsea,Tottenham,N,CM,45.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+N'Golo Kanté,2021-09-25,Sat,6,Home,L 0–1,Chelsea,Manchester City,Y,CM,59.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+N'Golo Kanté,,,,,,,,,,,,,,,,,,,,,,,,,
+N'Golo Kanté,2021-10-16,Sat,8,Away,W 1–0,Chelsea,Brentford,Y,CM,90.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+N'Golo Kanté,,,,,,,,,,,,,,,,,,,,,,,,,
+N'Golo Kanté,2021-10-30,Sat,10,Away,W 3–0,Chelsea,Newcastle Utd,Y,DM,63.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+N'Golo Kanté,2021-11-06,Sat,11,Home,D 1–1,Chelsea,Burnley,Y,DM,84.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+N'Golo Kanté,2021-11-20,Sat,12,Away,W 3–0,Chelsea,Leicester City,Y,DM,90.0,3.0,2.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Timo Werner,2021-08-14,Sat,1,Home,W 3–0,Chelsea,Crystal Palace,Y,FW,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Timo Werner,2021-08-22,Sun,2,Away,W 2–0,Chelsea,Arsenal,N,FW,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Timo Werner,2021-08-28,Sat,3,Away,D 1–1,Chelsea,Liverpool,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Timo Werner,2021-09-11,Sat,4,Home,W 3–0,Chelsea,Aston Villa,N,AM,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Timo Werner,2021-09-19,Sun,5,Away,W 3–0,Chelsea,Tottenham,N,FW,21.0,3.0,2.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Timo Werner,2021-09-25,Sat,6,Home,L 0–1,Chelsea,Manchester City,Y,"FW,AM",90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Timo Werner,2021-10-02,Sat,7,Home,W 3–1,Chelsea,Southampton,Y,"RW,LW",90.0,3.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Timo Werner,2021-10-16,Sat,8,Away,W 1–0,Chelsea,Brentford,Y,FW,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Timo Werner,,,,,,,,,,,,,,,,,,,,,,,,,
+Timo Werner,2021-11-20,Sat,12,Away,W 3–0,Chelsea,Leicester City,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Timo Werner,2021-11-28,Sun,13,Home,D 1–1,Chelsea,Manchester Utd,Y,FW,81.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Timo Werner,2021-12-01,Wed,14,Away,W 2–1,Chelsea,Watford,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ruben Loftus-Cheek,2021-08-28,Sat,3,Away,D 1–1,Chelsea,Liverpool,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ruben Loftus-Cheek,2021-09-11,Sat,4,Home,W 3–0,Chelsea,Aston Villa,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ruben Loftus-Cheek,,,,,,,,,,,,,,,,,,,,,,,,,
+Ruben Loftus-Cheek,2021-09-25,Sat,6,Home,L 0–1,Chelsea,Manchester City,N,DM,15.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Ruben Loftus-Cheek,2021-10-02,Sat,7,Home,W 3–1,Chelsea,Southampton,Y,DM,82.0,2.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,
+Ruben Loftus-Cheek,2021-10-16,Sat,8,Away,W 1–0,Chelsea,Brentford,Y,DM,90.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Ruben Loftus-Cheek,2021-10-23,Sat,9,Home,W 7–0,Chelsea,Norwich City,N,DM,27.0,3.0,1.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Ruben Loftus-Cheek,2021-10-30,Sat,10,Away,W 3–0,Chelsea,Newcastle Utd,N,DM,27.0,2.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,
+Ruben Loftus-Cheek,2021-11-06,Sat,11,Home,D 1–1,Chelsea,Burnley,N,AM,18.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Ruben Loftus-Cheek,2021-11-20,Sat,12,Away,W 3–0,Chelsea,Leicester City,N,DM,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Ruben Loftus-Cheek,2021-11-28,Sun,13,Home,D 1–1,Chelsea,Manchester Utd,Y,DM,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Ruben Loftus-Cheek,2021-12-01,Wed,14,Away,W 2–1,Chelsea,Watford,Y,DM,90.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Hakim Ziyech,2021-08-22,Sun,2,Away,W 2–0,Chelsea,Arsenal,N,"RW,DM",9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Hakim Ziyech,2021-08-28,Sat,3,Away,D 1–1,Chelsea,Liverpool,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Hakim Ziyech,2021-09-11,Sat,4,Home,W 3–0,Chelsea,Aston Villa,Y,AM,90.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Hakim Ziyech,2021-09-19,Sun,5,Away,W 3–0,Chelsea,Tottenham,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Hakim Ziyech,2021-09-25,Sat,6,Home,L 0–1,Chelsea,Manchester City,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Hakim Ziyech,2021-10-02,Sat,7,Home,W 3–1,Chelsea,Southampton,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Hakim Ziyech,,,,,,,,,,,,,,,,,,,,,,,,,
+Hakim Ziyech,2021-10-23,Sat,9,Home,W 7–0,Chelsea,Norwich City,N,AM,21.0,4.0,2.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Hakim Ziyech,2021-10-30,Sat,10,Away,W 3–0,Chelsea,Newcastle Utd,Y,AM,63.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Hakim Ziyech,2021-11-06,Sat,11,Home,D 1–1,Chelsea,Burnley,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Hakim Ziyech,2021-11-20,Sat,12,Away,W 3–0,Chelsea,Leicester City,N,RW,29.0,3.0,2.0,0.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,
+Hakim Ziyech,2021-11-28,Sun,13,Home,D 1–1,Chelsea,Manchester Utd,Y,"RW,LW",90.0,5.0,3.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Hakim Ziyech,2021-12-01,Wed,14,Away,W 2–1,Chelsea,Watford,N,AM,31.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Christian Pulisic,2021-08-14,Sat,1,Home,W 3–0,Chelsea,Crystal Palace,Y,AM,81.0,2.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Christian Pulisic,,,,,,,,,,,,,,,,,,,,,,,,,
+Christian Pulisic,2021-11-06,Sat,11,Home,D 1–1,Chelsea,Burnley,N,FW,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Christian Pulisic,2021-11-20,Sat,12,Away,W 3–0,Chelsea,Leicester City,N,FW,29.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Christian Pulisic,2021-11-28,Sun,13,Home,D 1–1,Chelsea,Manchester Utd,N,WB,13.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Christian Pulisic,2021-12-01,Wed,14,Away,W 2–1,Chelsea,Watford,Y,"AM,WB",90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Saúl Ñíguez,2021-09-11,Sat,4,Home,W 3–0,Chelsea,Aston Villa,Y,DM,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Saúl Ñíguez,2021-09-19,Sun,5,Away,W 3–0,Chelsea,Tottenham,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Saúl Ñíguez,2021-09-25,Sat,6,Home,L 0–1,Chelsea,Manchester City,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Saúl Ñíguez,2021-10-02,Sat,7,Home,W 3–1,Chelsea,Southampton,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Saúl Ñíguez,2021-10-16,Sat,8,Away,W 1–0,Chelsea,Brentford,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Saúl Ñíguez,2021-10-23,Sat,9,Home,W 7–0,Chelsea,Norwich City,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Saúl Ñíguez,2021-10-30,Sat,10,Away,W 3–0,Chelsea,Newcastle Utd,N,AM,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Saúl Ñíguez,2021-11-06,Sat,11,Home,D 1–1,Chelsea,Burnley,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Saúl Ñíguez,,,,,,,,,,,,,,,,,,,,,,,,,
+Saúl Ñíguez,2021-11-28,Sun,13,Home,D 1–1,Chelsea,Manchester Utd,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Saúl Ñíguez,2021-12-01,Wed,14,Away,W 2–1,Chelsea,Watford,Y,DM,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Ross Barkley,2021-09-11,Sat,4,Home,W 3–0,Chelsea,Aston Villa,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ross Barkley,,,,,,,,,,,,,,,,,,,,,,,,,
+Ross Barkley,2021-10-02,Sat,7,Home,W 3–1,Chelsea,Southampton,N,DM,8.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Ross Barkley,2021-10-16,Sat,8,Away,W 1–0,Chelsea,Brentford,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ross Barkley,2021-10-23,Sat,9,Home,W 7–0,Chelsea,Norwich City,N,AM,21.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Ross Barkley,2021-10-30,Sat,10,Away,W 3–0,Chelsea,Newcastle Utd,N,AM,27.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+Ross Barkley,2021-11-06,Sat,11,Home,D 1–1,Chelsea,Burnley,Y,AM,72.0,11.0,6.0,2.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Ross Barkley,2021-11-20,Sat,12,Away,W 3–0,Chelsea,Leicester City,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ross Barkley,2021-11-28,Sun,13,Home,D 1–1,Chelsea,Manchester Utd,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ross Barkley,2021-12-01,Wed,14,Away,W 2–1,Chelsea,Watford,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Kepa Arrizabalaga,2021-08-14,Sat,1,Home,W 3–0,Chelsea,Crystal Palace,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Kepa Arrizabalaga,2021-08-22,Sun,2,Away,W 2–0,Chelsea,Arsenal,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Kepa Arrizabalaga,2021-08-28,Sat,3,Away,D 1–1,Chelsea,Liverpool,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Kepa Arrizabalaga,2021-09-11,Sat,4,Home,W 3–0,Chelsea,Aston Villa,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Kepa Arrizabalaga,2021-09-19,Sun,5,Away,W 3–0,Chelsea,Tottenham,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kepa Arrizabalaga,2021-09-25,Sat,6,Home,L 0–1,Chelsea,Manchester City,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Kepa Arrizabalaga,2021-10-02,Sat,7,Home,W 3–1,Chelsea,Southampton,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Kepa Arrizabalaga,2021-10-16,Sat,8,Away,W 1–0,Chelsea,Brentford,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Kepa Arrizabalaga,2021-10-23,Sat,9,Home,W 7–0,Chelsea,Norwich City,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Kepa Arrizabalaga,2021-10-30,Sat,10,Away,W 3–0,Chelsea,Newcastle Utd,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Kepa Arrizabalaga,2021-11-06,Sat,11,Home,D 1–1,Chelsea,Burnley,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Kepa Arrizabalaga,2021-11-20,Sat,12,Away,W 3–0,Chelsea,Leicester City,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Kepa Arrizabalaga,2021-11-28,Sun,13,Home,D 1–1,Chelsea,Manchester Utd,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Kepa Arrizabalaga,2021-12-01,Wed,14,Away,W 2–1,Chelsea,Watford,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Malang Sarr,2021-10-16,Sat,8,Away,W 1–0,Chelsea,Brentford,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Malang Sarr,2021-10-23,Sat,9,Home,W 7–0,Chelsea,Norwich City,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Malang Sarr,2021-10-30,Sat,10,Away,W 3–0,Chelsea,Newcastle Utd,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Malang Sarr,2021-11-06,Sat,11,Home,D 1–1,Chelsea,Burnley,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Malang Sarr,,,,,,,,,,,,,,,,,,,,,,,,,
+Malang Sarr,2021-12-01,Wed,14,Away,W 2–1,Chelsea,Watford,N,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Emerson Palmieri,2021-08-14,Sat,1,Home,W 3–0,Chelsea,Crystal Palace,N,WB,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,

@@ -1,0 +1,20 @@
+player,nationality,position,age,minutes_90s,sca,sca_per90,sca_passes_live,sca_passes_dead,sca_dribbles,sca_shots,sca_fouled,sca_defense,gca,gca_per90,gca_passes_live,gca_passes_dead,gca_dribbles,gca_shots,gca_fouled,gca_defense,matches
+"Fabiański, Łukasz",POL,GK,36.0,14.0,2.0,0.14,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/9328b835/matchlogs/2021-2022/gca/Lukasz-Fabianski-Match-Logs
+"Rice, Declan",ENG,MF,22.0,14.0,29.0,2.07,25.0,0.0,1.0,1.0,0.0,2.0,3.0,0.21,3.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/1c7012b8/matchlogs/2021-2022/gca/Declan-Rice-Match-Logs
+"Souček, Tomáš",CZE,MF,26.0,13.9,13.0,0.94,11.0,0.0,0.0,1.0,0.0,1.0,1.0,0.07,1.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/6613c819/matchlogs/2021-2022/gca/Tomas-Soucek-Match-Logs
+"Fornals, Pablo",ESP,"FW,MF",25.0,13.3,40.0,3.01,32.0,2.0,1.0,2.0,2.0,1.0,5.0,0.38,3.0,1.0,0.0,1.0,0.0,0.0,https://fbref.com/en/players/82927de4/matchlogs/2021-2022/gca/Pablo-Fornals-Match-Logs
+"Benrahma, Saïd",ALG,"MF,FW",26.0,12.4,38.0,3.07,28.0,0.0,3.0,2.0,4.0,1.0,4.0,0.32,4.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/5a04fd92/matchlogs/2021-2022/gca/Said-Benrahma-Match-Logs
+"Antonio, Michail",JAM,FW,31.0,12.9,53.0,4.09,34.0,0.0,5.0,6.0,4.0,4.0,9.0,0.7,4.0,0.0,1.0,3.0,0.0,1.0,https://fbref.com/en/players/ac05f970/matchlogs/2021-2022/gca/Michail-Antonio-Match-Logs
+"Cresswell, Aaron",ENG,DF,31.0,12.7,26.0,2.05,14.0,10.0,0.0,2.0,0.0,0.0,2.0,0.16,1.0,1.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/4f974391/matchlogs/2021-2022/gca/Aaron-Cresswell-Match-Logs
+"Bowen, Jarrod",ENG,FW,24.0,12.6,47.0,3.73,24.0,10.0,4.0,7.0,1.0,1.0,9.0,0.71,5.0,2.0,1.0,1.0,0.0,0.0,https://fbref.com/en/players/79c84d1c/matchlogs/2021-2022/gca/Jarrod-Bowen-Match-Logs
+"Ogbonna, Angelo",ITA,DF,33.0,10.2,2.0,0.2,2.0,0.0,0.0,0.0,0.0,0.0,1.0,0.1,1.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/74b2cd7e/matchlogs/2021-2022/gca/Angelo-Ogbonna-Match-Logs
+"Zouma, Kurt",FRA,DF,27.0,10.0,2.0,0.2,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/ce4246f5/matchlogs/2021-2022/gca/Kurt-Zouma-Match-Logs
+"Coufal, Vladimír",CZE,DF,29.0,8.4,25.0,2.97,16.0,7.0,0.0,1.0,0.0,1.0,2.0,0.24,2.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/fdf3cb77/matchlogs/2021-2022/gca/Vladimir-Coufal-Match-Logs
+"Dawson, Craig",ENG,DF,31.0,7.9,2.0,0.25,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/3e9e06cb/matchlogs/2021-2022/gca/Craig-Dawson-Match-Logs
+"Johnson, Ben",ENG,DF,21.0,7.0,5.0,0.71,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/9319781b/matchlogs/2021-2022/gca/Ben-Johnson-Match-Logs
+"Vlašić, Nikola",CRO,"MF,FW",24.0,1.4,4.0,2.79,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/aa8e289e/matchlogs/2021-2022/gca/Nikola-Vlasic-Match-Logs
+"Masuaku, Arthur",COD,FW,28.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/57df7a11/matchlogs/2021-2022/gca/Arthur-Masuaku-Match-Logs
+"Lanzini, Manuel",ARG,"MF,FW",28.0,1.5,5.0,3.44,3.0,0.0,0.0,0.0,1.0,1.0,2.0,1.37,1.0,0.0,0.0,0.0,0.0,1.0,https://fbref.com/en/players/26f6dca8/matchlogs/2021-2022/gca/Manuel-Lanzini-Match-Logs
+"Yarmolenko, Andriy",UKR,"FW,MF",32.0,0.7,2.0,3.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/849c826a/matchlogs/2021-2022/gca/Andriy-Yarmolenko-Match-Logs
+"Noble, Mark",ENG,FW,34.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/ff527768/matchlogs/2021-2022/gca/Mark-Noble-Match-Logs
+"Fredericks, Ryan",ENG,DF,29.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/c067631c/matchlogs/2021-2022/gca/Ryan-Fredericks-Match-Logs

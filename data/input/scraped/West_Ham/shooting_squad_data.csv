@@ -1,0 +1,20 @@
+player,nationality,position,age,minutes_90s,goals,shots_total,shots_on_target,shots_on_target_pct,shots_total_per90,shots_on_target_per90,goals_per_shot,goals_per_shot_on_target,average_shot_distance,shots_free_kicks,pens_made,pens_att,xg,npxg,npxg_per_shot,xg_net,npxg_net,matches
+"Fabiański, Łukasz",POL,GK,36.0,14.0,0.0,0.0,0.0,,0.0,0.0,,,,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,https://fbref.com/en/players/9328b835/matchlogs/2021-2022/summary/Lukasz-Fabianski-Match-Logs
+"Rice, Declan",ENG,MF,22.0,14.0,1.0,10.0,5.0,50.0,0.71,0.36,0.1,0.2,23.4,1.0,0.0,0.0,0.4,0.4,0.04,0.6,0.6,https://fbref.com/en/players/1c7012b8/matchlogs/2021-2022/summary/Declan-Rice-Match-Logs
+"Souček, Tomáš",CZE,MF,26.0,13.9,2.0,23.0,6.0,26.1,1.66,0.43,0.09,0.33,13.5,0.0,0.0,0.0,2.2,1.8,0.08,-0.2,0.2,https://fbref.com/en/players/6613c819/matchlogs/2021-2022/summary/Tomas-Soucek-Match-Logs
+"Fornals, Pablo",ESP,"FW,MF",25.0,13.3,4.0,22.0,8.0,36.4,1.66,0.6,0.18,0.5,17.8,0.0,0.0,0.0,2.8,2.8,0.13,1.2,1.2,https://fbref.com/en/players/82927de4/matchlogs/2021-2022/summary/Pablo-Fornals-Match-Logs
+"Benrahma, Saïd",ALG,"MF,FW",26.0,12.4,3.0,31.0,11.0,35.5,2.5,0.89,0.1,0.27,20.7,2.0,0.0,0.0,2.1,2.1,0.07,0.9,0.9,https://fbref.com/en/players/5a04fd92/matchlogs/2021-2022/summary/Said-Benrahma-Match-Logs
+"Antonio, Michail",JAM,FW,31.0,12.9,6.0,40.0,12.0,30.0,3.09,0.93,0.15,0.5,13.7,0.0,0.0,1.0,5.3,5.1,0.13,0.7,0.9,https://fbref.com/en/players/ac05f970/matchlogs/2021-2022/summary/Michail-Antonio-Match-Logs
+"Cresswell, Aaron",ENG,DF,31.0,12.7,1.0,9.0,2.0,22.2,0.71,0.16,0.11,0.5,21.4,5.0,0.0,0.0,0.4,0.4,0.05,0.6,0.6,https://fbref.com/en/players/4f974391/matchlogs/2021-2022/summary/Aaron-Cresswell-Match-Logs
+"Bowen, Jarrod",ENG,FW,24.0,12.6,2.0,33.0,13.0,39.4,2.62,1.03,0.06,0.15,16.9,0.0,0.0,0.0,4.0,4.0,0.12,-2.0,-2.0,https://fbref.com/en/players/79c84d1c/matchlogs/2021-2022/summary/Jarrod-Bowen-Match-Logs
+"Ogbonna, Angelo",ITA,DF,33.0,10.2,1.0,3.0,1.0,33.3,0.29,0.1,0.33,1.0,11.1,0.0,0.0,0.0,0.3,0.3,0.09,0.7,0.7,https://fbref.com/en/players/74b2cd7e/matchlogs/2021-2022/summary/Angelo-Ogbonna-Match-Logs
+"Zouma, Kurt",FRA,DF,27.0,10.0,1.0,4.0,1.0,25.0,0.4,0.1,0.25,1.0,5.6,0.0,0.0,0.0,0.3,0.3,0.08,0.7,0.7,https://fbref.com/en/players/ce4246f5/matchlogs/2021-2022/summary/Kurt-Zouma-Match-Logs
+"Coufal, Vladimír",CZE,DF,29.0,8.4,0.0,6.0,2.0,33.3,0.71,0.24,0.0,0.0,18.9,0.0,0.0,0.0,0.3,0.3,0.04,-0.3,-0.3,https://fbref.com/en/players/fdf3cb77/matchlogs/2021-2022/summary/Vladimir-Coufal-Match-Logs
+"Dawson, Craig",ENG,DF,31.0,7.9,0.0,10.0,2.0,20.0,1.26,0.25,0.0,0.0,6.8,0.0,0.0,0.0,0.9,0.9,0.09,-0.9,-0.9,https://fbref.com/en/players/3e9e06cb/matchlogs/2021-2022/summary/Craig-Dawson-Match-Logs
+"Johnson, Ben",ENG,DF,21.0,7.0,1.0,3.0,1.0,33.3,0.43,0.14,0.33,1.0,24.4,0.0,0.0,0.0,0.1,0.1,0.02,0.9,0.9,https://fbref.com/en/players/9319781b/matchlogs/2021-2022/summary/Ben-Johnson-Match-Logs
+"Vlašić, Nikola",CRO,"MF,FW",24.0,1.4,0.0,1.0,0.0,0.0,0.7,0.0,0.0,,10.0,0.0,0.0,0.0,0.1,0.1,0.09,-0.1,-0.1,https://fbref.com/en/players/aa8e289e/matchlogs/2021-2022/summary/Nikola-Vlasic-Match-Logs
+"Masuaku, Arthur",COD,FW,28.0,1.0,0.0,0.0,0.0,,0.0,0.0,,,,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,https://fbref.com/en/players/57df7a11/matchlogs/2021-2022/summary/Arthur-Masuaku-Match-Logs
+"Lanzini, Manuel",ARG,"MF,FW",28.0,1.5,1.0,2.0,1.0,50.0,1.37,0.69,0.5,1.0,23.5,1.0,0.0,0.0,0.1,0.1,0.06,0.9,0.9,https://fbref.com/en/players/26f6dca8/matchlogs/2021-2022/summary/Manuel-Lanzini-Match-Logs
+"Yarmolenko, Andriy",UKR,"FW,MF",32.0,0.7,0.0,3.0,0.0,0.0,4.5,0.0,0.0,,20.7,0.0,0.0,0.0,0.1,0.1,0.04,-0.1,-0.1,https://fbref.com/en/players/849c826a/matchlogs/2021-2022/summary/Andriy-Yarmolenko-Match-Logs
+"Noble, Mark",ENG,FW,34.0,0.0,0.0,0.0,0.0,,0.0,0.0,,,,0.0,0.0,1.0,0.8,0.0,,-0.8,0.0,https://fbref.com/en/players/ff527768/matchlogs/2021-2022/summary/Mark-Noble-Match-Logs
+"Fredericks, Ryan",ENG,DF,29.0,0.0,0.0,0.0,0.0,,0.0,0.0,,,,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,https://fbref.com/en/players/c067631c/matchlogs/2021-2022/summary/Ryan-Fredericks-Match-Logs

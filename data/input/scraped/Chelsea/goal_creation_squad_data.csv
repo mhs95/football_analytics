@@ -1,0 +1,26 @@
+player,nationality,position,age,minutes_90s,sca,sca_per90,sca_passes_live,sca_passes_dead,sca_dribbles,sca_shots,sca_fouled,sca_defense,gca,gca_per90,gca_passes_live,gca_passes_dead,gca_dribbles,gca_shots,gca_fouled,gca_defense,matches
+"Mendy, Edouard",SEN,GK,29.0,13.0,1.0,0.08,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/33887998/matchlogs/2021-2022/gca/Edouard-Mendy-Match-Logs
+"Rüdiger, Antonio",GER,DF,28.0,13.0,19.0,1.46,16.0,0.0,1.0,2.0,0.0,0.0,3.0,0.23,2.0,0.0,0.0,1.0,0.0,0.0,https://fbref.com/en/players/18b896d6/matchlogs/2021-2022/gca/Antonio-Rudiger-Match-Logs
+Jorginho,ITA,MF,29.0,10.0,23.0,2.29,19.0,1.0,0.0,1.0,1.0,1.0,5.0,0.5,5.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/45db685d/matchlogs/2021-2022/gca/Jorginho-Match-Logs
+"Christensen, Andreas",DEN,DF,25.0,9.0,4.0,0.44,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/1cb49278/matchlogs/2021-2022/gca/Andreas-Christensen-Match-Logs
+"Havertz, Kai",GER,"FW,MF",22.0,8.0,18.0,2.25,14.0,0.0,0.0,1.0,3.0,0.0,2.0,0.25,1.0,0.0,0.0,0.0,1.0,0.0,https://fbref.com/en/players/fed7cb61/matchlogs/2021-2022/gca/Kai-Havertz-Match-Logs
+"Silva, Thiago",BRA,DF,37.0,9.7,9.0,0.93,5.0,0.0,0.0,2.0,1.0,1.0,1.0,0.1,0.0,0.0,0.0,0.0,1.0,0.0,https://fbref.com/en/players/86e7deaf/matchlogs/2021-2022/gca/Thiago-Silva-Match-Logs
+"Alonso, Marcos",ESP,DF,30.0,7.8,27.0,3.46,21.0,5.0,0.0,1.0,0.0,0.0,3.0,0.38,2.0,1.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/f4290206/matchlogs/2021-2022/gca/Marcos-Alonso-Match-Logs
+"Kovačić, Mateo",CRO,MF,27.0,7.8,32.0,4.1,29.0,0.0,0.0,1.0,2.0,0.0,6.0,0.77,6.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/79c0821a/matchlogs/2021-2022/gca/Mateo-Kovacic-Match-Logs
+"Azpilicueta, César",ESP,DF,32.0,7.8,21.0,2.7,19.0,0.0,1.0,1.0,0.0,0.0,8.0,1.03,6.0,0.0,1.0,1.0,0.0,0.0,https://fbref.com/en/players/53cad200/matchlogs/2021-2022/gca/Cesar-Azpilicueta-Match-Logs
+"Chalobah, Trevoh",ENG,DF,22.0,7.7,3.0,0.39,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/5515376c/matchlogs/2021-2022/gca/Trevoh-Chalobah-Match-Logs
+"James, Reece",ENG,DF,21.0,7.1,28.0,3.95,23.0,2.0,2.0,1.0,0.0,0.0,5.0,0.71,3.0,1.0,1.0,0.0,0.0,0.0,https://fbref.com/en/players/1265a93a/matchlogs/2021-2022/gca/Reece-James-Match-Logs
+"Lukaku, Romelu",BEL,FW,28.0,7.2,20.0,2.79,14.0,0.0,3.0,1.0,2.0,0.0,2.0,0.28,0.0,0.0,1.0,0.0,1.0,0.0,https://fbref.com/en/players/5eae500a/matchlogs/2021-2022/gca/Romelu-Lukaku-Match-Logs
+"Mount, Mason",ENG,"MF,FW",22.0,6.9,28.0,4.08,19.0,3.0,2.0,1.0,3.0,0.0,5.0,0.73,4.0,0.0,0.0,0.0,1.0,0.0,https://fbref.com/en/players/9674002f/matchlogs/2021-2022/gca/Mason-Mount-Match-Logs
+"Hudson-Odoi, Callum",ENG,"FW,MF",21.0,6.1,31.0,5.05,21.0,0.0,7.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/15f3ec41/matchlogs/2021-2022/gca/Callum-Hudson-Odoi-Match-Logs
+"Chilwell, Ben",ENG,DF,24.0,6.0,21.0,3.5,11.0,7.0,1.0,1.0,0.0,1.0,1.0,0.17,0.0,1.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/d2424d1b/matchlogs/2021-2022/gca/Ben-Chilwell-Match-Logs
+"Kanté, N'Golo",FRA,MF,30.0,5.5,12.0,2.18,10.0,0.0,1.0,1.0,0.0,0.0,3.0,0.55,3.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/b9fbae28/matchlogs/2021-2022/gca/NGolo-Kante-Match-Logs
+"Werner, Timo",GER,FW,25.0,5.2,8.0,1.53,5.0,0.0,1.0,2.0,0.0,0.0,1.0,0.19,1.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/49fe9070/matchlogs/2021-2022/gca/Timo-Werner-Match-Logs
+"Loftus-Cheek, Ruben",ENG,MF,25.0,5.0,12.0,2.38,7.0,0.0,1.0,2.0,0.0,2.0,3.0,0.6,1.0,0.0,0.0,2.0,0.0,0.0,https://fbref.com/en/players/e97fd090/matchlogs/2021-2022/gca/Ruben-Loftus-Cheek-Match-Logs
+"Ziyech, Hakim",MAR,"MF,FW",28.0,3.7,19.0,5.14,13.0,1.0,3.0,1.0,0.0,1.0,3.0,0.81,2.0,0.0,1.0,0.0,0.0,0.0,https://fbref.com/en/players/6622454d/matchlogs/2021-2022/gca/Hakim-Ziyech-Match-Logs
+"Pulisic, Christian",USA,"MF,DF",23.0,2.4,6.0,2.47,5.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/1bf33a9a/matchlogs/2021-2022/gca/Christian-Pulisic-Match-Logs
+"Ñíguez, Saúl",ESP,MF,27.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/c14bc029/matchlogs/2021-2022/gca/Saul-Niguez-Match-Logs
+"Barkley, Ross",ENG,MF,27.0,1.4,15.0,10.55,10.0,2.0,2.0,0.0,1.0,0.0,2.0,1.41,2.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/3a24769f/matchlogs/2021-2022/gca/Ross-Barkley-Match-Logs
+"Arrizabalaga, Kepa",ESP,GK,27.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/28d596a0/matchlogs/2021-2022/gca/Kepa-Arrizabalaga-Match-Logs
+"Sarr, Malang",FRA,DF,22.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/4315f30d/matchlogs/2021-2022/gca/Malang-Sarr-Match-Logs
+"Palmieri, Emerson",ITA,DF,27.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/e0bc6fdc/matchlogs/2021-2022/gca/Emerson-Palmieri-Match-Logs

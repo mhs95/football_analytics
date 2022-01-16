@@ -1,0 +1,29 @@
+name,date,dayofweek,round,venue,result,squad,opponent,game_started,position,minutes,shots_on_target_against,goals_against_gk,saves,save_pct,clean_sheets,psxg_gk,pens_att_gk,pens_allowed,pens_saved,pens_missed_gk,passes_completed_launched_gk,passes_launched_gk,passes_pct_launched_gk,passes_gk,passes_throws_gk,pct_passes_launched_gk,passes_length_avg_gk,goal_kicks,pct_goal_kicks_launched,goal_kick_length_avg,crosses_gk,crosses_stopped_gk,crosses_stopped_pct_gk,def_actions_outside_pen_area_gk,avg_distance_def_actions_gk,bench_explain
+Edouard Mendy,2021-08-14,Sat,1,Home,W 3–0,Chelsea,Crystal Palace,Y,GK,90.0,1.0,0.0,1.0,100.0,1.0,0.1,0.0,0.0,0.0,0.0,1.0,3.0,33.3,16.0,2.0,18.8,24.6,4.0,0.0,13.0,3.0,0.0,0.0,0.0,21.0,
+Edouard Mendy,2021-08-22,Sun,2,Away,W 2–0,Chelsea,Arsenal,Y,GK,90.0,3.0,0.0,3.0,100.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,7.0,28.6,39.0,3.0,17.9,25.7,4.0,0.0,10.0,4.0,0.0,0.0,1.0,16.3,
+Edouard Mendy,2021-08-28,Sat,3,Away,D 1–1,Chelsea,Liverpool,Y,GK,90.0,6.0,1.0,6.0,100.0,0.0,1.1,1.0,1.0,0.0,0.0,9.0,21.0,42.9,26.0,4.0,46.2,38.8,14.0,64.3,49.7,21.0,2.0,9.5,2.0,14.0,
+Edouard Mendy,2021-09-11,Sat,4,Home,W 3–0,Chelsea,Aston Villa,Y,GK,90.0,6.0,0.0,6.0,100.0,1.0,0.8,0.0,0.0,0.0,0.0,4.0,9.0,44.4,27.0,7.0,22.2,26.0,9.0,33.3,30.7,14.0,1.0,7.1,0.0,13.3,
+Edouard Mendy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Edouard Mendy,2021-09-25,Sat,6,Home,L 0–1,Chelsea,Manchester City,Y,GK,90.0,3.0,1.0,2.0,66.7,0.0,0.9,0.0,0.0,0.0,0.0,5.0,11.0,45.5,21.0,5.0,33.3,36.4,13.0,30.8,27.7,9.0,1.0,11.1,0.0,9.8,
+Edouard Mendy,2021-10-02,Sat,7,Home,W 3–1,Chelsea,Southampton,Y,GK,90.0,1.0,1.0,1.0,100.0,0.0,1.1,1.0,1.0,0.0,0.0,5.0,8.0,62.5,28.0,2.0,25.0,28.3,4.0,25.0,25.8,1.0,0.0,0.0,0.0,10.0,
+Edouard Mendy,2021-10-16,Sat,8,Away,W 1–0,Chelsea,Brentford,Y,GK,90.0,5.0,0.0,4.0,100.0,1.0,1.7,0.0,0.0,0.0,0.0,2.0,12.0,16.7,24.0,4.0,45.8,38.0,1.0,100.0,67.0,18.0,0.0,0.0,0.0,10.8,
+Edouard Mendy,2021-10-23,Sat,9,Home,W 7–0,Chelsea,Norwich City,Y,GK,90.0,1.0,0.0,1.0,100.0,1.0,0.1,0.0,0.0,0.0,0.0,2.0,4.0,50.0,19.0,2.0,15.8,25.1,6.0,16.7,16.5,2.0,1.0,50.0,0.0,15.0,
+Edouard Mendy,2021-10-30,Sat,10,Away,W 3–0,Chelsea,Newcastle Utd,Y,GK,90.0,1.0,0.0,1.0,100.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,11.0,2.0,0.0,21.3,2.0,0.0,12.0,6.0,0.0,0.0,0.0,6.0,
+Edouard Mendy,2021-11-06,Sat,11,Home,D 1–1,Chelsea,Burnley,Y,GK,90.0,2.0,1.0,1.0,50.0,0.0,1.2,0.0,0.0,0.0,0.0,2.0,4.0,50.0,22.0,2.0,18.2,26.2,6.0,0.0,15.8,5.0,1.0,20.0,1.0,33.0,
+Edouard Mendy,2021-11-20,Sat,12,Away,W 3–0,Chelsea,Leicester City,Y,GK,90.0,3.0,0.0,3.0,100.0,1.0,0.2,0.0,0.0,0.0,0.0,7.0,11.0,63.6,28.0,4.0,32.1,30.9,4.0,50.0,38.0,3.0,0.0,0.0,0.0,12.0,
+Edouard Mendy,2021-11-28,Sun,13,Home,D 1–1,Chelsea,Manchester Utd,Y,GK,90.0,2.0,1.0,1.0,50.0,0.0,1.5,0.0,0.0,0.0,0.0,2.0,5.0,40.0,23.0,5.0,21.7,27.5,2.0,0.0,17.5,3.0,0.0,0.0,0.0,13.0,
+Edouard Mendy,2021-12-01,Wed,14,Away,W 2–1,Chelsea,Watford,Y,GK,90.0,6.0,1.0,5.0,83.3,0.0,1.2,0.0,0.0,0.0,0.0,7.0,12.0,58.3,23.0,4.0,39.1,35.6,4.0,75.0,54.3,17.0,3.0,17.6,0.0,14.7,
+Kepa Arrizabalaga,2021-08-14,Sat,1,Home,W 3–0,Chelsea,Crystal Palace,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Kepa Arrizabalaga,2021-08-22,Sun,2,Away,W 2–0,Chelsea,Arsenal,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Kepa Arrizabalaga,2021-08-28,Sat,3,Away,D 1–1,Chelsea,Liverpool,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Kepa Arrizabalaga,2021-09-11,Sat,4,Home,W 3–0,Chelsea,Aston Villa,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Kepa Arrizabalaga,2021-09-19,Sun,5,Away,W 3–0,Chelsea,Tottenham,Y,GK,90.0,2.0,0.0,2.0,100.0,1.0,0.3,0.0,0.0,0.0,0.0,6.0,8.0,75.0,26.0,6.0,30.8,30.0,4.0,0.0,9.3,8.0,1.0,12.5,1.0,18.8,
+Kepa Arrizabalaga,2021-09-25,Sat,6,Home,L 0–1,Chelsea,Manchester City,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Kepa Arrizabalaga,2021-10-02,Sat,7,Home,W 3–1,Chelsea,Southampton,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Kepa Arrizabalaga,2021-10-16,Sat,8,Away,W 1–0,Chelsea,Brentford,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Kepa Arrizabalaga,2021-10-23,Sat,9,Home,W 7–0,Chelsea,Norwich City,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Kepa Arrizabalaga,2021-10-30,Sat,10,Away,W 3–0,Chelsea,Newcastle Utd,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Kepa Arrizabalaga,2021-11-06,Sat,11,Home,D 1–1,Chelsea,Burnley,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Kepa Arrizabalaga,2021-11-20,Sat,12,Away,W 3–0,Chelsea,Leicester City,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Kepa Arrizabalaga,2021-11-28,Sun,13,Home,D 1–1,Chelsea,Manchester Utd,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Kepa Arrizabalaga,2021-12-01,Wed,14,Away,W 2–1,Chelsea,Watford,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"

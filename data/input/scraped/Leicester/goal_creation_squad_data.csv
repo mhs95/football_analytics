@@ -1,0 +1,23 @@
+player,nationality,position,age,minutes_90s,sca,sca_per90,sca_passes_live,sca_passes_dead,sca_dribbles,sca_shots,sca_fouled,sca_defense,gca,gca_per90,gca_passes_live,gca_passes_dead,gca_dribbles,gca_shots,gca_fouled,gca_defense,matches
+"Schmeichel, Kasper",DEN,GK,35.0,14.0,1.0,0.07,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/53af52f3/matchlogs/2021-2022/gca/Kasper-Schmeichel-Match-Logs
+"Söyüncü, Çağlar",TUR,DF,25.0,13.7,5.0,0.36,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/21166ff4/matchlogs/2021-2022/gca/Caglar-Soyuncu-Match-Logs
+"Vardy, Jamie",ENG,FW,34.0,13.4,25.0,1.87,22.0,0.0,1.0,1.0,1.0,0.0,2.0,0.15,1.0,0.0,1.0,0.0,0.0,0.0,https://fbref.com/en/players/45963054/matchlogs/2021-2022/gca/Jamie-Vardy-Match-Logs
+"Tielemans, Youri",BEL,MF,24.0,10.8,39.0,3.6,29.0,4.0,2.0,2.0,1.0,1.0,4.0,0.37,3.0,0.0,0.0,1.0,0.0,0.0,https://fbref.com/en/players/56f7a928/matchlogs/2021-2022/gca/Youri-Tielemans-Match-Logs
+"Barnes, Harvey",ENG,"FW,MF",23.0,9.6,19.0,1.98,16.0,0.0,2.0,1.0,0.0,0.0,1.0,0.1,0.0,0.0,0.0,1.0,0.0,0.0,https://fbref.com/en/players/3ea50f67/matchlogs/2021-2022/gca/Harvey-Barnes-Match-Logs
+"Ndidi, Wilfred",NGA,MF,24.0,10.0,8.0,0.8,4.0,0.0,0.0,3.0,0.0,1.0,2.0,0.2,1.0,0.0,0.0,1.0,0.0,0.0,https://fbref.com/en/players/6b47c5db/matchlogs/2021-2022/gca/Wilfred-Ndidi-Match-Logs
+"Maddison, James",ENG,"MF,FW",25.0,9.2,32.0,3.48,20.0,3.0,4.0,2.0,3.0,0.0,4.0,0.44,2.0,1.0,1.0,0.0,0.0,0.0,https://fbref.com/en/players/ee38d9c5/matchlogs/2021-2022/gca/James-Maddison-Match-Logs
+"Castagne, Timothy",BEL,DF,25.0,10.6,10.0,0.94,8.0,1.0,0.0,0.0,1.0,0.0,1.0,0.09,0.0,0.0,0.0,0.0,1.0,0.0,https://fbref.com/en/players/197640fd/matchlogs/2021-2022/gca/Timothy-Castagne-Match-Logs
+"Soumaré, Boubakary",FRA,MF,22.0,8.6,13.0,1.51,11.0,0.0,1.0,0.0,0.0,1.0,2.0,0.23,2.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/ae59b359/matchlogs/2021-2022/gca/Boubakary-Soumare-Match-Logs
+"Pereira, Ricardo",POR,DF,28.0,6.6,16.0,2.42,14.0,0.0,1.0,0.0,0.0,1.0,5.0,0.76,3.0,0.0,1.0,0.0,0.0,1.0,https://fbref.com/en/players/75a72a99/matchlogs/2021-2022/gca/Ricardo-Pereira-Match-Logs
+"Evans, Jonny",NIR,DF,33.0,7.3,3.0,0.41,2.0,1.0,0.0,0.0,0.0,0.0,2.0,0.27,1.0,1.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/f8fcd2a5/matchlogs/2021-2022/gca/Jonny-Evans-Match-Logs
+"Amartey, Daniel",GHA,DF,26.0,6.7,7.0,1.04,6.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/1a4ef233/matchlogs/2021-2022/gca/Daniel-Amartey-Match-Logs
+"Thomas, Luke",ENG,DF,20.0,6.0,6.0,1.0,4.0,2.0,0.0,0.0,0.0,0.0,1.0,0.17,1.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/fc027d02/matchlogs/2021-2022/gca/Luke-Thomas-Match-Logs
+"Lookman, Ademola",ENG,"FW,MF",24.0,5.8,17.0,2.93,12.0,0.0,1.0,1.0,2.0,1.0,1.0,0.17,0.0,0.0,0.0,0.0,1.0,0.0,https://fbref.com/en/players/7c104bb7/matchlogs/2021-2022/gca/Ademola-Lookman-Match-Logs
+"Iheanacho, Kelechi",NGA,"FW,MF",25.0,4.9,18.0,3.67,12.0,1.0,2.0,1.0,0.0,2.0,4.0,0.81,2.0,0.0,0.0,0.0,0.0,2.0,https://fbref.com/en/players/c92e1a31/matchlogs/2021-2022/gca/Kelechi-Iheanacho-Match-Logs
+"Vestergaard, Jannik",DEN,DF,29.0,4.3,2.0,0.47,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/1900032e/matchlogs/2021-2022/gca/Jannik-Vestergaard-Match-Logs
+"Bertrand, Ryan",ENG,DF,32.0,3.7,2.0,0.53,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/01226327/matchlogs/2021-2022/gca/Ryan-Bertrand-Match-Logs
+"Albrighton, Marc",ENG,"FW,MF",32.0,3.3,4.0,1.21,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/b827d5b3/matchlogs/2021-2022/gca/Marc-Albrighton-Match-Logs
+"Pérez, Ayoze",ESP,"FW,MF",28.0,1.8,9.0,5.03,8.0,0.0,0.0,1.0,0.0,0.0,1.0,0.56,1.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/819aa8e7/matchlogs/2021-2022/gca/Ayoze-Perez-Match-Logs
+"Choudhury, Hamza",ENG,MF,24.0,0.7,1.0,1.53,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/7d2d3329/matchlogs/2021-2022/gca/Hamza-Choudhury-Match-Logs
+"Daka, Patson",ZAM,"FW,MF",23.0,1.4,6.0,4.39,5.0,0.0,0.0,1.0,0.0,0.0,2.0,1.46,1.0,0.0,0.0,1.0,0.0,0.0,https://fbref.com/en/players/ca45605e/matchlogs/2021-2022/gca/Patson-Daka-Match-Logs
+"Dewsbury Hall, Kiernan",ENG,MF,23.0,0.9,5.0,5.42,4.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://fbref.com/en/players/5c74c0f5/matchlogs/2021-2022/gca/Kiernan-Dewsbury-Hall-Match-Logs

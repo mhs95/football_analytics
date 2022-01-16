@@ -1,0 +1,238 @@
+name,date,dayofweek,round,venue,result,squad,opponent,game_started,position,minutes,passes_completed,passes,passes_pct,passes_total_distance,passes_progressive_distance,passes_completed_short,passes_short,passes_pct_short,passes_completed_medium,passes_medium,passes_pct_medium,passes_completed_long,passes_long,passes_pct_long,assists,xa,assisted_shots,passes_into_final_third,passes_into_penalty_area,crosses_into_penalty_area,progressive_passes,bench_explain
+Hugo Lloris,2021-08-15,Sun,1,Home,W 1–0,Tottenham,Manchester City,Y*,GK,90.0,17.0,27.0,63.0,847.0,675.0,3.0,3.0,100.0,1.0,1.0,100.0,13.0,23.0,56.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Hugo Lloris,2021-08-22,Sun,2,Away,W 1–0,Tottenham,Wolves,Y*,GK,90.0,19.0,29.0,65.5,728.0,527.0,3.0,3.0,100.0,6.0,6.0,100.0,10.0,20.0,50.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,
+Hugo Lloris,2021-08-29,Sun,3,Home,W 1–0,Tottenham,Watford,Y*,GK,90.0,11.0,16.0,68.8,300.0,204.0,5.0,5.0,100.0,3.0,3.0,100.0,3.0,8.0,37.5,0.0,0.0,1.0,0.0,0.0,0.0,0.0,
+Hugo Lloris,2021-09-11,Sat,4,Away,L 0–3,Tottenham,Crystal Palace,Y*,GK,90.0,16.0,32.0,50.0,616.0,420.0,4.0,4.0,100.0,3.0,3.0,100.0,9.0,25.0,36.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,
+Hugo Lloris,2021-09-19,Sun,5,Home,L 0–3,Tottenham,Chelsea,Y*,GK,90.0,18.0,26.0,69.2,455.0,244.0,5.0,5.0,100.0,7.0,7.0,100.0,5.0,13.0,38.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Hugo Lloris,2021-09-26,Sun,6,Away,L 1–3,Tottenham,Arsenal,Y*,GK,90.0,22.0,28.0,78.6,754.0,425.0,2.0,2.0,100.0,9.0,9.0,100.0,11.0,17.0,64.7,0.0,0.0,0.0,1.0,0.0,0.0,0.0,
+Hugo Lloris,2021-10-03,Sun,7,Home,W 2–1,Tottenham,Aston Villa,Y*,GK,90.0,19.0,28.0,67.9,718.0,461.0,3.0,3.0,100.0,5.0,5.0,100.0,11.0,20.0,55.0,0.0,0.4,1.0,2.0,0.0,0.0,0.0,
+Hugo Lloris,2021-10-17,Sun,8,Away,W 3–2,Tottenham,Newcastle Utd,Y*,GK,90.0,24.0,29.0,82.8,585.0,374.0,7.0,7.0,100.0,12.0,12.0,100.0,5.0,10.0,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Hugo Lloris,2021-10-24,Sun,9,Away,L 0–1,Tottenham,West Ham,Y*,GK,90.0,14.0,22.0,63.6,451.0,288.0,2.0,2.0,100.0,6.0,6.0,100.0,6.0,14.0,42.9,0.0,0.0,0.0,1.0,0.0,0.0,0.0,
+Hugo Lloris,2021-10-30,Sat,10,Home,L 0–3,Tottenham,Manchester Utd,Y*,GK,90.0,19.0,23.0,82.6,409.0,182.0,7.0,7.0,100.0,6.0,6.0,100.0,5.0,9.0,55.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Hugo Lloris,2021-11-07,Sun,11,Away,D 0–0,Tottenham,Everton,Y*,GK,90.0,28.0,30.0,93.3,712.0,407.0,5.0,5.0,100.0,12.0,12.0,100.0,8.0,10.0,80.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,
+Hugo Lloris,2021-11-21,Sun,12,Home,W 2–1,Tottenham,Leeds United,Y*,GK,90.0,21.0,25.0,84.0,489.0,309.0,8.0,8.0,100.0,6.0,6.0,100.0,7.0,11.0,63.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Pierre Højbjerg,2021-08-15,Sun,1,Home,W 1–0,Tottenham,Manchester City,Y,CM,89.0,28.0,38.0,73.7,543.0,190.0,11.0,12.0,91.7,14.0,17.0,82.4,3.0,9.0,33.3,0.0,0.1,2.0,2.0,0.0,0.0,4.0,
+Pierre Højbjerg,2021-08-22,Sun,2,Away,W 1–0,Tottenham,Wolves,Y,CM,90.0,42.0,45.0,93.3,653.0,162.0,24.0,24.0,100.0,15.0,15.0,100.0,3.0,4.0,75.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,
+Pierre Højbjerg,2021-08-29,Sun,3,Home,W 1–0,Tottenham,Watford,Y,DM,90.0,76.0,88.0,86.4,1608.0,454.0,32.0,33.0,97.0,31.0,33.0,93.9,13.0,22.0,59.1,0.0,0.0,1.0,12.0,3.0,0.0,7.0,
+Pierre Højbjerg,2021-09-11,Sat,4,Away,L 0–3,Tottenham,Crystal Palace,Y,CM,90.0,32.0,36.0,88.9,663.0,162.0,11.0,14.0,78.6,16.0,17.0,94.1,5.0,5.0,100.0,0.0,0.0,1.0,1.0,0.0,0.0,3.0,
+Pierre Højbjerg,2021-09-19,Sun,5,Home,L 0–3,Tottenham,Chelsea,Y,"DM,CM",90.0,63.0,73.0,86.3,1156.0,266.0,24.0,27.0,88.9,30.0,32.0,93.8,6.0,9.0,66.7,0.0,0.0,0.0,1.0,0.0,0.0,2.0,
+Pierre Højbjerg,2021-09-26,Sun,6,Away,L 1–3,Tottenham,Arsenal,Y,DM,90.0,64.0,70.0,91.4,1206.0,247.0,31.0,32.0,96.9,25.0,26.0,96.2,8.0,12.0,66.7,0.0,0.0,1.0,13.0,0.0,0.0,5.0,
+Pierre Højbjerg,2021-10-03,Sun,7,Home,W 2–1,Tottenham,Aston Villa,Y,DM,90.0,58.0,65.0,89.2,945.0,299.0,29.0,30.0,96.7,26.0,28.0,92.9,3.0,5.0,60.0,0.0,0.0,0.0,4.0,2.0,0.0,4.0,
+Pierre Højbjerg,2021-10-17,Sun,8,Away,W 3–2,Tottenham,Newcastle Utd,Y,DM,90.0,93.0,98.0,94.9,1588.0,435.0,41.0,45.0,91.1,45.0,46.0,97.8,6.0,6.0,100.0,1.0,0.3,1.0,6.0,2.0,0.0,8.0,
+Pierre Højbjerg,2021-10-24,Sun,9,Away,L 0–1,Tottenham,West Ham,Y,DM,90.0,89.0,98.0,90.8,1627.0,355.0,39.0,40.0,97.5,40.0,43.0,93.0,10.0,15.0,66.7,0.0,0.0,0.0,8.0,0.0,0.0,5.0,
+Pierre Højbjerg,2021-10-30,Sat,10,Home,L 0–3,Tottenham,Manchester Utd,Y,DM,90.0,72.0,83.0,86.7,1416.0,348.0,26.0,29.0,89.7,30.0,36.0,83.3,13.0,15.0,86.7,0.0,0.0,0.0,5.0,1.0,0.0,7.0,
+Pierre Højbjerg,2021-11-07,Sun,11,Away,D 0–0,Tottenham,Everton,Y,DM,90.0,67.0,77.0,87.0,1337.0,276.0,28.0,32.0,87.5,27.0,31.0,87.1,12.0,14.0,85.7,0.0,0.0,0.0,7.0,0.0,0.0,2.0,
+Pierre Højbjerg,2021-11-21,Sun,12,Home,W 2–1,Tottenham,Leeds United,Y,DM,90.0,50.0,57.0,87.7,848.0,198.0,21.0,22.0,95.5,26.0,29.0,89.7,3.0,6.0,50.0,0.0,0.1,1.0,3.0,1.0,0.0,4.0,
+Eric Dier,2021-08-15,Sun,1,Home,W 1–0,Tottenham,Manchester City,Y,CB,90.0,16.0,23.0,69.6,454.0,186.0,2.0,2.0,100.0,8.0,9.0,88.9,6.0,11.0,54.5,0.0,0.0,0.0,2.0,0.0,0.0,2.0,
+Eric Dier,2021-08-22,Sun,2,Away,W 1–0,Tottenham,Wolves,Y,CB,90.0,29.0,38.0,76.3,691.0,186.0,6.0,7.0,85.7,18.0,20.0,90.0,5.0,9.0,55.6,0.0,0.0,0.0,1.0,0.0,0.0,0.0,
+Eric Dier,2021-08-29,Sun,3,Home,W 1–0,Tottenham,Watford,Y,CB,90.0,50.0,53.0,94.3,1003.0,313.0,16.0,16.0,100.0,30.0,30.0,100.0,4.0,7.0,57.1,0.0,0.1,1.0,3.0,0.0,0.0,2.0,
+Eric Dier,2021-09-11,Sat,4,Away,L 0–3,Tottenham,Crystal Palace,Y,CB,11.0,3.0,3.0,100.0,66.0,11.0,0.0,0.0,,3.0,3.0,100.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Eric Dier,2021-09-19,Sun,5,Home,L 0–3,Tottenham,Chelsea,Y,CB,90.0,52.0,59.0,88.1,1249.0,391.0,14.0,16.0,87.5,24.0,26.0,92.3,14.0,17.0,82.4,0.0,0.0,0.0,2.0,0.0,0.0,1.0,
+Eric Dier,2021-09-26,Sun,6,Away,L 1–3,Tottenham,Arsenal,Y,CB,90.0,53.0,64.0,82.8,1226.0,461.0,19.0,19.0,100.0,20.0,24.0,83.3,13.0,20.0,65.0,0.0,0.4,1.0,6.0,1.0,0.0,2.0,
+Eric Dier,2021-10-03,Sun,7,Home,W 2–1,Tottenham,Aston Villa,Y,CB,90.0,36.0,42.0,85.7,786.0,305.0,10.0,10.0,100.0,21.0,24.0,87.5,5.0,8.0,62.5,0.0,0.4,2.0,1.0,0.0,0.0,2.0,
+Eric Dier,2021-10-17,Sun,8,Away,W 3–2,Tottenham,Newcastle Utd,Y,CB,90.0,54.0,61.0,88.5,1055.0,431.0,17.0,17.0,100.0,32.0,34.0,94.1,5.0,9.0,55.6,0.0,0.0,0.0,4.0,1.0,0.0,5.0,
+Eric Dier,2021-10-24,Sun,9,Away,L 0–1,Tottenham,West Ham,Y,CB,90.0,95.0,101.0,94.1,1981.0,594.0,24.0,25.0,96.0,63.0,64.0,98.4,8.0,12.0,66.7,0.0,0.0,0.0,4.0,0.0,0.0,3.0,
+Eric Dier,2021-10-30,Sat,10,Home,L 0–3,Tottenham,Manchester Utd,Y,CB,90.0,52.0,59.0,88.1,1067.0,317.0,18.0,19.0,94.7,27.0,29.0,93.1,7.0,10.0,70.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,
+Eric Dier,2021-11-07,Sun,11,Away,D 0–0,Tottenham,Everton,Y,CB,90.0,45.0,47.0,95.7,1008.0,235.0,8.0,8.0,100.0,31.0,31.0,100.0,6.0,8.0,75.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,
+Eric Dier,2021-11-21,Sun,12,Home,W 2–1,Tottenham,Leeds United,Y,CB,90.0,50.0,60.0,83.3,1036.0,582.0,14.0,14.0,100.0,28.0,29.0,96.6,8.0,17.0,47.1,0.0,0.3,1.0,3.0,1.0,0.0,7.0,
+Son Heung-min,2021-08-15,Sun,1,Home,W 1–0,Tottenham,Manchester City,Y,FW,90.0,25.0,32.0,78.1,332.0,84.0,12.0,15.0,80.0,8.0,8.0,100.0,2.0,6.0,33.3,0.0,0.1,1.0,1.0,1.0,0.0,1.0,
+Son Heung-min,2021-08-22,Sun,2,Away,W 1–0,Tottenham,Wolves,Y,FW,71.0,10.0,18.0,55.6,122.0,12.0,8.0,8.0,100.0,2.0,6.0,33.3,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,
+Son Heung-min,2021-08-29,Sun,3,Home,W 1–0,Tottenham,Watford,Y,"RW,LW",87.0,32.0,47.0,68.1,530.0,113.0,19.0,22.0,86.4,10.0,13.0,76.9,3.0,10.0,30.0,0.0,0.1,2.0,0.0,3.0,0.0,4.0,
+Son Heung-min,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Son Heung-min,2021-09-19,Sun,5,Home,L 0–3,Tottenham,Chelsea,Y,FW,90.0,27.0,34.0,79.4,437.0,146.0,19.0,21.0,90.5,2.0,3.0,66.7,6.0,9.0,66.7,0.0,0.0,1.0,2.0,1.0,0.0,2.0,
+Son Heung-min,2021-09-26,Sun,6,Away,L 1–3,Tottenham,Arsenal,Y,"LW,AM",90.0,29.0,33.0,87.9,475.0,149.0,16.0,17.0,94.1,8.0,8.0,100.0,3.0,6.0,50.0,0.0,0.2,3.0,0.0,1.0,0.0,3.0,
+Son Heung-min,2021-10-03,Sun,7,Home,W 2–1,Tottenham,Aston Villa,Y,LW,90.0,31.0,38.0,81.6,448.0,134.0,17.0,21.0,81.0,10.0,10.0,100.0,2.0,4.0,50.0,1.0,0.1,2.0,2.0,2.0,0.0,5.0,
+Son Heung-min,2021-10-17,Sun,8,Away,W 3–2,Tottenham,Newcastle Utd,Y,LW,90.0,38.0,50.0,76.0,580.0,132.0,23.0,24.0,95.8,10.0,13.0,76.9,4.0,12.0,33.3,0.0,0.3,5.0,0.0,2.0,0.0,3.0,
+Son Heung-min,2021-10-24,Sun,9,Away,L 0–1,Tottenham,West Ham,Y,LW,90.0,37.0,47.0,78.7,658.0,115.0,12.0,13.0,92.3,23.0,24.0,95.8,2.0,9.0,22.2,0.0,0.4,2.0,1.0,0.0,0.0,2.0,
+Son Heung-min,2021-10-30,Sat,10,Home,L 0–3,Tottenham,Manchester Utd,Y,"LW,RW",90.0,39.0,55.0,70.9,605.0,95.0,24.0,26.0,92.3,11.0,11.0,100.0,4.0,15.0,26.7,0.0,0.1,1.0,0.0,2.0,1.0,1.0,
+Son Heung-min,2021-11-07,Sun,11,Away,D 0–0,Tottenham,Everton,Y,AM,84.0,23.0,29.0,79.3,333.0,60.0,14.0,15.0,93.3,7.0,7.0,100.0,2.0,5.0,40.0,0.0,0.0,1.0,3.0,0.0,0.0,0.0,
+Son Heung-min,2021-11-21,Sun,12,Home,W 2–1,Tottenham,Leeds United,Y,LW,90.0,32.0,41.0,78.0,417.0,43.0,18.0,21.0,85.7,11.0,12.0,91.7,1.0,5.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Sergio Reguilón,2021-08-15,Sun,1,Home,W 1–0,Tottenham,Manchester City,Y,LB,90.0,16.0,22.0,72.7,274.0,88.0,9.0,10.0,90.0,4.0,9.0,44.4,2.0,2.0,100.0,0.0,0.1,2.0,3.0,1.0,0.0,3.0,
+Sergio Reguilón,2021-08-22,Sun,2,Away,W 1–0,Tottenham,Wolves,Y,LB,90.0,29.0,44.0,65.9,461.0,319.0,14.0,15.0,93.3,14.0,24.0,58.3,1.0,5.0,20.0,0.0,0.0,0.0,2.0,1.0,0.0,3.0,
+Sergio Reguilón,2021-08-29,Sun,3,Home,W 1–0,Tottenham,Watford,Y,LB,90.0,32.0,37.0,86.5,473.0,123.0,22.0,24.0,91.7,7.0,9.0,77.8,2.0,3.0,66.7,0.0,0.0,1.0,3.0,2.0,1.0,2.0,
+Sergio Reguilón,2021-09-11,Sat,4,Away,L 0–3,Tottenham,Crystal Palace,Y,LB,90.0,25.0,38.0,65.8,519.0,329.0,9.0,13.0,69.2,12.0,14.0,85.7,3.0,7.0,42.9,0.0,0.0,1.0,0.0,1.0,1.0,3.0,
+Sergio Reguilón,2021-09-19,Sun,5,Home,L 0–3,Tottenham,Chelsea,Y,LB,90.0,43.0,56.0,76.8,795.0,247.0,19.0,25.0,76.0,19.0,21.0,90.5,5.0,10.0,50.0,0.0,0.0,1.0,0.0,2.0,2.0,3.0,
+Sergio Reguilón,2021-09-26,Sun,6,Away,L 1–3,Tottenham,Arsenal,Y,LB,90.0,35.0,47.0,74.5,679.0,211.0,15.0,17.0,88.2,15.0,18.0,83.3,5.0,11.0,45.5,1.0,0.3,2.0,3.0,2.0,2.0,2.0,
+Sergio Reguilón,2021-10-03,Sun,7,Home,W 2–1,Tottenham,Aston Villa,Y,LB,90.0,41.0,46.0,89.1,734.0,324.0,17.0,18.0,94.4,22.0,23.0,95.7,2.0,3.0,66.7,0.0,0.0,0.0,4.0,1.0,1.0,3.0,
+Sergio Reguilón,2021-10-17,Sun,8,Away,W 3–2,Tottenham,Newcastle Utd,Y,LB,90.0,59.0,69.0,85.5,908.0,278.0,36.0,40.0,90.0,17.0,21.0,81.0,5.0,6.0,83.3,1.0,0.1,1.0,4.0,0.0,0.0,3.0,
+Sergio Reguilón,2021-10-24,Sun,9,Away,L 0–1,Tottenham,West Ham,Y,LB,83.0,31.0,43.0,72.1,589.0,159.0,12.0,15.0,80.0,14.0,16.0,87.5,5.0,11.0,45.5,0.0,0.1,2.0,2.0,2.0,2.0,2.0,
+Sergio Reguilón,2021-10-30,Sat,10,Home,L 0–3,Tottenham,Manchester Utd,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Sergio Reguilón,2021-11-07,Sun,11,Away,D 0–0,Tottenham,Everton,Y,WB,70.0,37.0,52.0,71.2,663.0,143.0,14.0,18.0,77.8,21.0,27.0,77.8,2.0,3.0,66.7,0.0,0.2,1.0,0.0,2.0,1.0,1.0,
+Sergio Reguilón,2021-11-21,Sun,12,Home,W 2–1,Tottenham,Leeds United,Y,WB,78.0,15.0,29.0,51.7,275.0,91.0,5.0,8.0,62.5,9.0,14.0,64.3,1.0,5.0,20.0,0.0,0.3,1.0,0.0,1.0,1.0,2.0,
+Harry Kane,2021-08-22,Sun,2,Away,W 1–0,Tottenham,Wolves,N,FW,19.0,7.0,10.0,70.0,81.0,34.0,5.0,6.0,83.3,2.0,3.0,66.7,0.0,0.0,,0.0,0.1,1.0,1.0,2.0,0.0,2.0,
+Harry Kane,2021-08-29,Sun,3,Home,W 1–0,Tottenham,Watford,Y,FW,90.0,21.0,26.0,80.8,367.0,91.0,10.0,10.0,100.0,7.0,9.0,77.8,3.0,5.0,60.0,0.0,0.3,2.0,1.0,2.0,0.0,4.0,
+Harry Kane,2021-09-11,Sat,4,Away,L 0–3,Tottenham,Crystal Palace,Y,FW,90.0,16.0,23.0,69.6,245.0,24.0,10.0,13.0,76.9,6.0,7.0,85.7,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,
+Harry Kane,2021-09-19,Sun,5,Home,L 0–3,Tottenham,Chelsea,Y,AM,90.0,24.0,31.0,77.4,320.0,88.0,12.0,14.0,85.7,8.0,11.0,72.7,1.0,3.0,33.3,0.0,0.0,0.0,6.0,0.0,0.0,3.0,
+Harry Kane,2021-09-26,Sun,6,Away,L 1–3,Tottenham,Arsenal,Y,FW,90.0,10.0,13.0,76.9,172.0,21.0,5.0,6.0,83.3,4.0,5.0,80.0,1.0,1.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Harry Kane,2021-10-03,Sun,7,Home,W 2–1,Tottenham,Aston Villa,Y,FW,90.0,20.0,28.0,71.4,293.0,29.0,12.0,14.0,85.7,7.0,12.0,58.3,1.0,1.0,100.0,0.0,0.3,1.0,0.0,1.0,0.0,1.0,
+Harry Kane,2021-10-17,Sun,8,Away,W 3–2,Tottenham,Newcastle Utd,Y,FW,90.0,23.0,25.0,92.0,403.0,71.0,14.0,14.0,100.0,2.0,4.0,50.0,5.0,5.0,100.0,1.0,0.8,2.0,3.0,1.0,0.0,1.0,
+Harry Kane,2021-10-24,Sun,9,Away,L 0–1,Tottenham,West Ham,Y,FW,90.0,21.0,26.0,80.8,415.0,70.0,9.0,11.0,81.8,9.0,10.0,90.0,3.0,4.0,75.0,0.0,0.0,0.0,1.0,1.0,0.0,2.0,
+Harry Kane,2021-10-30,Sat,10,Home,L 0–3,Tottenham,Manchester Utd,Y,FW,90.0,16.0,27.0,59.3,264.0,60.0,9.0,12.0,75.0,6.0,10.0,60.0,1.0,1.0,100.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,
+Harry Kane,2021-11-07,Sun,11,Away,D 0–0,Tottenham,Everton,Y,FW,90.0,26.0,35.0,74.3,362.0,68.0,17.0,19.0,89.5,3.0,5.0,60.0,3.0,6.0,50.0,0.0,0.3,1.0,1.0,1.0,1.0,2.0,
+Harry Kane,2021-11-21,Sun,12,Home,W 2–1,Tottenham,Leeds United,Y,FW,90.0,20.0,24.0,83.3,379.0,149.0,13.0,14.0,92.9,4.0,5.0,80.0,3.0,3.0,100.0,0.0,0.0,0.0,3.0,2.0,0.0,5.0,
+Lucas Moura,2021-08-15,Sun,1,Home,W 1–0,Tottenham,Manchester City,Y,RW,90.0,31.0,36.0,86.1,497.0,169.0,16.0,18.0,88.9,10.0,13.0,76.9,4.0,4.0,100.0,0.0,0.2,3.0,4.0,1.0,0.0,5.0,
+Lucas Moura,2021-08-22,Sun,2,Away,W 1–0,Tottenham,Wolves,Y,RW,66.0,12.0,15.0,80.0,188.0,96.0,6.0,7.0,85.7,6.0,8.0,75.0,0.0,0.0,,0.0,0.0,0.0,3.0,0.0,0.0,3.0,
+Lucas Moura,2021-08-29,Sun,3,Home,W 1–0,Tottenham,Watford,N,RW,23.0,8.0,12.0,66.7,126.0,48.0,5.0,8.0,62.5,3.0,4.0,75.0,0.0,0.0,,0.0,0.0,0.0,0.0,1.0,0.0,2.0,
+Lucas Moura,2021-09-11,Sat,4,Away,L 0–3,Tottenham,Crystal Palace,Y,"FW,AM",90.0,20.0,28.0,71.4,252.0,51.0,13.0,14.0,92.9,2.0,5.0,40.0,2.0,4.0,50.0,0.0,0.0,0.0,2.0,1.0,0.0,1.0,
+Lucas Moura,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Lucas Moura,2021-09-26,Sun,6,Away,L 1–3,Tottenham,Arsenal,Y,RW,90.0,34.0,46.0,73.9,502.0,122.0,19.0,21.0,90.5,13.0,18.0,72.2,1.0,5.0,20.0,0.0,0.0,1.0,0.0,0.0,0.0,4.0,
+Lucas Moura,2021-10-03,Sun,7,Home,W 2–1,Tottenham,Aston Villa,Y,RW,88.0,36.0,47.0,76.6,533.0,159.0,23.0,29.0,79.3,11.0,15.0,73.3,2.0,3.0,66.7,0.0,0.2,3.0,4.0,2.0,0.0,6.0,
+Lucas Moura,2021-10-17,Sun,8,Away,W 3–2,Tottenham,Newcastle Utd,Y,RW,90.0,38.0,48.0,79.2,545.0,145.0,23.0,26.0,88.5,14.0,18.0,77.8,1.0,3.0,33.3,0.0,0.0,1.0,6.0,1.0,0.0,3.0,
+Lucas Moura,2021-10-24,Sun,9,Away,L 0–1,Tottenham,West Ham,Y,RW,89.0,32.0,45.0,71.1,505.0,89.0,17.0,21.0,81.0,13.0,17.0,76.5,1.0,3.0,33.3,0.0,0.0,0.0,6.0,1.0,0.0,6.0,
+Lucas Moura,2021-10-30,Sat,10,Home,L 0–3,Tottenham,Manchester Utd,Y,RW,53.0,20.0,25.0,80.0,299.0,148.0,11.0,11.0,100.0,7.0,10.0,70.0,1.0,2.0,50.0,0.0,0.2,2.0,3.0,2.0,0.0,5.0,
+Lucas Moura,2021-11-07,Sun,11,Away,D 0–0,Tottenham,Everton,Y,AM,70.0,30.0,37.0,81.1,407.0,91.0,20.0,20.0,100.0,8.0,11.0,72.7,1.0,2.0,50.0,0.0,0.0,1.0,3.0,2.0,0.0,4.0,
+Lucas Moura,2021-11-21,Sun,12,Home,W 2–1,Tottenham,Leeds United,Y,RW,87.0,19.0,34.0,55.9,270.0,113.0,9.0,15.0,60.0,10.0,14.0,71.4,0.0,2.0,0.0,1.0,0.4,3.0,1.0,2.0,0.0,4.0,
+Oliver Skipp,2021-08-15,Sun,1,Home,W 1–0,Tottenham,Manchester City,Y,DM,90.0,22.0,26.0,84.6,408.0,53.0,8.0,9.0,88.9,13.0,14.0,92.9,1.0,3.0,33.3,0.0,0.0,0.0,2.0,0.0,0.0,2.0,
+Oliver Skipp,2021-08-22,Sun,2,Away,W 1–0,Tottenham,Wolves,Y,DM,90.0,36.0,44.0,81.8,596.0,124.0,20.0,21.0,95.2,15.0,17.0,88.2,1.0,4.0,25.0,0.0,0.0,0.0,2.0,0.0,0.0,3.0,
+Oliver Skipp,2021-08-29,Sun,3,Home,W 1–0,Tottenham,Watford,Y,DM,90.0,64.0,68.0,94.1,1221.0,270.0,25.0,25.0,100.0,32.0,34.0,94.1,7.0,8.0,87.5,0.0,0.0,0.0,11.0,0.0,0.0,9.0,
+Oliver Skipp,2021-09-11,Sat,4,Away,L 0–3,Tottenham,Crystal Palace,Y,DM,90.0,27.0,31.0,87.1,518.0,127.0,11.0,11.0,100.0,13.0,14.0,92.9,3.0,5.0,60.0,0.0,0.0,0.0,3.0,0.0,0.0,3.0,
+Oliver Skipp,2021-09-19,Sun,5,Home,L 0–3,Tottenham,Chelsea,N,DM,29.0,16.0,17.0,94.1,288.0,70.0,6.0,6.0,100.0,9.0,9.0,100.0,1.0,1.0,100.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0,
+Oliver Skipp,2021-09-26,Sun,6,Away,L 1–3,Tottenham,Arsenal,N,DM,45.0,29.0,30.0,96.7,606.0,127.0,7.0,8.0,87.5,15.0,15.0,100.0,6.0,6.0,100.0,0.0,0.0,0.0,7.0,0.0,0.0,4.0,
+Oliver Skipp,2021-10-03,Sun,7,Home,W 2–1,Tottenham,Aston Villa,Y,DM,90.0,35.0,41.0,85.4,610.0,156.0,13.0,15.0,86.7,20.0,22.0,90.9,2.0,3.0,66.7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,
+Oliver Skipp,2021-10-17,Sun,8,Away,W 3–2,Tottenham,Newcastle Utd,Y,DM,90.0,71.0,74.0,95.9,1104.0,334.0,35.0,36.0,97.2,32.0,33.0,97.0,3.0,4.0,75.0,0.0,0.0,0.0,5.0,1.0,0.0,6.0,
+Oliver Skipp,2021-10-24,Sun,9,Away,L 0–1,Tottenham,West Ham,Y,DM,90.0,79.0,88.0,89.8,1543.0,359.0,24.0,25.0,96.0,46.0,50.0,92.0,8.0,11.0,72.7,0.0,0.0,0.0,14.0,1.0,0.0,5.0,
+Oliver Skipp,2021-10-30,Sat,10,Home,L 0–3,Tottenham,Manchester Utd,Y,DM,65.0,26.0,30.0,86.7,448.0,92.0,11.0,13.0,84.6,14.0,16.0,87.5,1.0,1.0,100.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,
+Oliver Skipp,2021-11-07,Sun,11,Away,D 0–0,Tottenham,Everton,Y,DM,90.0,43.0,47.0,91.5,897.0,271.0,12.0,13.0,92.3,24.0,26.0,92.3,6.0,7.0,85.7,0.0,0.1,2.0,3.0,0.0,0.0,7.0,
+Emerson,2021-09-11,Sat,4,Away,L 0–3,Tottenham,Crystal Palace,Y,RB,90.0,34.0,44.0,77.3,523.0,223.0,20.0,22.0,90.9,13.0,17.0,76.5,1.0,3.0,33.3,0.0,0.0,0.0,3.0,0.0,0.0,2.0,
+Emerson,2021-09-19,Sun,5,Home,L 0–3,Tottenham,Chelsea,Y,RB,90.0,35.0,43.0,81.4,540.0,187.0,17.0,19.0,89.5,15.0,16.0,93.8,1.0,3.0,33.3,0.0,0.0,1.0,2.0,1.0,1.0,2.0,
+Emerson,2021-09-26,Sun,6,Away,L 1–3,Tottenham,Arsenal,N,RB,45.0,35.0,36.0,97.2,509.0,207.0,23.0,23.0,100.0,11.0,11.0,100.0,1.0,2.0,50.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,
+Emerson,2021-10-03,Sun,7,Home,W 2–1,Tottenham,Aston Villa,Y,RB,90.0,45.0,64.0,70.3,782.0,287.0,21.0,23.0,91.3,19.0,29.0,65.5,4.0,7.0,57.1,0.0,0.1,1.0,3.0,0.0,0.0,1.0,
+Emerson,2021-10-17,Sun,8,Away,W 3–2,Tottenham,Newcastle Utd,Y,RB,90.0,33.0,58.0,56.9,669.0,237.0,18.0,25.0,72.0,9.0,20.0,45.0,6.0,11.0,54.5,0.0,0.0,0.0,2.0,1.0,0.0,4.0,
+Emerson,2021-10-24,Sun,9,Away,L 0–1,Tottenham,West Ham,Y,RB,90.0,39.0,48.0,81.3,640.0,156.0,18.0,22.0,81.8,20.0,21.0,95.2,1.0,4.0,25.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,
+Emerson,2021-10-30,Sat,10,Home,L 0–3,Tottenham,Manchester Utd,Y,RB,90.0,80.0,96.0,83.3,1157.0,266.0,50.0,54.0,92.6,21.0,24.0,87.5,6.0,9.0,66.7,0.0,0.1,2.0,2.0,0.0,0.0,4.0,
+Emerson,2021-11-07,Sun,11,Away,D 0–0,Tottenham,Everton,Y,WB,90.0,48.0,60.0,80.0,702.0,221.0,26.0,29.0,89.7,18.0,25.0,72.0,2.0,3.0,66.7,0.0,0.0,0.0,2.0,0.0,0.0,2.0,
+Emerson,2021-11-21,Sun,12,Home,W 2–1,Tottenham,Leeds United,Y,WB,90.0,26.0,36.0,72.2,485.0,140.0,12.0,16.0,75.0,11.0,14.0,78.6,3.0,4.0,75.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,
+Cristian Romero,2021-08-15,Sun,1,Home,W 1–0,Tottenham,Manchester City,N,CM,1.0,1.0,1.0,100.0,4.0,2.0,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Cristian Romero,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cristian Romero,2021-08-29,Sun,3,Home,W 1–0,Tottenham,Watford,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Cristian Romero,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cristian Romero,2021-09-19,Sun,5,Home,L 0–3,Tottenham,Chelsea,Y,CB,82.0,35.0,39.0,89.7,704.0,147.0,12.0,14.0,85.7,16.0,16.0,100.0,6.0,7.0,85.7,0.0,0.0,0.0,1.0,0.0,0.0,1.0,
+Cristian Romero,2021-09-26,Sun,6,Away,L 1–3,Tottenham,Arsenal,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Cristian Romero,2021-10-03,Sun,7,Home,W 2–1,Tottenham,Aston Villa,Y,CB,90.0,31.0,39.0,79.5,731.0,260.0,11.0,11.0,100.0,13.0,14.0,92.9,7.0,13.0,53.8,0.0,0.0,0.0,2.0,0.0,0.0,2.0,
+Cristian Romero,2021-10-17,Sun,8,Away,W 3–2,Tottenham,Newcastle Utd,Y,CB,90.0,47.0,59.0,79.7,1039.0,454.0,16.0,18.0,88.9,25.0,27.0,92.6,6.0,12.0,50.0,0.0,0.0,0.0,4.0,0.0,0.0,2.0,
+Cristian Romero,2021-10-24,Sun,9,Away,L 0–1,Tottenham,West Ham,Y,CB,90.0,65.0,74.0,87.8,1368.0,357.0,16.0,16.0,100.0,40.0,43.0,93.0,9.0,15.0,60.0,0.0,0.0,0.0,3.0,0.0,0.0,4.0,
+Cristian Romero,2021-10-30,Sat,10,Home,L 0–3,Tottenham,Manchester Utd,Y,CB,90.0,44.0,51.0,86.3,896.0,417.0,16.0,16.0,100.0,21.0,25.0,84.0,7.0,10.0,70.0,0.0,0.0,0.0,3.0,0.0,0.0,6.0,
+Cristian Romero,2021-11-07,Sun,11,Away,D 0–0,Tottenham,Everton,Y,CB,90.0,52.0,59.0,88.1,1029.0,365.0,17.0,19.0,89.5,31.0,33.0,93.9,4.0,7.0,57.1,0.0,0.0,0.0,4.0,1.0,0.0,2.0,
+Dele Alli,2021-08-15,Sun,1,Home,W 1–0,Tottenham,Manchester City,Y,CM,90.0,16.0,21.0,76.2,288.0,110.0,8.0,10.0,80.0,7.0,9.0,77.8,1.0,1.0,100.0,0.0,0.0,0.0,1.0,2.0,0.0,4.0,
+Dele Alli,2021-08-22,Sun,2,Away,W 1–0,Tottenham,Wolves,Y,"CM,LW",90.0,26.0,32.0,81.3,414.0,127.0,13.0,14.0,92.9,10.0,10.0,100.0,2.0,5.0,40.0,0.0,0.0,0.0,3.0,1.0,0.0,3.0,
+Dele Alli,2021-08-29,Sun,3,Home,W 1–0,Tottenham,Watford,Y,AM,90.0,29.0,35.0,82.9,462.0,119.0,16.0,19.0,84.2,10.0,10.0,100.0,3.0,5.0,60.0,0.0,0.0,0.0,4.0,1.0,0.0,3.0,
+Dele Alli,2021-09-11,Sat,4,Away,L 0–3,Tottenham,Crystal Palace,Y,"AM,CM",90.0,17.0,19.0,89.5,313.0,45.0,9.0,10.0,90.0,5.0,6.0,83.3,3.0,3.0,100.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,
+Dele Alli,2021-09-19,Sun,5,Home,L 0–3,Tottenham,Chelsea,Y,CM,90.0,26.0,34.0,76.5,359.0,103.0,19.0,21.0,90.5,5.0,7.0,71.4,1.0,4.0,25.0,0.0,0.0,0.0,1.0,0.0,0.0,4.0,
+Dele Alli,2021-09-26,Sun,6,Away,L 1–3,Tottenham,Arsenal,Y,CM,45.0,11.0,13.0,84.6,175.0,0.0,7.0,8.0,87.5,3.0,4.0,75.0,1.0,1.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Dele Alli,2021-10-03,Sun,7,Home,W 2–1,Tottenham,Aston Villa,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Dele Alli,2021-10-17,Sun,8,Away,W 3–2,Tottenham,Newcastle Utd,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Dele Alli,2021-10-24,Sun,9,Away,L 0–1,Tottenham,West Ham,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Dele Alli,2021-10-30,Sat,10,Home,L 0–3,Tottenham,Manchester Utd,N,AM,18.0,8.0,11.0,72.7,114.0,35.0,4.0,5.0,80.0,3.0,4.0,75.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,
+Dele Alli,2021-11-07,Sun,11,Away,D 0–0,Tottenham,Everton,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Dele Alli,2021-11-21,Sun,12,Home,W 2–1,Tottenham,Leeds United,N,RW,3.0,0.0,0.0,,0.0,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Japhet Tanganga,2021-08-15,Sun,1,Home,W 1–0,Tottenham,Manchester City,Y,RB,82.0,29.0,32.0,90.6,561.0,256.0,16.0,17.0,94.1,9.0,9.0,100.0,3.0,5.0,60.0,0.0,0.3,1.0,0.0,0.0,0.0,3.0,
+Japhet Tanganga,2021-08-22,Sun,2,Away,W 1–0,Tottenham,Wolves,Y,RB,90.0,20.0,34.0,58.8,289.0,147.0,14.0,20.0,70.0,4.0,10.0,40.0,1.0,3.0,33.3,0.0,0.0,0.0,1.0,0.0,0.0,0.0,
+Japhet Tanganga,2021-08-29,Sun,3,Home,W 1–0,Tottenham,Watford,Y,RB,90.0,46.0,56.0,82.1,729.0,152.0,27.0,30.0,90.0,17.0,22.0,77.3,2.0,3.0,66.7,0.0,0.1,1.0,1.0,3.0,1.0,4.0,
+Japhet Tanganga,2021-09-11,Sat,4,Away,L 0–3,Tottenham,Crystal Palace,Y,"CB,AM",57.0,16.0,21.0,76.2,388.0,143.0,4.0,5.0,80.0,6.0,7.0,85.7,6.0,9.0,66.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Japhet Tanganga,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Japhet Tanganga,2021-09-26,Sun,6,Away,L 1–3,Tottenham,Arsenal,Y,RB,45.0,17.0,25.0,68.0,297.0,23.0,6.0,8.0,75.0,9.0,10.0,90.0,1.0,5.0,20.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,
+Japhet Tanganga,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Japhet Tanganga,2021-10-17,Sun,8,Away,W 3–2,Tottenham,Newcastle Utd,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Japhet Tanganga,2021-10-24,Sun,9,Away,L 0–1,Tottenham,West Ham,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Japhet Tanganga,2021-10-30,Sat,10,Home,L 0–3,Tottenham,Manchester Utd,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Japhet Tanganga,2021-11-07,Sun,11,Away,D 0–0,Tottenham,Everton,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Japhet Tanganga,2021-11-21,Sun,12,Home,W 2–1,Tottenham,Leeds United,Y,CB,67.0,27.0,37.0,73.0,510.0,250.0,12.0,12.0,100.0,12.0,17.0,70.6,3.0,7.0,42.9,0.0,0.0,0.0,2.0,0.0,0.0,5.0,
+Tanguy Ndombele,2021-09-11,Sat,4,Away,L 0–3,Tottenham,Crystal Palace,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Tanguy Ndombele,2021-09-19,Sun,5,Home,L 0–3,Tottenham,Chelsea,Y,CM,61.0,32.0,37.0,86.5,530.0,143.0,14.0,16.0,87.5,12.0,13.0,92.3,4.0,4.0,100.0,0.0,0.0,1.0,4.0,0.0,0.0,4.0,
+Tanguy Ndombele,2021-09-26,Sun,6,Away,L 1–3,Tottenham,Arsenal,Y,"CM,AM",69.0,28.0,32.0,87.5,449.0,77.0,17.0,18.0,94.4,6.0,6.0,100.0,3.0,4.0,75.0,0.0,0.0,0.0,3.0,0.0,0.0,2.0,
+Tanguy Ndombele,2021-10-03,Sun,7,Home,W 2–1,Tottenham,Aston Villa,Y,AM,75.0,19.0,26.0,73.1,223.0,52.0,14.0,16.0,87.5,3.0,6.0,50.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,2.0,
+Tanguy Ndombele,2021-10-17,Sun,8,Away,W 3–2,Tottenham,Newcastle Utd,Y,AM,90.0,62.0,70.0,88.6,869.0,185.0,36.0,40.0,90.0,22.0,24.0,91.7,3.0,4.0,75.0,0.0,0.0,0.0,2.0,1.0,0.0,3.0,
+Tanguy Ndombele,2021-10-24,Sun,9,Away,L 0–1,Tottenham,West Ham,Y,AM,83.0,45.0,52.0,86.5,776.0,107.0,25.0,25.0,100.0,17.0,23.0,73.9,3.0,4.0,75.0,0.0,0.2,1.0,4.0,1.0,0.0,2.0,
+Tanguy Ndombele,2021-10-30,Sat,10,Home,L 0–3,Tottenham,Manchester Utd,N,DM,25.0,23.0,24.0,95.8,415.0,76.0,8.0,8.0,100.0,12.0,12.0,100.0,3.0,3.0,100.0,0.0,0.0,0.0,4.0,0.0,0.0,1.0,
+Tanguy Ndombele,2021-11-07,Sun,11,Away,D 0–0,Tottenham,Everton,N,AM,6.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Tanguy Ndombele,2021-11-21,Sun,12,Home,W 2–1,Tottenham,Leeds United,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Davinson Sánchez,2021-08-15,Sun,1,Home,W 1–0,Tottenham,Manchester City,Y,CB,90.0,20.0,28.0,71.4,561.0,210.0,2.0,3.0,66.7,13.0,13.0,100.0,5.0,12.0,41.7,0.0,0.0,0.0,2.0,0.0,0.0,1.0,
+Davinson Sánchez,2021-08-22,Sun,2,Away,W 1–0,Tottenham,Wolves,Y,CB,90.0,30.0,33.0,90.9,680.0,253.0,4.0,4.0,100.0,22.0,23.0,95.7,4.0,6.0,66.7,0.0,0.0,0.0,2.0,0.0,0.0,1.0,
+Davinson Sánchez,2021-08-29,Sun,3,Home,W 1–0,Tottenham,Watford,Y,CB,90.0,48.0,53.0,90.6,1044.0,222.0,11.0,12.0,91.7,32.0,32.0,100.0,5.0,9.0,55.6,0.0,0.0,0.0,5.0,0.0,0.0,3.0,
+Davinson Sánchez,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Davinson Sánchez,2021-09-19,Sun,5,Home,L 0–3,Tottenham,Chelsea,N,CB,8.0,7.0,8.0,87.5,131.0,24.0,4.0,4.0,100.0,1.0,1.0,100.0,2.0,3.0,66.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Davinson Sánchez,2021-09-26,Sun,6,Away,L 1–3,Tottenham,Arsenal,Y,CB,90.0,53.0,58.0,91.4,1186.0,362.0,13.0,13.0,100.0,30.0,30.0,100.0,10.0,13.0,76.9,0.0,0.0,0.0,2.0,0.0,0.0,4.0,
+Davinson Sánchez,2021-10-03,Sun,7,Home,W 2–1,Tottenham,Aston Villa,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Davinson Sánchez,2021-10-17,Sun,8,Away,W 3–2,Tottenham,Newcastle Utd,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Davinson Sánchez,2021-10-24,Sun,9,Away,L 0–1,Tottenham,West Ham,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Davinson Sánchez,2021-10-30,Sat,10,Home,L 0–3,Tottenham,Manchester Utd,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Davinson Sánchez,2021-11-07,Sun,11,Away,D 0–0,Tottenham,Everton,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Davinson Sánchez,2021-11-21,Sun,12,Home,W 2–1,Tottenham,Leeds United,N,CB,23.0,6.0,6.0,100.0,152.0,79.0,1.0,1.0,100.0,3.0,3.0,100.0,2.0,2.0,100.0,0.0,0.1,1.0,0.0,0.0,0.0,1.0,
+Ben Davies,2021-08-15,Sun,1,Home,W 1–0,Tottenham,Manchester City,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ben Davies,2021-08-22,Sun,2,Away,W 1–0,Tottenham,Wolves,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ben Davies,2021-08-29,Sun,3,Home,W 1–0,Tottenham,Watford,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ben Davies,2021-09-11,Sat,4,Away,L 0–3,Tottenham,Crystal Palace,N,CB,31.0,1.0,3.0,33.3,21.0,20.0,0.0,0.0,,1.0,1.0,100.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Ben Davies,2021-09-19,Sun,5,Home,L 0–3,Tottenham,Chelsea,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ben Davies,2021-09-26,Sun,6,Away,L 1–3,Tottenham,Arsenal,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ben Davies,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ben Davies,2021-10-17,Sun,8,Away,W 3–2,Tottenham,Newcastle Utd,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ben Davies,2021-10-24,Sun,9,Away,L 0–1,Tottenham,West Ham,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ben Davies,2021-10-30,Sat,10,Home,L 0–3,Tottenham,Manchester Utd,Y,LB,90.0,35.0,49.0,71.4,510.0,140.0,17.0,21.0,81.0,16.0,19.0,84.2,0.0,4.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,2.0,
+Ben Davies,2021-11-07,Sun,11,Away,D 0–0,Tottenham,Everton,Y,CB,90.0,66.0,79.0,83.5,1495.0,637.0,14.0,15.0,93.3,42.0,45.0,93.3,10.0,15.0,66.7,0.0,0.0,1.0,9.0,0.0,0.0,11.0,
+Ben Davies,2021-11-21,Sun,12,Home,W 2–1,Tottenham,Leeds United,Y,CB,90.0,20.0,23.0,87.0,352.0,102.0,8.0,9.0,88.9,11.0,12.0,91.7,1.0,2.0,50.0,0.0,0.0,0.0,1.0,0.0,0.0,3.0,
+Steven Bergwijn,2021-08-15,Sun,1,Home,W 1–0,Tottenham,Manchester City,Y,LW,76.0,12.0,15.0,80.0,181.0,34.0,7.0,7.0,100.0,4.0,5.0,80.0,1.0,2.0,50.0,1.0,0.1,2.0,1.0,1.0,0.0,2.0,
+Steven Bergwijn,2021-08-22,Sun,2,Away,W 1–0,Tottenham,Wolves,Y,LW,89.0,19.0,22.0,86.4,235.0,53.0,13.0,13.0,100.0,5.0,6.0,83.3,0.0,1.0,0.0,0.0,0.3,2.0,1.0,0.0,0.0,0.0,
+Steven Bergwijn,2021-08-29,Sun,3,Home,W 1–0,Tottenham,Watford,Y,LW,67.0,21.0,25.0,84.0,293.0,91.0,14.0,14.0,100.0,5.0,6.0,83.3,1.0,3.0,33.3,0.0,0.0,0.0,2.0,3.0,0.0,4.0,
+Steven Bergwijn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Steven Bergwijn,2021-10-17,Sun,8,Away,W 3–2,Tottenham,Newcastle Utd,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Steven Bergwijn,2021-10-24,Sun,9,Away,L 0–1,Tottenham,West Ham,N,RW,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Steven Bergwijn,2021-10-30,Sat,10,Home,L 0–3,Tottenham,Manchester Utd,N,LW,37.0,10.0,12.0,83.3,183.0,36.0,3.0,3.0,100.0,6.0,7.0,85.7,1.0,1.0,100.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,
+Steven Bergwijn,2021-11-07,Sun,11,Away,D 0–0,Tottenham,Everton,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Steven Bergwijn,2021-11-21,Sun,12,Home,W 2–1,Tottenham,Leeds United,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Giovani Lo Celso,2021-08-15,Sun,1,Home,W 1–0,Tottenham,Manchester City,N,LW,14.0,4.0,9.0,44.4,36.0,2.0,4.0,5.0,80.0,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,
+Giovani Lo Celso,2021-08-22,Sun,2,Away,W 1–0,Tottenham,Wolves,N,RW,24.0,10.0,12.0,83.3,145.0,50.0,6.0,6.0,100.0,3.0,3.0,100.0,1.0,3.0,33.3,0.0,0.1,1.0,0.0,0.0,0.0,0.0,
+Giovani Lo Celso,2021-08-29,Sun,3,Home,W 1–0,Tottenham,Watford,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Giovani Lo Celso,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Giovani Lo Celso,2021-09-19,Sun,5,Home,L 0–3,Tottenham,Chelsea,Y,AM,61.0,20.0,27.0,74.1,316.0,26.0,9.0,12.0,75.0,6.0,7.0,85.7,2.0,4.0,50.0,0.0,0.3,2.0,2.0,1.0,0.0,1.0,
+Giovani Lo Celso,2021-09-26,Sun,6,Away,L 1–3,Tottenham,Arsenal,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Giovani Lo Celso,2021-10-03,Sun,7,Home,W 2–1,Tottenham,Aston Villa,N,AM,15.0,7.0,9.0,77.8,59.0,18.0,3.0,3.0,100.0,1.0,2.0,50.0,0.0,0.0,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,
+Giovani Lo Celso,2021-10-17,Sun,8,Away,W 3–2,Tottenham,Newcastle Utd,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Giovani Lo Celso,2021-10-24,Sun,9,Away,L 0–1,Tottenham,West Ham,N,AM,7.0,5.0,9.0,55.6,110.0,12.0,2.0,2.0,100.0,2.0,4.0,50.0,1.0,1.0,100.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,
+Giovani Lo Celso,2021-10-30,Sat,10,Home,L 0–3,Tottenham,Manchester Utd,Y,AM,72.0,44.0,52.0,84.6,722.0,143.0,24.0,25.0,96.0,11.0,13.0,84.6,7.0,8.0,87.5,0.0,0.2,1.0,6.0,0.0,0.0,3.0,
+Giovani Lo Celso,2021-11-07,Sun,11,Away,D 0–0,Tottenham,Everton,N,AM,20.0,8.0,10.0,80.0,167.0,61.0,5.0,5.0,100.0,1.0,2.0,50.0,2.0,3.0,66.7,0.0,0.0,0.0,3.0,0.0,0.0,2.0,
+Harry Winks,2021-08-15,Sun,1,Home,W 1–0,Tottenham,Manchester City,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Harry Winks,2021-08-22,Sun,2,Away,W 1–0,Tottenham,Wolves,N,CM,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Harry Winks,2021-08-29,Sun,3,Home,W 1–0,Tottenham,Watford,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Harry Winks,2021-09-11,Sat,4,Away,L 0–3,Tottenham,Crystal Palace,Y,CM,59.0,21.0,24.0,87.5,326.0,93.0,11.0,11.0,100.0,9.0,9.0,100.0,1.0,4.0,25.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,
+Harry Winks,2021-09-19,Sun,5,Home,L 0–3,Tottenham,Chelsea,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Harry Winks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Harry Winks,2021-10-03,Sun,7,Home,W 2–1,Tottenham,Aston Villa,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Harry Winks,2021-10-17,Sun,8,Away,W 3–2,Tottenham,Newcastle Utd,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Harry Winks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Harry Winks,2021-11-07,Sun,11,Away,D 0–0,Tottenham,Everton,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Harry Winks,2021-11-21,Sun,12,Home,W 2–1,Tottenham,Leeds United,Y,DM,90.0,37.0,45.0,82.2,698.0,246.0,14.0,17.0,82.4,19.0,22.0,86.4,4.0,5.0,80.0,0.0,0.0,0.0,5.0,1.0,0.0,8.0,
+Joe Rodon,2021-09-11,Sat,4,Away,L 0–3,Tottenham,Crystal Palace,N,CB,79.0,17.0,18.0,94.4,370.0,118.0,4.0,4.0,100.0,10.0,11.0,90.9,3.0,3.0,100.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,
+Joe Rodon,2021-09-19,Sun,5,Home,L 0–3,Tottenham,Chelsea,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Joe Rodon,2021-09-26,Sun,6,Away,L 1–3,Tottenham,Arsenal,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Joe Rodon,2021-10-03,Sun,7,Home,W 2–1,Tottenham,Aston Villa,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Joe Rodon,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Joe Rodon,2021-10-24,Sun,9,Away,L 0–1,Tottenham,West Ham,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Joe Rodon,2021-10-30,Sat,10,Home,L 0–3,Tottenham,Manchester Utd,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Joe Rodon,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Joe Rodon,2021-11-21,Sun,12,Home,W 2–1,Tottenham,Leeds United,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Bryan,2021-08-15,Sun,1,Home,W 1–0,Tottenham,Manchester City,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Bryan,2021-08-22,Sun,2,Away,W 1–0,Tottenham,Wolves,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Bryan,2021-08-29,Sun,3,Home,W 1–0,Tottenham,Watford,N,LW,3.0,0.0,0.0,,0.0,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Bryan,2021-09-11,Sat,4,Away,L 0–3,Tottenham,Crystal Palace,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Bryan,2021-09-19,Sun,5,Home,L 0–3,Tottenham,Chelsea,N,AM,29.0,8.0,10.0,80.0,108.0,39.0,5.0,6.0,83.3,1.0,1.0,100.0,1.0,1.0,100.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,
+Bryan,2021-09-26,Sun,6,Away,L 1–3,Tottenham,Arsenal,N,LW,21.0,10.0,13.0,76.9,158.0,22.0,6.0,7.0,85.7,3.0,4.0,75.0,1.0,2.0,50.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,
+Bryan,2021-10-03,Sun,7,Home,W 2–1,Tottenham,Aston Villa,N,RW,2.0,1.0,1.0,100.0,11.0,11.0,1.0,1.0,100.0,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,1.0,0.0,1.0,
+Bryan,2021-10-17,Sun,8,Away,W 3–2,Tottenham,Newcastle Utd,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Bryan,2021-10-24,Sun,9,Away,L 0–1,Tottenham,West Ham,N,LB,7.0,9.0,9.0,100.0,148.0,98.0,8.0,8.0,100.0,0.0,0.0,,1.0,1.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Bryan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bryan,2021-11-21,Sun,12,Home,W 2–1,Tottenham,Leeds United,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Matt Doherty,2021-08-15,Sun,1,Home,W 1–0,Tottenham,Manchester City,N,RB,8.0,3.0,6.0,50.0,44.0,11.0,1.0,1.0,100.0,1.0,3.0,33.3,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,
+Matt Doherty,2021-08-22,Sun,2,Away,W 1–0,Tottenham,Wolves,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Matt Doherty,2021-08-29,Sun,3,Home,W 1–0,Tottenham,Watford,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Matt Doherty,2021-09-11,Sat,4,Away,L 0–3,Tottenham,Crystal Palace,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Matt Doherty,2021-09-19,Sun,5,Home,L 0–3,Tottenham,Chelsea,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Matt Doherty,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Matt Doherty,2021-10-03,Sun,7,Home,W 2–1,Tottenham,Aston Villa,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Matt Doherty,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Matt Doherty,2021-10-30,Sat,10,Home,L 0–3,Tottenham,Manchester Utd,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Matt Doherty,2021-11-07,Sun,11,Away,D 0–0,Tottenham,Everton,N,WB,20.0,13.0,16.0,81.3,183.0,57.0,9.0,10.0,90.0,3.0,3.0,100.0,1.0,3.0,33.3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,
+Matt Doherty,2021-11-21,Sun,12,Home,W 2–1,Tottenham,Leeds United,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ryan Sessegnon,2021-08-22,Sun,2,Away,W 1–0,Tottenham,Wolves,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ryan Sessegnon,2021-08-29,Sun,3,Home,W 1–0,Tottenham,Watford,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ryan Sessegnon,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ryan Sessegnon,2021-11-21,Sun,12,Home,W 2–1,Tottenham,Leeds United,N,WB,12.0,4.0,9.0,44.4,59.0,47.0,3.0,4.0,75.0,0.0,2.0,0.0,1.0,2.0,50.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,

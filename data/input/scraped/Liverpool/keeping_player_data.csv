@@ -1,0 +1,28 @@
+name,date,dayofweek,round,venue,result,squad,opponent,game_started,position,minutes,shots_on_target_against,goals_against_gk,saves,save_pct,clean_sheets,psxg_gk,pens_att_gk,pens_allowed,pens_saved,pens_missed_gk,passes_completed_launched_gk,passes_launched_gk,passes_pct_launched_gk,passes_gk,passes_throws_gk,pct_passes_launched_gk,passes_length_avg_gk,goal_kicks,pct_goal_kicks_launched,goal_kick_length_avg,crosses_gk,crosses_stopped_gk,crosses_stopped_pct_gk,def_actions_outside_pen_area_gk,avg_distance_def_actions_gk,bench_explain
+Alisson,2021-08-14,Sat,1,Away,W 3–0,Liverpool,Norwich City,Y,GK,90.0,4.0,0.0,4.0,100.0,1.0,1.0,0.0,0.0,0.0,0.0,6.0,9.0,66.7,22.0,4.0,22.7,32.6,8.0,50.0,45.8,12.0,0.0,0.0,2.0,24.3,
+Alisson,2021-08-21,Sat,2,Home,W 2–0,Liverpool,Burnley,Y,GK,90.0,3.0,0.0,3.0,100.0,1.0,0.7,0.0,0.0,0.0,0.0,6.0,13.0,46.2,40.0,5.0,25.0,31.9,6.0,50.0,41.5,10.0,1.0,10.0,1.0,16.5,
+Alisson,2021-08-28,Sat,3,Home,D 1–1,Liverpool,Chelsea,Y,GK,90.0,2.0,1.0,1.0,50.0,0.0,0.4,0.0,0.0,0.0,0.0,1.0,3.0,33.3,22.0,7.0,13.6,25.0,1.0,0.0,17.0,6.0,1.0,16.7,2.0,16.9,
+Alisson,2021-09-12,Sun,4,Away,W 3–0,Liverpool,Leeds United,Y,GK,90.0,4.0,0.0,4.0,100.0,1.0,1.5,0.0,0.0,0.0,0.0,6.0,9.0,66.7,36.0,2.0,16.7,30.4,5.0,60.0,47.8,11.0,1.0,9.1,0.0,15.0,
+Alisson,2021-09-18,Sat,5,Home,W 3–0,Liverpool,Crystal Palace,Y,GK,90.0,2.0,0.0,2.0,100.0,1.0,0.2,0.0,0.0,0.0,0.0,7.0,13.0,53.8,22.0,4.0,40.9,37.3,6.0,66.7,42.3,10.0,2.0,20.0,2.0,14.4,
+Alisson,2021-09-25,Sat,6,Away,D 3–3,Liverpool,Brentford,Y,GK,90.0,3.0,3.0,0.0,0.0,0.0,1.4,0.0,0.0,0.0,0.0,10.0,14.0,71.4,23.0,6.0,39.1,37.4,7.0,71.4,49.7,10.0,1.0,10.0,2.0,16.9,
+Alisson,2021-10-03,Sun,7,Home,D 2–2,Liverpool,Manchester City,Y,GK,90.0,3.0,2.0,1.0,33.3,0.0,1.2,0.0,0.0,0.0,0.0,7.0,12.0,58.3,44.0,5.0,18.2,25.9,10.0,40.0,38.0,6.0,0.0,0.0,0.0,14.0,
+Alisson,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Alisson,2021-10-24,Sun,9,Away,W 5–0,Liverpool,Manchester Utd,Y,GK,90.0,3.0,0.0,3.0,100.0,1.0,0.4,0.0,0.0,0.0,0.0,6.0,11.0,54.5,23.0,3.0,34.8,35.7,7.0,42.9,38.3,9.0,1.0,11.1,2.0,16.8,
+Alisson,2021-10-30,Sat,10,Home,D 2–2,Liverpool,Brighton,Y,GK,90.0,6.0,2.0,3.0,66.7,0.0,1.4,0.0,0.0,0.0,0.0,5.0,9.0,55.6,35.0,12.0,22.9,28.9,3.0,33.3,35.7,3.0,1.0,33.3,1.0,15.2,
+Alisson,2021-11-07,Sun,11,Away,L 2–3,Liverpool,West Ham,Y,GK,90.0,3.0,3.0,1.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,1.0,2.0,50.0,23.0,5.0,8.7,25.9,3.0,0.0,21.3,8.0,1.0,12.5,1.0,16.8,
+Alisson,2021-11-20,Sat,12,Home,W 4–0,Liverpool,Arsenal,Y,GK,90.0,3.0,0.0,3.0,100.0,1.0,0.8,0.0,0.0,0.0,0.0,3.0,6.0,50.0,68.0,2.0,7.4,22.8,3.0,33.3,35.0,5.0,0.0,0.0,2.0,27.3,
+Alisson,2021-11-27,Sat,13,Home,W 4–0,Liverpool,Southampton,Y,GK,90.0,3.0,0.0,3.0,100.0,1.0,1.4,0.0,0.0,0.0,0.0,4.0,7.0,57.1,44.0,10.0,15.9,27.8,3.0,0.0,14.0,7.0,0.0,0.0,2.0,14.6,
+Alisson,2021-12-01,Wed,14,Away,W 4–1,Liverpool,Everton,Y,GK,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,5.0,20.0,35.0,5.0,11.4,25.7,6.0,16.7,30.5,6.0,1.0,16.7,0.0,15.3,
+Caoimhín Kelleher,2021-08-14,Sat,1,Away,W 3–0,Liverpool,Norwich City,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Caoimhín Kelleher,2021-08-21,Sat,2,Home,W 2–0,Liverpool,Burnley,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Caoimhín Kelleher,2021-08-28,Sat,3,Home,D 1–1,Liverpool,Chelsea,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Caoimhín Kelleher,2021-09-12,Sun,4,Away,W 3–0,Liverpool,Leeds United,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Caoimhín Kelleher,2021-09-18,Sat,5,Home,W 3–0,Liverpool,Crystal Palace,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Caoimhín Kelleher,2021-09-25,Sat,6,Away,D 3–3,Liverpool,Brentford,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Caoimhín Kelleher,2021-10-03,Sun,7,Home,D 2–2,Liverpool,Manchester City,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Caoimhín Kelleher,2021-10-16,Sat,8,Away,W 5–0,Liverpool,Watford,Y,GK,90.0,1.0,0.0,1.0,100.0,1.0,0.0,0.0,0.0,0.0,0.0,5.0,7.0,71.4,38.0,3.0,15.8,24.6,5.0,20.0,20.6,3.0,0.0,0.0,1.0,14.6,
+Caoimhín Kelleher,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Caoimhín Kelleher,2021-11-07,Sun,11,Away,L 2–3,Liverpool,West Ham,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Caoimhín Kelleher,2021-11-20,Sat,12,Home,W 4–0,Liverpool,Arsenal,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Caoimhín Kelleher,2021-11-27,Sat,13,Home,W 4–0,Liverpool,Southampton,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Caoimhín Kelleher,2021-12-01,Wed,14,Away,W 4–1,Liverpool,Everton,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"

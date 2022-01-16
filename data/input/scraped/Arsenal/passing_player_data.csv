@@ -1,0 +1,264 @@
+name,date,dayofweek,round,venue,result,squad,opponent,game_started,position,minutes,passes_completed,passes,passes_pct,passes_total_distance,passes_progressive_distance,passes_completed_short,passes_short,passes_pct_short,passes_completed_medium,passes_medium,passes_pct_medium,passes_completed_long,passes_long,passes_pct_long,assists,xa,assisted_shots,passes_into_final_third,passes_into_penalty_area,crosses_into_penalty_area,progressive_passes,bench_explain
+Emile Smith-Rowe,2021-08-13,Fri,1,Away,L 0–2,Arsenal,Brentford,Y,AM,90.0,48.0,50.0,96.0,748.0,269.0,23.0,24.0,95.8,21.0,21.0,100.0,3.0,4.0,75.0,0.0,0.4,2.0,1.0,5.0,0.0,12.0,
+Emile Smith-Rowe,2021-08-22,Sun,2,Home,L 0–2,Arsenal,Chelsea,Y,AM,90.0,31.0,34.0,91.2,456.0,110.0,16.0,18.0,88.9,12.0,12.0,100.0,1.0,2.0,50.0,0.0,0.0,0.0,2.0,1.0,0.0,2.0,
+Emile Smith-Rowe,2021-08-28,Sat,3,Away,L 0–5,Arsenal,Manchester City,Y,"LW,LM",90.0,10.0,14.0,71.4,155.0,53.0,6.0,9.0,66.7,2.0,2.0,100.0,1.0,1.0,100.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,
+Emile Smith-Rowe,2021-09-11,Sat,4,Home,W 1–0,Arsenal,Norwich City,N,AM,29.0,13.0,13.0,100.0,198.0,52.0,7.0,7.0,100.0,5.0,5.0,100.0,1.0,1.0,100.0,0.0,0.1,2.0,1.0,2.0,0.0,2.0,
+Emile Smith-Rowe,2021-09-18,Sat,5,Away,W 1–0,Arsenal,Burnley,Y,CM,60.0,31.0,34.0,91.2,410.0,58.0,22.0,22.0,100.0,7.0,8.0,87.5,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,
+Emile Smith-Rowe,2021-09-26,Sun,6,Home,W 3–1,Arsenal,Tottenham,Y,LW,87.0,20.0,24.0,83.3,381.0,59.0,11.0,12.0,91.7,5.0,7.0,71.4,4.0,5.0,80.0,1.0,0.1,1.0,2.0,1.0,0.0,3.0,
+Emile Smith-Rowe,2021-10-02,Sat,7,Away,D 0–0,Arsenal,Brighton,Y,"LW,AM",90.0,25.0,28.0,89.3,377.0,62.0,11.0,12.0,91.7,11.0,11.0,100.0,1.0,3.0,33.3,0.0,0.0,2.0,1.0,1.0,0.0,2.0,
+Emile Smith-Rowe,2021-10-18,Mon,8,Home,D 2–2,Arsenal,Crystal Palace,Y,"CM,LW",90.0,42.0,46.0,91.3,558.0,116.0,29.0,29.0,100.0,9.0,10.0,90.0,1.0,4.0,25.0,0.0,0.0,1.0,5.0,2.0,0.0,3.0,
+Emile Smith-Rowe,2021-10-22,Fri,9,Home,W 3–1,Arsenal,Aston Villa,Y,LW,90.0,47.0,54.0,87.0,750.0,201.0,22.0,24.0,91.7,24.0,26.0,92.3,1.0,4.0,25.0,1.0,0.2,4.0,3.0,2.0,0.0,3.0,
+Emile Smith-Rowe,2021-10-30,Sat,10,Away,W 2–0,Arsenal,Leicester City,Y,LM,89.0,21.0,26.0,80.8,365.0,77.0,11.0,11.0,100.0,8.0,11.0,72.7,2.0,4.0,50.0,0.0,0.3,2.0,0.0,0.0,0.0,1.0,
+Emile Smith-Rowe,2021-11-07,Sun,11,Home,W 1–0,Arsenal,Watford,Y,LM,85.0,23.0,31.0,74.2,441.0,35.0,9.0,11.0,81.8,10.0,12.0,83.3,4.0,8.0,50.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0,
+Emile Smith-Rowe,2021-11-20,Sat,12,Away,L 0–4,Arsenal,Liverpool,Y,LM,90.0,18.0,21.0,85.7,287.0,43.0,8.0,9.0,88.9,9.0,9.0,100.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,
+Emile Smith-Rowe,2021-11-27,Sat,13,Home,W 2–0,Arsenal,Newcastle Utd,Y,LM,90.0,47.0,55.0,85.5,738.0,142.0,26.0,29.0,89.7,18.0,20.0,90.0,3.0,5.0,60.0,0.0,0.3,3.0,0.0,2.0,0.0,3.0,
+Bukayo Saka,2021-08-13,Fri,1,Away,L 0–2,Arsenal,Brentford,N,FW,32.0,18.0,23.0,78.3,246.0,59.0,9.0,11.0,81.8,9.0,9.0,100.0,0.0,1.0,0.0,0.0,0.0,1.0,2.0,1.0,0.0,2.0,
+Bukayo Saka,2021-08-22,Sun,2,Home,L 0–2,Arsenal,Chelsea,Y,LW,60.0,23.0,30.0,76.7,283.0,54.0,12.0,13.0,92.3,7.0,11.0,63.6,1.0,2.0,50.0,0.0,0.0,1.0,1.0,2.0,0.0,2.0,
+Bukayo Saka,2021-08-28,Sat,3,Away,L 0–5,Arsenal,Manchester City,Y,RW,45.0,5.0,7.0,71.4,104.0,39.0,2.0,3.0,66.7,1.0,2.0,50.0,2.0,2.0,100.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,
+Bukayo Saka,2021-09-11,Sat,4,Home,W 1–0,Arsenal,Norwich City,Y,LW,90.0,26.0,33.0,78.8,362.0,82.0,15.0,18.0,83.3,7.0,10.0,70.0,2.0,3.0,66.7,0.0,0.3,3.0,1.0,2.0,1.0,3.0,
+Bukayo Saka,2021-09-18,Sat,5,Away,W 1–0,Arsenal,Burnley,Y,LM,90.0,25.0,32.0,78.1,338.0,79.0,14.0,17.0,82.4,9.0,11.0,81.8,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,2.0,
+Bukayo Saka,2021-09-26,Sun,6,Home,W 3–1,Arsenal,Tottenham,Y,RW,86.0,28.0,35.0,80.0,375.0,54.0,16.0,18.0,88.9,11.0,12.0,91.7,0.0,0.0,,1.0,0.2,3.0,1.0,1.0,0.0,1.0,
+Bukayo Saka,2021-10-02,Sat,7,Away,D 0–0,Arsenal,Brighton,Y,"RW,LW",89.0,29.0,39.0,74.4,347.0,75.0,20.0,22.0,90.9,5.0,7.0,71.4,1.0,2.0,50.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,
+Bukayo Saka,2021-10-18,Mon,8,Home,D 2–2,Arsenal,Crystal Palace,Y,LM,45.0,11.0,15.0,73.3,139.0,26.0,6.0,7.0,85.7,4.0,5.0,80.0,0.0,1.0,0.0,0.0,0.1,1.0,0.0,0.0,0.0,1.0,
+Bukayo Saka,2021-10-22,Fri,9,Home,W 3–1,Arsenal,Aston Villa,Y,RW,90.0,29.0,45.0,64.4,558.0,128.0,12.0,15.0,80.0,12.0,18.0,66.7,5.0,10.0,50.0,0.0,0.4,3.0,2.0,0.0,0.0,1.0,
+Bukayo Saka,2021-10-30,Sat,10,Away,W 2–0,Arsenal,Leicester City,Y,RM,84.0,23.0,32.0,71.9,393.0,129.0,15.0,17.0,88.2,5.0,7.0,71.4,3.0,6.0,50.0,1.0,0.2,3.0,1.0,1.0,1.0,1.0,
+Bukayo Saka,2021-11-07,Sun,11,Home,W 1–0,Arsenal,Watford,Y,RM,89.0,28.0,33.0,84.8,538.0,173.0,11.0,13.0,84.6,13.0,14.0,92.9,4.0,6.0,66.7,0.0,0.2,3.0,1.0,4.0,1.0,5.0,
+Bukayo Saka,2021-11-20,Sat,12,Away,L 0–4,Arsenal,Liverpool,Y,RM,90.0,22.0,28.0,78.6,343.0,83.0,11.0,14.0,78.6,9.0,9.0,100.0,1.0,2.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,3.0,
+Bukayo Saka,2021-11-27,Sat,13,Home,W 2–0,Arsenal,Newcastle Utd,Y,RM,63.0,28.0,39.0,71.8,377.0,88.0,18.0,19.0,94.7,9.0,11.0,81.8,1.0,5.0,20.0,0.0,0.2,2.0,2.0,1.0,0.0,3.0,
+Ben White,2021-08-13,Fri,1,Away,L 0–2,Arsenal,Brentford,Y,CB,90.0,56.0,61.0,91.8,1172.0,390.0,19.0,20.0,95.0,21.0,21.0,100.0,13.0,16.0,81.3,0.0,0.0,0.0,3.0,0.0,0.0,4.0,
+Ben White,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ben White,2021-09-11,Sat,4,Home,W 1–0,Arsenal,Norwich City,Y,CB,90.0,33.0,42.0,78.6,773.0,206.0,7.0,10.0,70.0,17.0,21.0,81.0,8.0,9.0,88.9,0.0,0.1,3.0,5.0,0.0,0.0,3.0,
+Ben White,2021-09-18,Sat,5,Away,W 1–0,Arsenal,Burnley,Y,CB,90.0,53.0,61.0,86.9,1188.0,327.0,14.0,14.0,100.0,29.0,33.0,87.9,10.0,14.0,71.4,0.0,0.0,0.0,3.0,0.0,0.0,2.0,
+Ben White,2021-09-26,Sun,6,Home,W 3–1,Arsenal,Tottenham,Y,CB,90.0,38.0,40.0,95.0,1017.0,333.0,5.0,5.0,100.0,22.0,22.0,100.0,11.0,13.0,84.6,0.0,0.0,0.0,2.0,1.0,0.0,2.0,
+Ben White,2021-10-02,Sat,7,Away,D 0–0,Arsenal,Brighton,Y,CB,90.0,21.0,27.0,77.8,387.0,135.0,8.0,9.0,88.9,11.0,12.0,91.7,2.0,3.0,66.7,0.0,0.0,1.0,2.0,0.0,0.0,0.0,
+Ben White,2021-10-18,Mon,8,Home,D 2–2,Arsenal,Crystal Palace,Y,CB,90.0,53.0,61.0,86.9,1103.0,273.0,15.0,17.0,88.2,29.0,33.0,87.9,9.0,11.0,81.8,0.0,0.0,0.0,7.0,0.0,0.0,1.0,
+Ben White,2021-10-22,Fri,9,Home,W 3–1,Arsenal,Aston Villa,Y,CB,90.0,34.0,36.0,94.4,779.0,276.0,5.0,6.0,83.3,23.0,24.0,95.8,6.0,6.0,100.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,
+Ben White,2021-10-30,Sat,10,Away,W 2–0,Arsenal,Leicester City,Y,CB,90.0,18.0,21.0,85.7,392.0,90.0,5.0,5.0,100.0,8.0,8.0,100.0,5.0,7.0,71.4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,
+Ben White,2021-11-07,Sun,11,Home,W 1–0,Arsenal,Watford,Y,CB,90.0,65.0,73.0,89.0,1334.0,411.0,11.0,13.0,84.6,49.0,49.0,100.0,5.0,10.0,50.0,0.0,0.0,0.0,2.0,0.0,0.0,2.0,
+Ben White,2021-11-20,Sat,12,Away,L 0–4,Arsenal,Liverpool,Y,CB,90.0,29.0,40.0,72.5,726.0,338.0,9.0,9.0,100.0,15.0,20.0,75.0,5.0,10.0,50.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,
+Ben White,2021-11-27,Sat,13,Home,W 2–0,Arsenal,Newcastle Utd,Y,CB,90.0,71.0,80.0,88.8,1436.0,474.0,26.0,26.0,100.0,36.0,37.0,97.3,9.0,15.0,60.0,0.0,0.0,0.0,11.0,0.0,0.0,9.0,
+Pierre-Emerick Aubameyang,2021-08-22,Sun,2,Home,L 0–2,Arsenal,Chelsea,N,LW,30.0,2.0,5.0,40.0,16.0,0.0,2.0,3.0,66.7,0.0,2.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Pierre-Emerick Aubameyang,2021-08-28,Sat,3,Away,L 0–5,Arsenal,Manchester City,Y*,FW,58.0,5.0,12.0,41.7,52.0,8.0,4.0,7.0,57.1,1.0,4.0,25.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Pierre-Emerick Aubameyang,2021-09-11,Sat,4,Home,W 1–0,Arsenal,Norwich City,Y*,FW,90.0,12.0,16.0,75.0,139.0,24.0,9.0,10.0,90.0,1.0,1.0,100.0,1.0,3.0,33.3,0.0,0.1,2.0,0.0,2.0,0.0,2.0,
+Pierre-Emerick Aubameyang,2021-09-18,Sat,5,Away,W 1–0,Arsenal,Burnley,Y*,FW,90.0,21.0,22.0,95.5,219.0,50.0,15.0,16.0,93.8,5.0,5.0,100.0,0.0,0.0,,0.0,0.4,3.0,0.0,2.0,0.0,2.0,
+Pierre-Emerick Aubameyang,2021-09-26,Sun,6,Home,W 3–1,Arsenal,Tottenham,Y*,FW,90.0,10.0,13.0,76.9,186.0,24.0,5.0,6.0,83.3,3.0,4.0,75.0,2.0,3.0,66.7,0.0,0.0,0.0,2.0,0.0,0.0,1.0,
+Pierre-Emerick Aubameyang,2021-10-02,Sat,7,Away,D 0–0,Arsenal,Brighton,Y*,FW,71.0,6.0,11.0,54.5,68.0,21.0,5.0,6.0,83.3,1.0,4.0,25.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,
+Pierre-Emerick Aubameyang,2021-10-18,Mon,8,Home,D 2–2,Arsenal,Crystal Palace,Y*,FW,90.0,12.0,16.0,75.0,205.0,69.0,7.0,9.0,77.8,3.0,4.0,75.0,2.0,2.0,100.0,0.0,0.1,1.0,0.0,4.0,1.0,3.0,
+Pierre-Emerick Aubameyang,2021-10-22,Fri,9,Home,W 3–1,Arsenal,Aston Villa,Y*,FW,89.0,15.0,22.0,68.2,230.0,56.0,9.0,14.0,64.3,5.0,5.0,100.0,1.0,1.0,100.0,1.0,0.1,2.0,1.0,2.0,0.0,3.0,
+Pierre-Emerick Aubameyang,2021-10-30,Sat,10,Away,W 2–0,Arsenal,Leicester City,Y*,FW,90.0,12.0,19.0,63.2,182.0,29.0,5.0,6.0,83.3,7.0,12.0,58.3,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Pierre-Emerick Aubameyang,2021-11-07,Sun,11,Home,W 1–0,Arsenal,Watford,Y*,FW,90.0,12.0,19.0,63.2,171.0,18.0,6.0,9.0,66.7,5.0,8.0,62.5,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Pierre-Emerick Aubameyang,2021-11-20,Sat,12,Away,L 0–4,Arsenal,Liverpool,Y*,FW,90.0,10.0,15.0,66.7,191.0,12.0,6.0,8.0,75.0,2.0,4.0,50.0,2.0,3.0,66.7,0.0,0.0,1.0,0.0,0.0,0.0,0.0,
+Pierre-Emerick Aubameyang,2021-11-27,Sat,13,Home,W 2–0,Arsenal,Newcastle Utd,Y*,FW,75.0,12.0,16.0,75.0,133.0,10.0,11.0,12.0,91.7,1.0,2.0,50.0,0.0,0.0,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,
+Gabriel Dos Santos,2021-09-11,Sat,4,Home,W 1–0,Arsenal,Norwich City,Y,CB,90.0,44.0,51.0,86.3,857.0,286.0,18.0,19.0,94.7,22.0,24.0,91.7,4.0,8.0,50.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0,
+Gabriel Dos Santos,2021-09-18,Sat,5,Away,W 1–0,Arsenal,Burnley,Y,CB,90.0,43.0,50.0,86.0,926.0,173.0,9.0,10.0,90.0,27.0,30.0,90.0,7.0,10.0,70.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,
+Gabriel Dos Santos,2021-09-26,Sun,6,Home,W 3–1,Arsenal,Tottenham,Y,CB,90.0,44.0,47.0,93.6,977.0,344.0,9.0,9.0,100.0,29.0,31.0,93.5,6.0,7.0,85.7,0.0,0.1,1.0,5.0,0.0,0.0,3.0,
+Gabriel Dos Santos,2021-10-02,Sat,7,Away,D 0–0,Arsenal,Brighton,Y,CB,90.0,38.0,41.0,92.7,786.0,311.0,11.0,11.0,100.0,19.0,19.0,100.0,7.0,10.0,70.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0,
+Gabriel Dos Santos,2021-10-18,Mon,8,Home,D 2–2,Arsenal,Crystal Palace,Y,CB,90.0,73.0,81.0,90.1,1456.0,497.0,27.0,28.0,96.4,34.0,36.0,94.4,11.0,16.0,68.8,0.0,0.0,0.0,7.0,0.0,0.0,4.0,
+Gabriel Dos Santos,2021-10-22,Fri,9,Home,W 3–1,Arsenal,Aston Villa,Y,CB,90.0,38.0,42.0,90.5,791.0,243.0,12.0,14.0,85.7,21.0,22.0,95.5,4.0,5.0,80.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,
+Gabriel Dos Santos,2021-10-30,Sat,10,Away,W 2–0,Arsenal,Leicester City,Y,CB,90.0,26.0,31.0,83.9,531.0,103.0,8.0,8.0,100.0,13.0,14.0,92.9,4.0,8.0,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Gabriel Dos Santos,2021-11-07,Sun,11,Home,W 1–0,Arsenal,Watford,Y,CB,90.0,67.0,72.0,93.1,1486.0,370.0,14.0,14.0,100.0,42.0,44.0,95.5,11.0,14.0,78.6,0.0,0.0,0.0,3.0,0.0,0.0,3.0,
+Gabriel Dos Santos,2021-11-20,Sat,12,Away,L 0–4,Arsenal,Liverpool,Y,CB,90.0,38.0,45.0,84.4,921.0,230.0,9.0,10.0,90.0,18.0,18.0,100.0,10.0,16.0,62.5,0.0,0.0,0.0,2.0,0.0,0.0,1.0,
+Gabriel Dos Santos,2021-11-27,Sat,13,Home,W 2–0,Arsenal,Newcastle Utd,Y,CB,90.0,60.0,63.0,95.2,1315.0,305.0,17.0,17.0,100.0,32.0,33.0,97.0,10.0,12.0,83.3,0.0,0.0,0.0,3.0,0.0,0.0,2.0,
+Aaron Ramsdale,2021-08-22,Sun,2,Home,L 0–2,Arsenal,Chelsea,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Aaron Ramsdale,2021-08-28,Sat,3,Away,L 0–5,Arsenal,Manchester City,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Aaron Ramsdale,2021-09-11,Sat,4,Home,W 1–0,Arsenal,Norwich City,Y,GK,90.0,24.0,30.0,80.0,665.0,457.0,7.0,7.0,100.0,11.0,11.0,100.0,6.0,12.0,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Aaron Ramsdale,2021-09-18,Sat,5,Away,W 1–0,Arsenal,Burnley,Y,GK,90.0,35.0,49.0,71.4,978.0,663.0,10.0,10.0,100.0,15.0,15.0,100.0,9.0,22.0,40.9,0.0,0.0,0.0,1.0,0.0,0.0,0.0,
+Aaron Ramsdale,2021-09-26,Sun,6,Home,W 3–1,Arsenal,Tottenham,Y,GK,90.0,21.0,35.0,60.0,793.0,572.0,4.0,4.0,100.0,6.0,6.0,100.0,11.0,25.0,44.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,
+Aaron Ramsdale,2021-10-02,Sat,7,Away,D 0–0,Arsenal,Brighton,Y,GK,90.0,18.0,37.0,48.6,522.0,291.0,5.0,5.0,100.0,6.0,6.0,100.0,7.0,26.0,26.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Aaron Ramsdale,2021-10-18,Mon,8,Home,D 2–2,Arsenal,Crystal Palace,Y,GK,90.0,21.0,27.0,77.8,702.0,469.0,4.0,4.0,100.0,7.0,7.0,100.0,10.0,16.0,62.5,0.0,0.0,0.0,2.0,0.0,0.0,0.0,
+Aaron Ramsdale,2021-10-22,Fri,9,Home,W 3–1,Arsenal,Aston Villa,Y,GK,90.0,20.0,27.0,74.1,687.0,446.0,1.0,2.0,50.0,10.0,10.0,100.0,9.0,15.0,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Aaron Ramsdale,2021-10-30,Sat,10,Away,W 2–0,Arsenal,Leicester City,Y,GK,90.0,20.0,46.0,43.5,625.0,384.0,3.0,3.0,100.0,8.0,9.0,88.9,9.0,34.0,26.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Aaron Ramsdale,2021-11-07,Sun,11,Home,W 1–0,Arsenal,Watford,Y,GK,90.0,30.0,36.0,83.3,875.0,547.0,6.0,6.0,100.0,15.0,15.0,100.0,9.0,15.0,60.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,
+Aaron Ramsdale,2021-11-20,Sat,12,Away,L 0–4,Arsenal,Liverpool,Y,GK,90.0,26.0,35.0,74.3,659.0,359.0,12.0,12.0,100.0,6.0,6.0,100.0,8.0,17.0,47.1,0.0,0.0,0.0,1.0,0.0,0.0,0.0,
+Aaron Ramsdale,2021-11-27,Sat,13,Home,W 2–0,Arsenal,Newcastle Utd,Y,GK,90.0,16.0,19.0,84.2,398.0,203.0,6.0,6.0,100.0,5.0,5.0,100.0,5.0,8.0,62.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Takehiro Tomiyasu,2021-09-11,Sat,4,Home,W 1–0,Arsenal,Norwich City,Y,RB,61.0,28.0,38.0,73.7,451.0,175.0,14.0,15.0,93.3,13.0,18.0,72.2,1.0,4.0,25.0,0.0,0.0,0.0,3.0,1.0,1.0,4.0,
+Takehiro Tomiyasu,2021-09-18,Sat,5,Away,W 1–0,Arsenal,Burnley,Y,RB,90.0,54.0,67.0,80.6,886.0,330.0,29.0,31.0,93.5,22.0,31.0,71.0,3.0,4.0,75.0,0.0,0.0,0.0,4.0,0.0,0.0,3.0,
+Takehiro Tomiyasu,2021-09-26,Sun,6,Home,W 3–1,Arsenal,Tottenham,Y,RB,90.0,43.0,55.0,78.2,729.0,311.0,19.0,20.0,95.0,19.0,24.0,79.2,4.0,7.0,57.1,0.0,0.0,0.0,4.0,0.0,0.0,3.0,
+Takehiro Tomiyasu,2021-10-02,Sat,7,Away,D 0–0,Arsenal,Brighton,Y,RB,90.0,31.0,37.0,83.8,570.0,351.0,13.0,15.0,86.7,15.0,16.0,93.8,3.0,6.0,50.0,0.0,0.0,0.0,2.0,0.0,0.0,3.0,
+Takehiro Tomiyasu,2021-10-18,Mon,8,Home,D 2–2,Arsenal,Crystal Palace,Y,RB,90.0,64.0,76.0,84.2,977.0,312.0,35.0,36.0,97.2,22.0,25.0,88.0,5.0,11.0,45.5,0.0,0.0,1.0,5.0,0.0,0.0,3.0,
+Takehiro Tomiyasu,2021-10-22,Fri,9,Home,W 3–1,Arsenal,Aston Villa,Y,RB,90.0,42.0,54.0,77.8,762.0,350.0,19.0,20.0,95.0,18.0,23.0,78.3,4.0,8.0,50.0,0.0,0.1,1.0,6.0,0.0,0.0,3.0,
+Takehiro Tomiyasu,2021-10-30,Sat,10,Away,W 2–0,Arsenal,Leicester City,Y,RB,90.0,31.0,40.0,77.5,544.0,153.0,16.0,20.0,80.0,11.0,16.0,68.8,3.0,3.0,100.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,
+Takehiro Tomiyasu,2021-11-07,Sun,11,Home,W 1–0,Arsenal,Watford,Y,RB,90.0,48.0,59.0,81.4,980.0,337.0,16.0,20.0,80.0,23.0,25.0,92.0,8.0,13.0,61.5,0.0,0.0,1.0,5.0,3.0,0.0,9.0,
+Takehiro Tomiyasu,2021-11-20,Sat,12,Away,L 0–4,Arsenal,Liverpool,Y,RB,90.0,32.0,43.0,74.4,575.0,290.0,15.0,18.0,83.3,12.0,17.0,70.6,5.0,7.0,71.4,0.0,0.1,1.0,1.0,1.0,1.0,2.0,
+Takehiro Tomiyasu,2021-11-27,Sat,13,Home,W 2–0,Arsenal,Newcastle Utd,Y,RB,90.0,72.0,84.0,85.7,1424.0,435.0,35.0,41.0,85.4,25.0,29.0,86.2,12.0,12.0,100.0,1.0,0.2,2.0,5.0,2.0,2.0,3.0,
+Albert Sambi Lokonga,2021-08-13,Fri,1,Away,L 0–2,Arsenal,Brentford,Y,DM,90.0,63.0,71.0,88.7,1184.0,235.0,25.0,27.0,92.6,27.0,29.0,93.1,9.0,13.0,69.2,0.0,0.0,2.0,6.0,3.0,0.0,6.0,
+Albert Sambi Lokonga,2021-08-22,Sun,2,Home,L 0–2,Arsenal,Chelsea,Y,DM,90.0,35.0,42.0,83.3,676.0,327.0,16.0,17.0,94.1,13.0,16.0,81.3,5.0,8.0,62.5,0.0,0.0,0.0,3.0,1.0,0.0,3.0,
+Albert Sambi Lokonga,2021-08-28,Sat,3,Away,L 0–5,Arsenal,Manchester City,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Albert Sambi Lokonga,2021-09-11,Sat,4,Home,W 1–0,Arsenal,Norwich City,Y,DM,61.0,43.0,49.0,87.8,695.0,114.0,25.0,26.0,96.2,12.0,12.0,100.0,6.0,11.0,54.5,0.0,0.0,0.0,3.0,0.0,0.0,2.0,
+Albert Sambi Lokonga,2021-09-18,Sat,5,Away,W 1–0,Arsenal,Burnley,N,CM,30.0,20.0,27.0,74.1,332.0,106.0,11.0,14.0,78.6,7.0,9.0,77.8,2.0,4.0,50.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,
+Albert Sambi Lokonga,2021-09-26,Sun,6,Home,W 3–1,Arsenal,Tottenham,N,DM,9.0,3.0,4.0,75.0,77.0,40.0,0.0,0.0,,2.0,3.0,66.7,1.0,1.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,
+Albert Sambi Lokonga,2021-10-02,Sat,7,Away,D 0–0,Arsenal,Brighton,Y,CM,90.0,38.0,42.0,90.5,602.0,177.0,17.0,20.0,85.0,20.0,20.0,100.0,1.0,1.0,100.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,
+Albert Sambi Lokonga,2021-10-18,Mon,8,Home,D 2–2,Arsenal,Crystal Palace,N,"DM,CM",45.0,44.0,45.0,97.8,856.0,128.0,17.0,17.0,100.0,18.0,19.0,94.7,8.0,8.0,100.0,0.0,0.0,1.0,6.0,0.0,0.0,3.0,
+Albert Sambi Lokonga,2021-10-22,Fri,9,Home,W 3–1,Arsenal,Aston Villa,Y,DM,72.0,38.0,44.0,86.4,539.0,132.0,21.0,23.0,91.3,15.0,16.0,93.8,0.0,2.0,0.0,0.0,0.1,2.0,3.0,2.0,0.0,4.0,
+Albert Sambi Lokonga,2021-10-30,Sat,10,Away,W 2–0,Arsenal,Leicester City,Y,DM,90.0,29.0,32.0,90.6,506.0,89.0,11.0,13.0,84.6,15.0,15.0,100.0,1.0,2.0,50.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,
+Albert Sambi Lokonga,2021-11-07,Sun,11,Home,W 1–0,Arsenal,Watford,Y,DM,90.0,59.0,67.0,88.1,1400.0,265.0,14.0,16.0,87.5,29.0,30.0,96.7,16.0,20.0,80.0,0.0,0.0,0.0,6.0,1.0,0.0,8.0,
+Albert Sambi Lokonga,2021-11-20,Sat,12,Away,L 0–4,Arsenal,Liverpool,Y,DM,52.0,23.0,28.0,82.1,436.0,44.0,9.0,11.0,81.8,8.0,11.0,72.7,5.0,5.0,100.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,
+Albert Sambi Lokonga,2021-11-27,Sat,13,Home,W 2–0,Arsenal,Newcastle Utd,Y,DM,90.0,80.0,84.0,95.2,1410.0,401.0,35.0,36.0,97.2,33.0,35.0,94.3,9.0,10.0,90.0,0.0,0.4,6.0,13.0,5.0,0.0,12.0,
+Thomas Partey,2021-09-11,Sat,4,Home,W 1–0,Arsenal,Norwich City,N,DM,29.0,10.0,11.0,90.9,262.0,91.0,3.0,3.0,100.0,4.0,5.0,80.0,3.0,3.0,100.0,0.0,0.0,0.0,3.0,0.0,0.0,2.0,
+Thomas Partey,2021-09-18,Sat,5,Away,W 1–0,Arsenal,Burnley,Y,DM,74.0,42.0,52.0,80.8,799.0,276.0,16.0,19.0,84.2,20.0,22.0,90.9,6.0,9.0,66.7,0.0,0.0,1.0,8.0,0.0,0.0,7.0,
+Thomas Partey,2021-09-26,Sun,6,Home,W 3–1,Arsenal,Tottenham,Y,DM,90.0,27.0,28.0,96.4,604.0,136.0,10.0,10.0,100.0,11.0,12.0,91.7,5.0,5.0,100.0,0.0,0.0,2.0,3.0,0.0,0.0,0.0,
+Thomas Partey,2021-10-02,Sat,7,Away,D 0–0,Arsenal,Brighton,Y,CM,90.0,35.0,42.0,83.3,718.0,201.0,12.0,14.0,85.7,16.0,18.0,88.9,7.0,8.0,87.5,0.0,0.3,2.0,4.0,0.0,0.0,1.0,
+Thomas Partey,2021-10-18,Mon,8,Home,D 2–2,Arsenal,Crystal Palace,Y,DM,80.0,42.0,48.0,87.5,872.0,215.0,16.0,19.0,84.2,15.0,15.0,100.0,9.0,11.0,81.8,0.0,0.0,1.0,6.0,1.0,0.0,9.0,
+Thomas Partey,2021-10-22,Fri,9,Home,W 3–1,Arsenal,Aston Villa,Y,DM,90.0,42.0,52.0,80.8,686.0,202.0,23.0,27.0,85.2,17.0,22.0,77.3,2.0,3.0,66.7,0.0,0.0,0.0,6.0,0.0,0.0,4.0,
+Thomas Partey,2021-10-30,Sat,10,Away,W 2–0,Arsenal,Leicester City,Y,DM,90.0,37.0,44.0,84.1,735.0,188.0,14.0,14.0,100.0,15.0,18.0,83.3,7.0,11.0,63.6,0.0,0.0,0.0,6.0,0.0,0.0,2.0,
+Thomas Partey,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Thomas Partey,2021-11-20,Sat,12,Away,L 0–4,Arsenal,Liverpool,Y,DM,83.0,26.0,30.0,86.7,548.0,140.0,12.0,14.0,85.7,7.0,7.0,100.0,7.0,9.0,77.8,0.0,0.0,0.0,2.0,0.0,0.0,2.0,
+Thomas Partey,2021-11-27,Sat,13,Home,W 2–0,Arsenal,Newcastle Utd,Y,DM,84.0,56.0,66.0,84.8,952.0,249.0,22.0,26.0,84.6,30.0,34.0,88.2,2.0,4.0,50.0,0.0,0.0,0.0,6.0,0.0,0.0,7.0,
+Kieran Tierney,2021-08-13,Fri,1,Away,L 0–2,Arsenal,Brentford,Y,LB,90.0,58.0,72.0,80.6,1187.0,294.0,20.0,21.0,95.2,30.0,36.0,83.3,8.0,14.0,57.1,0.0,0.6,7.0,1.0,5.0,5.0,4.0,
+Kieran Tierney,2021-08-22,Sun,2,Home,L 0–2,Arsenal,Chelsea,Y,LB,65.0,19.0,30.0,63.3,370.0,163.0,12.0,16.0,75.0,5.0,8.0,62.5,2.0,6.0,33.3,0.0,0.0,0.0,4.0,0.0,0.0,1.0,
+Kieran Tierney,2021-08-28,Sat,3,Away,L 0–5,Arsenal,Manchester City,Y,"WB,LB",90.0,13.0,22.0,59.1,297.0,135.0,3.0,4.0,75.0,8.0,9.0,88.9,2.0,9.0,22.2,0.0,0.1,1.0,0.0,1.0,1.0,1.0,
+Kieran Tierney,2021-09-11,Sat,4,Home,W 1–0,Arsenal,Norwich City,Y,LB,90.0,38.0,49.0,77.6,688.0,292.0,17.0,20.0,85.0,17.0,21.0,81.0,3.0,6.0,50.0,0.0,0.1,2.0,4.0,3.0,2.0,4.0,
+Kieran Tierney,2021-09-18,Sat,5,Away,W 1–0,Arsenal,Burnley,Y,LB,77.0,20.0,33.0,60.6,325.0,55.0,10.0,12.0,83.3,9.0,10.0,90.0,1.0,9.0,11.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kieran Tierney,2021-09-26,Sun,6,Home,W 3–1,Arsenal,Tottenham,Y,LB,90.0,40.0,49.0,81.6,880.0,335.0,17.0,19.0,89.5,15.0,16.0,93.8,8.0,13.0,61.5,0.0,0.0,0.0,3.0,0.0,0.0,4.0,
+Kieran Tierney,2021-10-02,Sat,7,Away,D 0–0,Arsenal,Brighton,Y,LB,90.0,16.0,31.0,51.6,319.0,123.0,5.0,7.0,71.4,9.0,13.0,69.2,2.0,8.0,25.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,
+Kieran Tierney,2021-10-18,Mon,8,Home,D 2–2,Arsenal,Crystal Palace,Y,LB,90.0,58.0,65.0,89.2,949.0,198.0,28.0,28.0,100.0,28.0,29.0,96.6,1.0,3.0,33.3,0.0,0.0,1.0,7.0,2.0,1.0,6.0,
+Kieran Tierney,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Kieran Tierney,2021-11-07,Sun,11,Home,W 1–0,Arsenal,Watford,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Kieran Tierney,2021-11-20,Sat,12,Away,L 0–4,Arsenal,Liverpool,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Kieran Tierney,2021-11-27,Sat,13,Home,W 2–0,Arsenal,Newcastle Utd,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Martin Ødegaard,2021-08-28,Sat,3,Away,L 0–5,Arsenal,Manchester City,Y,"DM,RM",70.0,13.0,16.0,81.3,286.0,36.0,3.0,3.0,100.0,8.0,10.0,80.0,2.0,3.0,66.7,0.0,0.0,0.0,1.0,1.0,0.0,2.0,
+Martin Ødegaard,2021-09-11,Sat,4,Home,W 1–0,Arsenal,Norwich City,Y,"AM,DM",90.0,41.0,44.0,93.2,620.0,76.0,27.0,29.0,93.1,11.0,11.0,100.0,2.0,3.0,66.7,0.0,0.1,2.0,2.0,1.0,0.0,2.0,
+Martin Ødegaard,2021-09-18,Sat,5,Away,W 1–0,Arsenal,Burnley,Y,CM,90.0,53.0,62.0,85.5,968.0,283.0,18.0,21.0,85.7,28.0,30.0,93.3,6.0,9.0,66.7,0.0,0.1,2.0,3.0,2.0,0.0,10.0,
+Martin Ødegaard,2021-09-26,Sun,6,Home,W 3–1,Arsenal,Tottenham,Y,AM,90.0,48.0,52.0,92.3,1011.0,199.0,18.0,19.0,94.7,17.0,18.0,94.4,10.0,12.0,83.3,0.0,0.1,4.0,2.0,1.0,0.0,2.0,
+Martin Ødegaard,2021-10-02,Sat,7,Away,D 0–0,Arsenal,Brighton,Y,AM,62.0,16.0,22.0,72.7,228.0,72.0,9.0,12.0,75.0,7.0,8.0,87.5,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,
+Martin Ødegaard,2021-10-18,Mon,8,Home,D 2–2,Arsenal,Crystal Palace,Y,"CM,AM",66.0,38.0,43.0,88.4,659.0,88.0,22.0,23.0,95.7,12.0,14.0,85.7,3.0,4.0,75.0,0.0,0.0,0.0,2.0,1.0,0.0,1.0,
+Martin Ødegaard,2021-10-22,Fri,9,Home,W 3–1,Arsenal,Aston Villa,N,AM,23.0,19.0,22.0,86.4,318.0,40.0,9.0,10.0,90.0,8.0,9.0,88.9,2.0,3.0,66.7,0.0,0.0,0.0,1.0,0.0,0.0,0.0,
+Martin Ødegaard,2021-10-30,Sat,10,Away,W 2–0,Arsenal,Leicester City,N,AM,33.0,12.0,16.0,75.0,181.0,85.0,7.0,9.0,77.8,5.0,5.0,100.0,0.0,1.0,0.0,0.0,0.2,2.0,0.0,2.0,0.0,3.0,
+Martin Ødegaard,2021-11-07,Sun,11,Home,W 1–0,Arsenal,Watford,N,AM,22.0,4.0,10.0,40.0,91.0,45.0,2.0,4.0,50.0,1.0,3.0,33.3,1.0,2.0,50.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,
+Martin Ødegaard,2021-11-20,Sat,12,Away,L 0–4,Arsenal,Liverpool,N,AM,24.0,9.0,13.0,69.2,140.0,13.0,3.0,4.0,75.0,3.0,3.0,100.0,1.0,3.0,33.3,0.0,0.0,0.0,1.0,0.0,0.0,0.0,
+Martin Ødegaard,2021-11-27,Sat,13,Home,W 2–0,Arsenal,Newcastle Utd,Y,AM,90.0,55.0,65.0,84.6,1047.0,207.0,27.0,31.0,87.1,19.0,22.0,86.4,8.0,11.0,72.7,0.0,0.1,2.0,6.0,0.0,0.0,4.0,
+Nuno Tavares,2021-08-13,Fri,1,Away,L 0–2,Arsenal,Brentford,N,RB,10.0,7.0,7.0,100.0,109.0,20.0,4.0,4.0,100.0,3.0,3.0,100.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Nuno Tavares,2021-08-22,Sun,2,Home,L 0–2,Arsenal,Chelsea,N,LB,25.0,8.0,10.0,80.0,111.0,39.0,5.0,5.0,100.0,3.0,4.0,75.0,0.0,0.0,,0.0,0.0,0.0,0.0,1.0,0.0,1.0,
+Nuno Tavares,2021-08-28,Sat,3,Away,L 0–5,Arsenal,Manchester City,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Nuno Tavares,2021-09-11,Sat,4,Home,W 1–0,Arsenal,Norwich City,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Nuno Tavares,2021-09-18,Sat,5,Away,W 1–0,Arsenal,Burnley,N,LB,13.0,7.0,9.0,77.8,107.0,31.0,3.0,3.0,100.0,4.0,4.0,100.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Nuno Tavares,2021-09-26,Sun,6,Home,W 3–1,Arsenal,Tottenham,N,LW,3.0,1.0,2.0,50.0,18.0,0.0,0.0,0.0,,1.0,2.0,50.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Nuno Tavares,2021-10-02,Sat,7,Away,D 0–0,Arsenal,Brighton,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Nuno Tavares,2021-10-18,Mon,8,Home,D 2–2,Arsenal,Crystal Palace,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Nuno Tavares,2021-10-22,Fri,9,Home,W 3–1,Arsenal,Aston Villa,Y,LB,90.0,43.0,51.0,84.3,800.0,185.0,17.0,19.0,89.5,19.0,22.0,86.4,6.0,7.0,85.7,0.0,0.5,1.0,3.0,1.0,1.0,1.0,
+Nuno Tavares,2021-10-30,Sat,10,Away,W 2–0,Arsenal,Leicester City,Y,"LB,LM",90.0,30.0,34.0,88.2,586.0,142.0,10.0,10.0,100.0,18.0,19.0,94.7,2.0,5.0,40.0,0.0,0.0,0.0,1.0,1.0,0.0,2.0,
+Nuno Tavares,2021-11-07,Sun,11,Home,W 1–0,Arsenal,Watford,Y,LB,90.0,36.0,45.0,80.0,783.0,140.0,12.0,15.0,80.0,16.0,18.0,88.9,7.0,10.0,70.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,
+Nuno Tavares,2021-11-20,Sat,12,Away,L 0–4,Arsenal,Liverpool,Y,LB,90.0,36.0,51.0,70.6,733.0,289.0,14.0,19.0,73.7,16.0,19.0,84.2,6.0,11.0,54.5,0.0,0.0,1.0,3.0,0.0,0.0,4.0,
+Nuno Tavares,2021-11-27,Sat,13,Home,W 2–0,Arsenal,Newcastle Utd,Y,LB,90.0,72.0,81.0,88.9,1193.0,257.0,37.0,40.0,92.5,29.0,31.0,93.5,5.0,8.0,62.5,1.0,0.2,1.0,3.0,1.0,0.0,2.0,
+Nicolas Pépé,2021-08-13,Fri,1,Away,L 0–2,Arsenal,Brentford,Y,"RW,LW",90.0,35.0,43.0,81.4,572.0,63.0,20.0,24.0,83.3,12.0,14.0,85.7,3.0,5.0,60.0,0.0,0.1,3.0,0.0,0.0,0.0,0.0,
+Nicolas Pépé,2021-08-22,Sun,2,Home,L 0–2,Arsenal,Chelsea,Y,RW,90.0,26.0,34.0,76.5,570.0,135.0,11.0,12.0,91.7,11.0,13.0,84.6,4.0,9.0,44.4,0.0,0.0,0.0,2.0,0.0,0.0,1.0,
+Nicolas Pépé,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Nicolas Pépé,2021-09-11,Sat,4,Home,W 1–0,Arsenal,Norwich City,Y,RW,90.0,37.0,48.0,77.1,678.0,213.0,18.0,20.0,90.0,14.0,18.0,77.8,4.0,8.0,50.0,1.0,1.2,6.0,1.0,2.0,0.0,2.0,
+Nicolas Pépé,2021-09-18,Sat,5,Away,W 1–0,Arsenal,Burnley,Y,RM,90.0,31.0,40.0,77.5,471.0,176.0,17.0,22.0,77.3,13.0,15.0,86.7,1.0,3.0,33.3,0.0,0.2,2.0,3.0,0.0,0.0,4.0,
+Nicolas Pépé,2021-09-26,Sun,6,Home,W 3–1,Arsenal,Tottenham,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Nicolas Pépé,2021-10-02,Sat,7,Away,D 0–0,Arsenal,Brighton,N,"RW,LW",28.0,10.0,14.0,71.4,178.0,58.0,5.0,5.0,100.0,2.0,3.0,66.7,2.0,4.0,50.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,
+Nicolas Pépé,2021-10-18,Mon,8,Home,D 2–2,Arsenal,Crystal Palace,Y,"RM,RW",90.0,37.0,47.0,78.7,443.0,90.0,23.0,24.0,95.8,9.0,11.0,81.8,1.0,6.0,16.7,0.0,0.1,1.0,1.0,2.0,2.0,1.0,
+Nicolas Pépé,2021-10-22,Fri,9,Home,W 3–1,Arsenal,Aston Villa,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Nicolas Pépé,2021-10-30,Sat,10,Away,W 2–0,Arsenal,Leicester City,N,RM,6.0,10.0,11.0,90.9,139.0,17.0,5.0,6.0,83.3,3.0,3.0,100.0,1.0,1.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Nicolas Pépé,2021-11-07,Sun,11,Home,W 1–0,Arsenal,Watford,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Nicolas Pépé,2021-11-20,Sat,12,Away,L 0–4,Arsenal,Liverpool,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Nicolas Pépé,2021-11-27,Sat,13,Home,W 2–0,Arsenal,Newcastle Utd,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Alexandre Lacazette,2021-08-28,Sat,3,Away,L 0–5,Arsenal,Manchester City,N,FW,32.0,3.0,6.0,50.0,40.0,0.0,2.0,3.0,66.7,1.0,2.0,50.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Alexandre Lacazette,2021-09-11,Sat,4,Home,W 1–0,Arsenal,Norwich City,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Alexandre Lacazette,2021-09-18,Sat,5,Away,W 1–0,Arsenal,Burnley,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Alexandre Lacazette,2021-09-26,Sun,6,Home,W 3–1,Arsenal,Tottenham,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Alexandre Lacazette,2021-10-02,Sat,7,Away,D 0–0,Arsenal,Brighton,N,FW,19.0,7.0,9.0,77.8,93.0,34.0,2.0,3.0,66.7,3.0,4.0,75.0,0.0,0.0,,0.0,0.0,0.0,1.0,1.0,0.0,2.0,
+Alexandre Lacazette,2021-10-18,Mon,8,Home,D 2–2,Arsenal,Crystal Palace,N,"AM,FW",24.0,8.0,11.0,72.7,96.0,26.0,5.0,7.0,71.4,2.0,2.0,100.0,0.0,1.0,0.0,0.0,0.2,2.0,0.0,3.0,0.0,3.0,
+Alexandre Lacazette,2021-10-22,Fri,9,Home,W 3–1,Arsenal,Aston Villa,Y,AM,67.0,25.0,34.0,73.5,301.0,40.0,17.0,21.0,81.0,5.0,8.0,62.5,1.0,3.0,33.3,0.0,0.1,2.0,1.0,1.0,0.0,1.0,
+Alexandre Lacazette,2021-10-30,Sat,10,Away,W 2–0,Arsenal,Leicester City,Y,AM,57.0,14.0,21.0,66.7,176.0,25.0,7.0,9.0,77.8,6.0,9.0,66.7,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,
+Alexandre Lacazette,2021-11-07,Sun,11,Home,W 1–0,Arsenal,Watford,Y,AM,68.0,15.0,23.0,65.2,271.0,90.0,8.0,12.0,66.7,4.0,7.0,57.1,3.0,4.0,75.0,0.0,0.1,2.0,3.0,1.0,0.0,3.0,
+Alexandre Lacazette,2021-11-20,Sat,12,Away,L 0–4,Arsenal,Liverpool,Y,AM,66.0,11.0,16.0,68.8,265.0,97.0,5.0,7.0,71.4,1.0,3.0,33.3,5.0,6.0,83.3,0.0,0.2,1.0,1.0,2.0,0.0,4.0,
+Alexandre Lacazette,2021-11-27,Sat,13,Home,W 2–0,Arsenal,Newcastle Utd,N,FW,15.0,2.0,4.0,50.0,13.0,10.0,2.0,3.0,66.7,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,1.0,0.0,1.0,
+Granit Xhaka,2021-08-13,Fri,1,Away,L 0–2,Arsenal,Brentford,Y*,DM,90.0,78.0,84.0,92.9,1407.0,494.0,33.0,34.0,97.1,36.0,39.0,92.3,8.0,9.0,88.9,0.0,0.1,1.0,12.0,4.0,0.0,13.0,
+Granit Xhaka,2021-08-22,Sun,2,Home,L 0–2,Arsenal,Chelsea,Y*,DM,90.0,26.0,36.0,72.2,519.0,139.0,11.0,13.0,84.6,9.0,11.0,81.8,5.0,10.0,50.0,0.0,0.0,2.0,4.0,1.0,0.0,4.0,
+Granit Xhaka,2021-08-28,Sat,3,Away,L 0–5,Arsenal,Manchester City,Y,"DM,CM",34.0,8.0,10.0,80.0,145.0,18.0,1.0,1.0,100.0,5.0,6.0,83.3,1.0,2.0,50.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,
+Granit Xhaka,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Granit Xhaka,2021-09-26,Sun,6,Home,W 3–1,Arsenal,Tottenham,Y,DM,81.0,38.0,44.0,86.4,709.0,199.0,14.0,17.0,82.4,18.0,21.0,85.7,6.0,6.0,100.0,0.0,0.0,0.0,4.0,0.0,0.0,3.0,
+Bernd Leno,2021-08-13,Fri,1,Away,L 0–2,Arsenal,Brentford,Y,GK,90.0,28.0,34.0,82.4,687.0,287.0,8.0,8.0,100.0,12.0,12.0,100.0,8.0,14.0,57.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Bernd Leno,2021-08-22,Sun,2,Home,L 0–2,Arsenal,Chelsea,Y,GK,90.0,15.0,22.0,68.2,236.0,146.0,9.0,9.0,100.0,4.0,4.0,100.0,2.0,9.0,22.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Bernd Leno,2021-08-28,Sat,3,Away,L 0–5,Arsenal,Manchester City,Y,GK,90.0,15.0,31.0,48.4,620.0,493.0,2.0,2.0,100.0,4.0,4.0,100.0,8.0,24.0,33.3,0.0,0.0,0.0,1.0,0.0,0.0,0.0,
+Bernd Leno,2021-09-11,Sat,4,Home,W 1–0,Arsenal,Norwich City,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Bernd Leno,2021-09-18,Sat,5,Away,W 1–0,Arsenal,Burnley,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Bernd Leno,2021-09-26,Sun,6,Home,W 3–1,Arsenal,Tottenham,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Bernd Leno,2021-10-02,Sat,7,Away,D 0–0,Arsenal,Brighton,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Bernd Leno,2021-10-18,Mon,8,Home,D 2–2,Arsenal,Crystal Palace,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Bernd Leno,2021-10-22,Fri,9,Home,W 3–1,Arsenal,Aston Villa,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Bernd Leno,2021-10-30,Sat,10,Away,W 2–0,Arsenal,Leicester City,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Bernd Leno,2021-11-07,Sun,11,Home,W 1–0,Arsenal,Watford,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Bernd Leno,2021-11-20,Sat,12,Away,L 0–4,Arsenal,Liverpool,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Bernd Leno,2021-11-27,Sat,13,Home,W 2–0,Arsenal,Newcastle Utd,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ainsley Maitland-Niles,2021-08-13,Fri,1,Away,L 0–2,Arsenal,Brentford,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ainsley Maitland-Niles,2021-08-22,Sun,2,Home,L 0–2,Arsenal,Chelsea,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ainsley Maitland-Niles,2021-08-28,Sat,3,Away,L 0–5,Arsenal,Manchester City,N,RM,20.0,2.0,3.0,66.7,33.0,14.0,0.0,0.0,,2.0,3.0,66.7,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,
+Ainsley Maitland-Niles,2021-09-11,Sat,4,Home,W 1–0,Arsenal,Norwich City,Y,"DM,RB",81.0,42.0,54.0,77.8,702.0,261.0,23.0,27.0,85.2,17.0,20.0,85.0,2.0,6.0,33.3,0.0,0.2,2.0,5.0,2.0,0.0,5.0,
+Ainsley Maitland-Niles,2021-09-18,Sat,5,Away,W 1–0,Arsenal,Burnley,N,DM,16.0,14.0,17.0,82.4,247.0,69.0,5.0,6.0,83.3,8.0,9.0,88.9,1.0,2.0,50.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,
+Ainsley Maitland-Niles,2021-09-26,Sun,6,Home,W 3–1,Arsenal,Tottenham,N,RW,4.0,2.0,4.0,50.0,22.0,0.0,1.0,3.0,33.3,1.0,1.0,100.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Ainsley Maitland-Niles,2021-10-02,Sat,7,Away,D 0–0,Arsenal,Brighton,N,LW,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,,0.0,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Ainsley Maitland-Niles,2021-10-18,Mon,8,Home,D 2–2,Arsenal,Crystal Palace,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ainsley Maitland-Niles,2021-10-22,Fri,9,Home,W 3–1,Arsenal,Aston Villa,N,DM,18.0,4.0,8.0,50.0,50.0,13.0,4.0,5.0,80.0,0.0,0.0,,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Ainsley Maitland-Niles,2021-10-30,Sat,10,Away,W 2–0,Arsenal,Leicester City,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ainsley Maitland-Niles,2021-11-07,Sun,11,Home,W 1–0,Arsenal,Watford,Y,DM,90.0,27.0,33.0,81.8,600.0,200.0,8.0,10.0,80.0,14.0,16.0,87.5,5.0,6.0,83.3,0.0,0.2,1.0,4.0,1.0,0.0,6.0,
+Ainsley Maitland-Niles,2021-11-20,Sat,12,Away,L 0–4,Arsenal,Liverpool,N,DM,38.0,14.0,17.0,82.4,269.0,46.0,7.0,8.0,87.5,5.0,6.0,83.3,2.0,3.0,66.7,0.0,0.0,0.0,1.0,0.0,0.0,0.0,
+Ainsley Maitland-Niles,2021-11-27,Sat,13,Home,W 2–0,Arsenal,Newcastle Utd,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Cédric Soares,2021-08-13,Fri,1,Away,L 0–2,Arsenal,Brentford,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Cédric Soares,2021-08-22,Sun,2,Home,L 0–2,Arsenal,Chelsea,Y,RB,90.0,34.0,39.0,87.2,535.0,169.0,18.0,19.0,94.7,13.0,14.0,92.9,2.0,4.0,50.0,0.0,0.1,1.0,2.0,2.0,0.0,3.0,
+Cédric Soares,2021-08-28,Sat,3,Away,L 0–5,Arsenal,Manchester City,Y,"WB,RB",90.0,14.0,25.0,56.0,247.0,40.0,4.0,5.0,80.0,7.0,12.0,58.3,2.0,5.0,40.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,
+Cédric Soares,2021-09-11,Sat,4,Home,W 1–0,Arsenal,Norwich City,N,RB,9.0,5.0,5.0,100.0,80.0,50.0,3.0,3.0,100.0,1.0,1.0,100.0,1.0,1.0,100.0,0.0,0.1,1.0,1.0,1.0,1.0,2.0,
+Cédric Soares,2021-09-18,Sat,5,Away,W 1–0,Arsenal,Burnley,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Cédric Soares,2021-09-26,Sun,6,Home,W 3–1,Arsenal,Tottenham,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Cédric Soares,2021-10-02,Sat,7,Away,D 0–0,Arsenal,Brighton,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Cédric Soares,2021-10-18,Mon,8,Home,D 2–2,Arsenal,Crystal Palace,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Cédric Soares,2021-10-22,Fri,9,Home,W 3–1,Arsenal,Aston Villa,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Cédric Soares,2021-10-30,Sat,10,Away,W 2–0,Arsenal,Leicester City,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Cédric Soares,2021-11-07,Sun,11,Home,W 1–0,Arsenal,Watford,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Cédric Soares,2021-11-20,Sat,12,Away,L 0–4,Arsenal,Liverpool,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Martinelli,2021-08-13,Fri,1,Away,L 0–2,Arsenal,Brentford,Y,LW,70.0,10.0,14.0,71.4,135.0,21.0,4.0,4.0,100.0,5.0,8.0,62.5,0.0,1.0,0.0,0.0,0.1,2.0,1.0,0.0,0.0,0.0,
+Martinelli,2021-08-22,Sun,2,Home,L 0–2,Arsenal,Chelsea,Y,FW,78.0,5.0,8.0,62.5,68.0,5.0,4.0,5.0,80.0,1.0,1.0,100.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Martinelli,2021-08-28,Sat,3,Away,L 0–5,Arsenal,Manchester City,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Martinelli,2021-09-11,Sat,4,Home,W 1–0,Arsenal,Norwich City,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Martinelli,2021-09-18,Sat,5,Away,W 1–0,Arsenal,Burnley,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Martinelli,2021-09-26,Sun,6,Home,W 3–1,Arsenal,Tottenham,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Martinelli,2021-10-02,Sat,7,Away,D 0–0,Arsenal,Brighton,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Martinelli,2021-10-18,Mon,8,Home,D 2–2,Arsenal,Crystal Palace,N,LM,10.0,5.0,7.0,71.4,84.0,13.0,4.0,4.0,100.0,0.0,1.0,0.0,1.0,2.0,50.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,
+Martinelli,2021-10-22,Fri,9,Home,W 3–1,Arsenal,Aston Villa,N,FW,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,,0.0,1.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Martinelli,2021-10-30,Sat,10,Away,W 2–0,Arsenal,Leicester City,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Martinelli,2021-11-07,Sun,11,Home,W 1–0,Arsenal,Watford,N,RM,1.0,2.0,3.0,66.7,37.0,6.0,1.0,2.0,50.0,0.0,0.0,,1.0,1.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Martinelli,2021-11-20,Sat,12,Away,L 0–4,Arsenal,Liverpool,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Martinelli,2021-11-27,Sat,13,Home,W 2–0,Arsenal,Newcastle Utd,N,RM,27.0,11.0,12.0,91.7,163.0,25.0,4.0,4.0,100.0,6.0,6.0,100.0,0.0,0.0,,0.0,0.1,1.0,0.0,2.0,0.0,2.0,
+Rob Holding,2021-08-13,Fri,1,Away,L 0–2,Arsenal,Brentford,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Rob Holding,2021-08-22,Sun,2,Home,L 0–2,Arsenal,Chelsea,Y,CB,90.0,28.0,34.0,82.4,620.0,231.0,6.0,6.0,100.0,14.0,15.0,93.3,7.0,11.0,63.6,0.0,0.0,0.0,0.0,0.0,0.0,2.0,
+Rob Holding,2021-08-28,Sat,3,Away,L 0–5,Arsenal,Manchester City,Y,"CB,DM",90.0,12.0,17.0,70.6,271.0,54.0,2.0,4.0,50.0,9.0,9.0,100.0,1.0,4.0,25.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Rob Holding,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Rob Holding,2021-09-18,Sat,5,Away,W 1–0,Arsenal,Burnley,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Rob Holding,2021-09-26,Sun,6,Home,W 3–1,Arsenal,Tottenham,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Rob Holding,2021-10-02,Sat,7,Away,D 0–0,Arsenal,Brighton,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Rob Holding,2021-10-18,Mon,8,Home,D 2–2,Arsenal,Crystal Palace,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Rob Holding,2021-10-22,Fri,9,Home,W 3–1,Arsenal,Aston Villa,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Rob Holding,2021-10-30,Sat,10,Away,W 2–0,Arsenal,Leicester City,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Rob Holding,2021-11-07,Sun,11,Home,W 1–0,Arsenal,Watford,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Rob Holding,2021-11-20,Sat,12,Away,L 0–4,Arsenal,Liverpool,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Rob Holding,2021-11-27,Sat,13,Home,W 2–0,Arsenal,Newcastle Utd,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Pablo Marí,2021-08-13,Fri,1,Away,L 0–2,Arsenal,Brentford,Y,CB,90.0,50.0,56.0,89.3,1152.0,336.0,11.0,14.0,78.6,28.0,29.0,96.6,11.0,12.0,91.7,0.0,0.0,0.0,7.0,0.0,0.0,5.0,
+Pablo Marí,2021-08-22,Sun,2,Home,L 0–2,Arsenal,Chelsea,Y,CB,90.0,28.0,30.0,93.3,488.0,195.0,12.0,12.0,100.0,12.0,12.0,100.0,3.0,5.0,60.0,0.0,0.1,1.0,2.0,0.0,0.0,3.0,
+Pablo Marí,2021-08-28,Sat,3,Away,L 0–5,Arsenal,Manchester City,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Pablo Marí,2021-09-11,Sat,4,Home,W 1–0,Arsenal,Norwich City,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Pablo Marí,2021-09-18,Sat,5,Away,W 1–0,Arsenal,Burnley,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Calum Chambers,2021-08-13,Fri,1,Away,L 0–2,Arsenal,Brentford,Y,RB,80.0,62.0,72.0,86.1,1040.0,313.0,30.0,32.0,93.8,27.0,31.0,87.1,5.0,8.0,62.5,0.0,0.1,1.0,3.0,1.0,1.0,4.0,
+Calum Chambers,2021-08-22,Sun,2,Home,L 0–2,Arsenal,Chelsea,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Calum Chambers,2021-08-28,Sat,3,Away,L 0–5,Arsenal,Manchester City,Y,CB,90.0,19.0,26.0,73.1,459.0,177.0,5.0,6.0,83.3,9.0,11.0,81.8,5.0,9.0,55.6,0.0,0.0,0.0,2.0,0.0,0.0,5.0,
+Calum Chambers,2021-09-11,Sat,4,Home,W 1–0,Arsenal,Norwich City,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Sead Kolašinac,2021-08-22,Sun,2,Home,L 0–2,Arsenal,Chelsea,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Sead Kolašinac,2021-08-28,Sat,3,Away,L 0–5,Arsenal,Manchester City,Y,CB,90.0,8.0,9.0,88.9,129.0,59.0,4.0,4.0,100.0,3.0,4.0,75.0,1.0,1.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Sead Kolašinac,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sead Kolašinac,2021-10-22,Fri,9,Home,W 3–1,Arsenal,Aston Villa,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Sead Kolašinac,2021-10-30,Sat,10,Away,W 2–0,Arsenal,Leicester City,N,LB,1.0,2.0,4.0,50.0,38.0,5.0,0.0,0.0,,2.0,4.0,50.0,0.0,0.0,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,
+Folarin Balogun,2021-08-13,Fri,1,Away,L 0–2,Arsenal,Brentford,Y,FW,58.0,3.0,5.0,60.0,42.0,0.0,2.0,4.0,50.0,1.0,1.0,100.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Folarin Balogun,2021-08-22,Sun,2,Home,L 0–2,Arsenal,Chelsea,N,FW,12.0,1.0,3.0,33.3,18.0,6.0,0.0,0.0,,1.0,2.0,50.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Mohamed Elneny,2021-08-13,Fri,1,Away,L 0–2,Arsenal,Brentford,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Mohamed Elneny,2021-08-22,Sun,2,Home,L 0–2,Arsenal,Chelsea,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Mohamed Elneny,2021-08-28,Sat,3,Away,L 0–5,Arsenal,Manchester City,N,"CM,RW",45.0,7.0,7.0,100.0,136.0,46.0,4.0,4.0,100.0,2.0,2.0,100.0,1.0,1.0,100.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,
+Mohamed Elneny,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mohamed Elneny,2021-10-02,Sat,7,Away,D 0–0,Arsenal,Brighton,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Mohamed Elneny,2021-10-18,Mon,8,Home,D 2–2,Arsenal,Crystal Palace,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Mohamed Elneny,2021-10-22,Fri,9,Home,W 3–1,Arsenal,Aston Villa,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Mohamed Elneny,2021-10-30,Sat,10,Away,W 2–0,Arsenal,Leicester City,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Mohamed Elneny,2021-11-07,Sun,11,Home,W 1–0,Arsenal,Watford,N,LM,5.0,5.0,5.0,100.0,68.0,30.0,3.0,3.0,100.0,2.0,2.0,100.0,0.0,0.0,,0.0,0.1,2.0,0.0,0.0,0.0,0.0,
+Mohamed Elneny,2021-11-20,Sat,12,Away,L 0–4,Arsenal,Liverpool,N,DM,7.0,5.0,6.0,83.3,65.0,13.0,2.0,3.0,66.7,2.0,2.0,100.0,0.0,0.0,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,
+Mohamed Elneny,2021-11-27,Sat,13,Home,W 2–0,Arsenal,Newcastle Utd,N,DM,6.0,4.0,4.0,100.0,60.0,10.0,2.0,2.0,100.0,2.0,2.0,100.0,0.0,0.0,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,
+Reiss Nelson,2021-08-13,Fri,1,Away,L 0–2,Arsenal,Brentford,N,"RW,LW",20.0,10.0,11.0,90.9,117.0,17.0,6.0,6.0,100.0,3.0,3.0,100.0,0.0,0.0,,0.0,0.0,1.0,1.0,0.0,0.0,1.0,
+Reiss Nelson,2021-08-22,Sun,2,Home,L 0–2,Arsenal,Chelsea,N,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"

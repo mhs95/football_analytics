@@ -1,0 +1,14 @@
+date,comp,round,dayofweek,venue,result,goals_for,goals_against,opponent,xg_for,xg_against,possession
+2021-08-14,Premier League,1,Sat,Home,W,5.0,1.0,Leeds United,1.5,0.6,49.0
+2021-08-22,Premier League,2,Sun,Away,D,1.0,1.0,Southampton,1.4,0.8,62.0
+2021-08-29,Premier League,3,Sun,Away,W,1.0,0.0,Wolves,0.6,1.8,56.0
+2021-09-11,Premier League,4,Sat,Home,W,4.0,1.0,Newcastle Utd,2.1,0.7,64.0
+2021-09-19,Premier League,5,Sun,Away,W,2.0,1.0,West Ham,1.8,1.6,61.0
+2021-09-25,Premier League,6,Sat,Home,L,0.0,1.0,Aston Villa,2.3,1.2,58.0
+2021-10-02,Premier League,7,Sat,Home,D,1.0,1.0,Everton,0.9,1.1,72.0
+2021-10-16,Premier League,8,Sat,Away,L,2.0,4.0,Leicester City,1.4,3.1,51.0
+2021-10-24,Premier League,9,Sun,Home,L,0.0,5.0,Liverpool,1.5,3.8,37.0
+2021-10-30,Premier League,10,Sat,Away,W,3.0,0.0,Tottenham,1.2,0.7,42.0
+2021-11-06,Premier League,11,Sat,Home,L,0.0,2.0,Manchester City,0.6,2.0,33.0
+2021-11-20,Premier League,12,Sat,Away,L,1.0,4.0,Watford,1.6,2.2,60.0
+2021-11-28,Premier League,13,Sun,Away,D,1.0,1.0,Chelsea,0.7,2.9,35.0

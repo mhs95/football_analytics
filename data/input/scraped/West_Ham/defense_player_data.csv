@@ -1,0 +1,246 @@
+name,date,dayofweek,round,venue,result,squad,opponent,game_started,position,minutes,tackles,tackles_won,tackles_def_3rd,tackles_mid_3rd,tackles_att_3rd,dribble_tackles,dribbles_vs,dribble_tackles_pct,dribbled_past,pressures,pressure_regains,pressure_regain_pct,pressures_def_3rd,pressures_mid_3rd,pressures_att_3rd,blocks,blocked_shots,blocked_shots_saves,blocked_passes,interceptions,tackles_interceptions,clearances,errors,bench_explain
+Łukasz Fabiański,2021-08-15,Sun,1,Away,W 4–2,West Ham,Newcastle Utd,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Łukasz Fabiański,2021-08-23,Mon,2,Home,W 4–1,West Ham,Leicester City,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Łukasz Fabiański,2021-08-28,Sat,3,Home,D 2–2,West Ham,Crystal Palace,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Łukasz Fabiański,2021-09-11,Sat,4,Away,D 0–0,West Ham,Southampton,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Łukasz Fabiański,2021-09-19,Sun,5,Home,L 1–2,West Ham,Manchester Utd,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Łukasz Fabiański,2021-09-25,Sat,6,Away,W 2–1,West Ham,Leeds United,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Łukasz Fabiański,2021-10-03,Sun,7,Home,L 1–2,West Ham,Brentford,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Łukasz Fabiański,2021-10-17,Sun,8,Away,W 1–0,West Ham,Everton,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Łukasz Fabiański,2021-10-24,Sun,9,Home,W 1–0,West Ham,Tottenham,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Łukasz Fabiański,2021-10-31,Sun,10,Away,W 4–1,West Ham,Aston Villa,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Łukasz Fabiański,2021-11-07,Sun,11,Home,W 3–2,West Ham,Liverpool,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Łukasz Fabiański,2021-11-20,Sat,12,Away,L 0–1,West Ham,Wolves,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Łukasz Fabiański,2021-11-28,Sun,13,Away,L 1–2,West Ham,Manchester City,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Łukasz Fabiański,2021-12-01,Wed,14,Home,D 1–1,West Ham,Brighton,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Declan Rice,2021-08-15,Sun,1,Away,W 4–2,West Ham,Newcastle Utd,Y*,"DM,CM",90.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,,0.0,17.0,9.0,52.9,9.0,7.0,1.0,3.0,2.0,0.0,1.0,1.0,2.0,1.0,0.0,
+Declan Rice,2021-08-23,Mon,2,Home,W 4–1,West Ham,Leicester City,Y*,DM,90.0,3.0,2.0,3.0,0.0,0.0,1.0,1.0,100.0,0.0,12.0,5.0,41.7,6.0,5.0,1.0,0.0,0.0,0.0,0.0,4.0,7.0,2.0,0.0,
+Declan Rice,2021-08-28,Sat,3,Home,D 2–2,West Ham,Crystal Palace,Y*,DM,90.0,1.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,2.0,10.0,1.0,10.0,4.0,6.0,0.0,2.0,1.0,0.0,1.0,1.0,2.0,2.0,0.0,
+Declan Rice,2021-09-11,Sat,4,Away,D 0–0,West Ham,Southampton,Y*,DM,90.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,12.0,3.0,25.0,7.0,5.0,0.0,2.0,2.0,1.0,0.0,4.0,5.0,0.0,0.0,
+Declan Rice,2021-09-19,Sun,5,Home,L 1–2,West Ham,Manchester Utd,Y*,DM,90.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,16.0,6.0,37.5,9.0,7.0,0.0,3.0,0.0,0.0,3.0,3.0,4.0,1.0,0.0,
+Declan Rice,2021-09-25,Sat,6,Away,W 2–1,West Ham,Leeds United,Y*,DM,90.0,2.0,1.0,0.0,0.0,2.0,0.0,0.0,,0.0,6.0,2.0,33.3,2.0,3.0,1.0,0.0,0.0,0.0,0.0,2.0,4.0,1.0,0.0,
+Declan Rice,2021-10-03,Sun,7,Home,L 1–2,West Ham,Brentford,Y*,DM,90.0,3.0,2.0,0.0,2.0,1.0,0.0,0.0,,0.0,8.0,2.0,25.0,0.0,5.0,3.0,3.0,2.0,0.0,1.0,7.0,10.0,3.0,0.0,
+Declan Rice,2021-10-17,Sun,8,Away,W 1–0,West Ham,Everton,Y*,DM,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,10.0,3.0,30.0,4.0,5.0,1.0,5.0,3.0,0.0,2.0,2.0,2.0,0.0,0.0,
+Declan Rice,2021-10-24,Sun,9,Home,W 1–0,West Ham,Tottenham,Y*,DM,90.0,8.0,6.0,5.0,3.0,0.0,2.0,5.0,40.0,3.0,23.0,7.0,30.4,10.0,11.0,2.0,2.0,0.0,0.0,2.0,3.0,11.0,0.0,0.0,
+Declan Rice,2021-10-31,Sun,10,Away,W 4–1,West Ham,Aston Villa,Y*,DM,90.0,4.0,2.0,3.0,1.0,0.0,1.0,1.0,100.0,0.0,16.0,2.0,12.5,7.0,8.0,1.0,0.0,0.0,0.0,0.0,0.0,4.0,1.0,0.0,
+Declan Rice,2021-11-07,Sun,11,Home,W 3–2,West Ham,Liverpool,Y*,DM,90.0,5.0,3.0,4.0,1.0,0.0,3.0,4.0,75.0,1.0,25.0,7.0,28.0,14.0,10.0,1.0,1.0,0.0,0.0,1.0,3.0,8.0,0.0,0.0,
+Declan Rice,2021-11-20,Sat,12,Away,L 0–1,West Ham,Wolves,Y*,DM,90.0,2.0,2.0,0.0,2.0,0.0,1.0,2.0,50.0,1.0,13.0,4.0,30.8,4.0,7.0,2.0,1.0,0.0,0.0,1.0,4.0,6.0,2.0,0.0,
+Declan Rice,2021-11-28,Sun,13,Away,L 1–2,West Ham,Manchester City,Y*,DM,90.0,3.0,3.0,2.0,1.0,0.0,2.0,3.0,66.7,1.0,17.0,5.0,29.4,2.0,13.0,2.0,1.0,0.0,0.0,1.0,2.0,5.0,0.0,0.0,
+Declan Rice,2021-12-01,Wed,14,Home,D 1–1,West Ham,Brighton,Y*,DM,90.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,16.0,5.0,31.3,9.0,7.0,0.0,3.0,0.0,0.0,3.0,5.0,6.0,2.0,0.0,
+Tomáš Souček,2021-08-15,Sun,1,Away,W 4–2,West Ham,Newcastle Utd,Y,"DM,CM",90.0,4.0,3.0,2.0,1.0,1.0,1.0,3.0,33.3,2.0,17.0,7.0,41.2,5.0,10.0,2.0,1.0,1.0,0.0,0.0,0.0,4.0,4.0,0.0,
+Tomáš Souček,2021-08-23,Mon,2,Home,W 4–1,West Ham,Leicester City,Y,DM,90.0,3.0,2.0,2.0,1.0,0.0,1.0,1.0,100.0,0.0,14.0,2.0,14.3,5.0,8.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,0.0,
+Tomáš Souček,2021-08-28,Sat,3,Home,D 2–2,West Ham,Crystal Palace,Y,DM,90.0,4.0,0.0,1.0,2.0,1.0,1.0,2.0,50.0,1.0,13.0,4.0,30.8,3.0,7.0,3.0,2.0,0.0,0.0,2.0,0.0,4.0,4.0,0.0,
+Tomáš Souček,2021-09-11,Sat,4,Away,D 0–0,West Ham,Southampton,Y,DM,90.0,2.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,1.0,13.0,3.0,23.1,5.0,5.0,3.0,0.0,0.0,0.0,0.0,2.0,4.0,2.0,0.0,
+Tomáš Souček,2021-09-19,Sun,5,Home,L 1–2,West Ham,Manchester Utd,Y,DM,90.0,4.0,2.0,3.0,1.0,0.0,2.0,7.0,28.6,5.0,20.0,8.0,40.0,10.0,8.0,2.0,4.0,0.0,0.0,4.0,0.0,4.0,9.0,0.0,
+Tomáš Souček,2021-09-25,Sat,6,Away,W 2–1,West Ham,Leeds United,Y,DM,90.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,8.0,2.0,25.0,5.0,2.0,1.0,1.0,0.0,0.0,1.0,3.0,4.0,3.0,1.0,
+Tomáš Souček,2021-10-03,Sun,7,Home,L 1–2,West Ham,Brentford,Y,DM,90.0,2.0,2.0,0.0,2.0,0.0,1.0,3.0,33.3,2.0,17.0,7.0,41.2,4.0,9.0,4.0,3.0,0.0,0.0,3.0,2.0,4.0,2.0,0.0,
+Tomáš Souček,2021-10-17,Sun,8,Away,W 1–0,West Ham,Everton,Y,DM,78.0,5.0,4.0,2.0,2.0,1.0,3.0,4.0,75.0,1.0,9.0,6.0,66.7,3.0,5.0,1.0,2.0,0.0,0.0,2.0,2.0,7.0,2.0,0.0,
+Tomáš Souček,2021-10-24,Sun,9,Home,W 1–0,West Ham,Tottenham,Y,DM,90.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,17.0,5.0,29.4,10.0,6.0,1.0,4.0,0.0,0.0,4.0,2.0,3.0,5.0,0.0,
+Tomáš Souček,2021-10-31,Sun,10,Away,W 4–1,West Ham,Aston Villa,Y,DM,90.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,8.0,4.0,50.0,1.0,5.0,2.0,2.0,0.0,0.0,2.0,2.0,3.0,4.0,0.0,
+Tomáš Souček,2021-11-07,Sun,11,Home,W 3–2,West Ham,Liverpool,Y,DM,90.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,,0.0,11.0,0.0,0.0,7.0,3.0,1.0,2.0,0.0,0.0,2.0,3.0,4.0,5.0,0.0,
+Tomáš Souček,2021-11-20,Sat,12,Away,L 0–1,West Ham,Wolves,Y,DM,90.0,2.0,0.0,1.0,1.0,0.0,2.0,5.0,40.0,3.0,16.0,2.0,12.5,4.0,10.0,2.0,1.0,0.0,0.0,1.0,2.0,4.0,3.0,0.0,
+Tomáš Souček,2021-11-28,Sun,13,Away,L 1–2,West Ham,Manchester City,Y,DM,90.0,5.0,3.0,2.0,3.0,0.0,1.0,1.0,100.0,0.0,18.0,4.0,22.2,8.0,8.0,2.0,1.0,0.0,0.0,1.0,0.0,5.0,1.0,0.0,
+Tomáš Souček,2021-12-01,Wed,14,Home,D 1–1,West Ham,Brighton,Y,DM,90.0,1.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,2.0,19.0,4.0,21.1,6.0,12.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,0.0,
+Pablo Fornals,2021-08-15,Sun,1,Away,W 4–2,West Ham,Newcastle Utd,Y,LW,90.0,2.0,1.0,1.0,0.0,1.0,0.0,6.0,0.0,6.0,27.0,5.0,18.5,13.0,5.0,9.0,2.0,0.0,0.0,2.0,4.0,6.0,0.0,0.0,
+Pablo Fornals,2021-08-23,Mon,2,Home,W 4–1,West Ham,Leicester City,Y,AM,90.0,2.0,2.0,1.0,0.0,1.0,0.0,0.0,,0.0,17.0,8.0,47.1,4.0,9.0,4.0,1.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,
+Pablo Fornals,2021-08-28,Sat,3,Home,D 2–2,West Ham,Crystal Palace,Y,"AM,RW",86.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,8.0,2.0,25.0,1.0,5.0,2.0,0.0,0.0,0.0,0.0,2.0,2.0,1.0,0.0,
+Pablo Fornals,2021-09-11,Sat,4,Away,D 0–0,West Ham,Southampton,Y,LW,90.0,2.0,2.0,0.0,1.0,1.0,1.0,3.0,33.3,2.0,23.0,10.0,43.5,3.0,14.0,6.0,0.0,0.0,0.0,0.0,2.0,4.0,2.0,0.0,
+Pablo Fornals,2021-09-19,Sun,5,Home,L 1–2,West Ham,Manchester Utd,Y,RM,90.0,2.0,0.0,1.0,0.0,1.0,1.0,4.0,25.0,3.0,37.0,5.0,13.5,16.0,15.0,6.0,3.0,1.0,0.0,2.0,0.0,2.0,0.0,0.0,
+Pablo Fornals,2021-09-25,Sat,6,Away,W 2–1,West Ham,Leeds United,Y,AM,77.0,2.0,1.0,0.0,2.0,0.0,2.0,5.0,40.0,3.0,18.0,3.0,16.7,2.0,11.0,5.0,1.0,0.0,0.0,1.0,2.0,4.0,0.0,0.0,
+Pablo Fornals,2021-10-03,Sun,7,Home,L 1–2,West Ham,Brentford,Y,LW,90.0,1.0,0.0,0.0,1.0,0.0,1.0,3.0,33.3,2.0,19.0,6.0,31.6,3.0,7.0,9.0,2.0,0.0,0.0,2.0,1.0,2.0,1.0,0.0,
+Pablo Fornals,2021-10-17,Sun,8,Away,W 1–0,West Ham,Everton,Y,"LW,DM",90.0,3.0,1.0,1.0,2.0,0.0,1.0,2.0,50.0,1.0,15.0,4.0,26.7,8.0,5.0,2.0,4.0,0.0,0.0,4.0,3.0,6.0,0.0,0.0,
+Pablo Fornals,2021-10-24,Sun,9,Home,W 1–0,West Ham,Tottenham,Y,LW,90.0,3.0,2.0,2.0,0.0,1.0,2.0,4.0,50.0,2.0,30.0,9.0,30.0,10.0,14.0,6.0,3.0,0.0,0.0,3.0,1.0,4.0,2.0,0.0,
+Pablo Fornals,2021-10-31,Sun,10,Away,W 4–1,West Ham,Aston Villa,Y,"AM,LW",89.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,24.0,7.0,29.2,3.0,15.0,6.0,1.0,0.0,0.0,1.0,2.0,2.0,1.0,0.0,
+Pablo Fornals,2021-11-07,Sun,11,Home,W 3–2,West Ham,Liverpool,Y,AM,90.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,15.0,3.0,20.0,4.0,7.0,4.0,1.0,0.0,0.0,1.0,2.0,2.0,1.0,0.0,
+Pablo Fornals,2021-11-20,Sat,12,Away,L 0–1,West Ham,Wolves,Y,LW,58.0,2.0,1.0,1.0,0.0,1.0,2.0,8.0,25.0,6.0,13.0,2.0,15.4,7.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,
+Pablo Fornals,2021-11-28,Sun,13,Away,L 1–2,West Ham,Manchester City,Y,"RW,LW",90.0,3.0,2.0,2.0,1.0,0.0,2.0,4.0,50.0,2.0,16.0,5.0,31.3,4.0,7.0,5.0,5.0,0.0,0.0,5.0,1.0,4.0,0.0,0.0,
+Pablo Fornals,2021-12-01,Wed,14,Home,D 1–1,West Ham,Brighton,Y,"AM,LW",76.0,4.0,4.0,2.0,2.0,0.0,2.0,5.0,40.0,3.0,26.0,10.0,38.5,11.0,10.0,5.0,3.0,0.0,0.0,3.0,0.0,4.0,0.0,0.0,
+Saïd Benrahma,2021-08-15,Sun,1,Away,W 4–2,West Ham,Newcastle Utd,Y,AM,87.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,10.0,1.0,10.0,1.0,8.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,
+Saïd Benrahma,2021-08-23,Mon,2,Home,W 4–1,West Ham,Leicester City,Y,LW,87.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,15.0,3.0,20.0,1.0,11.0,3.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,
+Saïd Benrahma,2021-08-28,Sat,3,Home,D 2–2,West Ham,Crystal Palace,Y,"LW,AM",90.0,2.0,0.0,2.0,0.0,0.0,2.0,2.0,100.0,0.0,10.0,3.0,30.0,3.0,5.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,
+Saïd Benrahma,2021-09-11,Sat,4,Away,D 0–0,West Ham,Southampton,Y,AM,62.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,14.0,5.0,35.7,1.0,9.0,4.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,
+Saïd Benrahma,2021-09-19,Sun,5,Home,L 1–2,West Ham,Manchester Utd,Y,FW,87.0,2.0,2.0,0.0,1.0,1.0,1.0,3.0,33.3,2.0,20.0,6.0,30.0,4.0,13.0,3.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,
+Saïd Benrahma,2021-09-25,Sat,6,Away,W 2–1,West Ham,Leeds United,Y,"LW,RW",90.0,5.0,3.0,3.0,1.0,1.0,4.0,5.0,80.0,1.0,14.0,5.0,35.7,4.0,5.0,5.0,0.0,0.0,0.0,0.0,1.0,6.0,0.0,0.0,
+Saïd Benrahma,2021-10-03,Sun,7,Home,L 1–2,West Ham,Brentford,Y,AM,90.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,50.0,1.0,7.0,5.0,71.4,2.0,4.0,1.0,1.0,0.0,0.0,1.0,1.0,2.0,0.0,0.0,
+Saïd Benrahma,2021-10-17,Sun,8,Away,W 1–0,West Ham,Everton,Y,AM,86.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,5.0,0.0,0.0,2.0,0.0,3.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,
+Saïd Benrahma,2021-10-24,Sun,9,Home,W 1–0,West Ham,Tottenham,Y,AM,84.0,2.0,2.0,0.0,1.0,1.0,0.0,0.0,,0.0,33.0,5.0,15.2,7.0,20.0,6.0,1.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,
+Saïd Benrahma,2021-10-31,Sun,10,Away,W 4–1,West Ham,Aston Villa,Y,LW,63.0,1.0,0.0,1.0,0.0,0.0,1.0,2.0,50.0,1.0,7.0,1.0,14.3,2.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,
+Saïd Benrahma,2021-11-07,Sun,11,Home,W 3–2,West Ham,Liverpool,Y,LW,85.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,13.0,2.0,15.4,6.0,6.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,
+Saïd Benrahma,2021-11-20,Sat,12,Away,L 0–1,West Ham,Wolves,Y,AM,70.0,2.0,1.0,1.0,1.0,0.0,1.0,3.0,33.3,2.0,16.0,3.0,18.8,6.0,7.0,3.0,2.0,0.0,0.0,2.0,1.0,3.0,0.0,0.0,
+Saïd Benrahma,2021-11-28,Sun,13,Away,L 1–2,West Ham,Manchester City,Y,AM,58.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,13.0,0.0,0.0,3.0,9.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Saïd Benrahma,2021-12-01,Wed,14,Home,D 1–1,West Ham,Brighton,Y,"LW,AM",75.0,2.0,1.0,2.0,0.0,0.0,1.0,1.0,100.0,0.0,22.0,4.0,18.2,9.0,8.0,5.0,5.0,1.0,0.0,4.0,0.0,2.0,1.0,0.0,
+Michail Antonio,2021-08-15,Sun,1,Away,W 4–2,West Ham,Newcastle Utd,Y,FW,89.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,13.0,3.0,23.1,2.0,4.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,
+Michail Antonio,2021-08-23,Mon,2,Home,W 4–1,West Ham,Leicester City,Y,FW,88.0,3.0,3.0,0.0,3.0,0.0,0.0,0.0,,0.0,15.0,10.0,66.7,0.0,7.0,8.0,1.0,0.0,0.0,1.0,1.0,4.0,0.0,0.0,
+Michail Antonio,2021-08-28,Sat,3,Home,D 2–2,West Ham,Crystal Palace,Y,FW,90.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,8.0,1.0,12.5,0.0,3.0,5.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,
+Michail Antonio,2021-09-11,Sat,4,Away,D 0–0,West Ham,Southampton,Y,FW,89.0,2.0,2.0,0.0,0.0,2.0,0.0,0.0,,0.0,18.0,9.0,50.0,1.0,3.0,14.0,0.0,0.0,0.0,0.0,2.0,4.0,0.0,0.0,
+Michail Antonio,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Michail Antonio,2021-09-25,Sat,6,Away,W 2–1,West Ham,Leeds United,Y,FW,89.0,2.0,2.0,0.0,1.0,1.0,1.0,1.0,100.0,0.0,10.0,3.0,30.0,0.0,4.0,6.0,1.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,
+Michail Antonio,2021-10-03,Sun,7,Home,L 1–2,West Ham,Brentford,Y,FW,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,9.0,4.0,44.4,2.0,3.0,4.0,1.0,0.0,0.0,1.0,2.0,2.0,0.0,0.0,
+Michail Antonio,2021-10-17,Sun,8,Away,W 1–0,West Ham,Everton,Y,FW,90.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,100.0,0.0,7.0,4.0,57.1,0.0,1.0,6.0,2.0,0.0,0.0,2.0,0.0,1.0,1.0,0.0,
+Michail Antonio,2021-10-24,Sun,9,Home,W 1–0,West Ham,Tottenham,Y,FW,90.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,34.0,7.0,20.6,2.0,21.0,11.0,1.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,
+Michail Antonio,2021-10-31,Sun,10,Away,W 4–1,West Ham,Aston Villa,Y,FW,90.0,3.0,3.0,1.0,1.0,1.0,1.0,1.0,100.0,0.0,9.0,6.0,66.7,0.0,4.0,5.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,
+Michail Antonio,2021-11-07,Sun,11,Home,W 3–2,West Ham,Liverpool,Y,FW,90.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,,0.0,10.0,3.0,30.0,2.0,6.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,
+Michail Antonio,2021-11-20,Sat,12,Away,L 0–1,West Ham,Wolves,Y,FW,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,9.0,2.0,22.2,1.0,1.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Michail Antonio,2021-11-28,Sun,13,Away,L 1–2,West Ham,Manchester City,Y,FW,90.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,,0.0,14.0,2.0,14.3,3.0,3.0,8.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,
+Michail Antonio,2021-12-01,Wed,14,Home,D 1–1,West Ham,Brighton,Y,FW,90.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,13.0,5.0,38.5,1.0,5.0,7.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,
+Aaron Cresswell,2021-08-15,Sun,1,Away,W 4–2,West Ham,Newcastle Utd,Y,"LB,CB",90.0,4.0,3.0,4.0,0.0,0.0,1.0,1.0,100.0,0.0,8.0,5.0,62.5,8.0,0.0,0.0,2.0,0.0,0.0,2.0,0.0,4.0,0.0,0.0,
+Aaron Cresswell,2021-08-23,Mon,2,Home,W 4–1,West Ham,Leicester City,Y,LB,90.0,1.0,0.0,1.0,0.0,0.0,1.0,1.0,100.0,0.0,3.0,1.0,33.3,2.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,
+Aaron Cresswell,2021-08-28,Sat,3,Home,D 2–2,West Ham,Crystal Palace,Y,LB,90.0,3.0,1.0,2.0,1.0,0.0,1.0,1.0,100.0,0.0,12.0,4.0,33.3,5.0,6.0,1.0,1.0,1.0,0.0,0.0,2.0,5.0,4.0,0.0,
+Aaron Cresswell,2021-09-11,Sat,4,Away,D 0–0,West Ham,Southampton,Y,LB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,8.0,2.0,25.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,
+Aaron Cresswell,2021-09-19,Sun,5,Home,L 1–2,West Ham,Manchester Utd,Y,LB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,8.0,3.0,37.5,6.0,1.0,1.0,2.0,0.0,0.0,2.0,0.0,0.0,3.0,0.0,
+Aaron Cresswell,2021-09-25,Sat,6,Away,W 2–1,West Ham,Leeds United,Y,"LB,WB",90.0,1.0,1.0,1.0,0.0,0.0,1.0,3.0,33.3,2.0,4.0,1.0,25.0,3.0,1.0,0.0,3.0,1.0,0.0,2.0,0.0,1.0,5.0,0.0,
+Aaron Cresswell,2021-10-03,Sun,7,Home,L 1–2,West Ham,Brentford,Y,LB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,2.0,0.0,0.0,2.0,0.0,0.0,1.0,1.0,0.0,0.0,2.0,2.0,1.0,0.0,
+Aaron Cresswell,2021-10-17,Sun,8,Away,W 1–0,West Ham,Everton,Y,"LB,WB",90.0,2.0,1.0,0.0,1.0,1.0,1.0,1.0,100.0,0.0,5.0,1.0,20.0,1.0,3.0,1.0,2.0,0.0,0.0,2.0,1.0,3.0,5.0,0.0,
+Aaron Cresswell,2021-10-24,Sun,9,Home,W 1–0,West Ham,Tottenham,Y,LB,90.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,9.0,4.0,44.4,3.0,5.0,1.0,2.0,0.0,0.0,2.0,0.0,1.0,1.0,0.0,
+Aaron Cresswell,2021-10-31,Sun,10,Away,W 4–1,West Ham,Aston Villa,Y,LB,90.0,2.0,1.0,0.0,1.0,1.0,0.0,0.0,,0.0,8.0,4.0,50.0,3.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,
+Aaron Cresswell,2021-11-07,Sun,11,Home,W 3–2,West Ham,Liverpool,Y,LB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,5.0,1.0,20.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,6.0,0.0,
+Aaron Cresswell,2021-11-20,Sat,12,Away,L 0–1,West Ham,Wolves,Y,LB,90.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,,0.0,9.0,2.0,22.2,4.0,3.0,2.0,3.0,2.0,0.0,1.0,4.0,5.0,1.0,0.0,
+Aaron Cresswell,2021-11-28,Sun,13,Away,L 1–2,West Ham,Manchester City,Y,LB,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,4.0,3.0,75.0,2.0,2.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,
+Jarrod Bowen,2021-08-15,Sun,1,Away,W 4–2,West Ham,Newcastle Utd,Y,RW,89.0,2.0,1.0,1.0,1.0,0.0,0.0,0.0,,0.0,14.0,4.0,28.6,6.0,7.0,1.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,
+Jarrod Bowen,2021-08-23,Mon,2,Home,W 4–1,West Ham,Leicester City,Y,RW,90.0,4.0,3.0,1.0,2.0,1.0,0.0,0.0,,0.0,14.0,2.0,14.3,3.0,8.0,3.0,1.0,0.0,0.0,1.0,0.0,4.0,0.0,0.0,
+Jarrod Bowen,2021-08-28,Sat,3,Home,D 2–2,West Ham,Crystal Palace,Y,RW,78.0,2.0,1.0,1.0,1.0,0.0,1.0,3.0,33.3,2.0,10.0,5.0,50.0,3.0,2.0,5.0,1.0,0.0,0.0,1.0,1.0,3.0,0.0,0.0,
+Jarrod Bowen,2021-09-11,Sat,4,Away,D 0–0,West Ham,Southampton,Y,RW,82.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,13.0,4.0,30.8,4.0,5.0,4.0,1.0,1.0,0.0,0.0,2.0,2.0,0.0,0.0,
+Jarrod Bowen,2021-09-19,Sun,5,Home,L 1–2,West Ham,Manchester Utd,Y,FW,89.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,,0.0,19.0,4.0,21.1,6.0,5.0,8.0,1.0,0.0,0.0,1.0,1.0,2.0,0.0,0.0,
+Jarrod Bowen,2021-09-25,Sat,6,Away,W 2–1,West Ham,Leeds United,Y,RW,89.0,1.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,2.0,12.0,1.0,8.3,5.0,2.0,5.0,0.0,0.0,0.0,0.0,2.0,3.0,0.0,0.0,
+Jarrod Bowen,2021-10-03,Sun,7,Home,L 1–2,West Ham,Brentford,Y,RW,90.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,,0.0,11.0,3.0,27.3,2.0,4.0,5.0,2.0,0.0,0.0,2.0,0.0,2.0,0.0,0.0,
+Jarrod Bowen,2021-10-17,Sun,8,Away,W 1–0,West Ham,Everton,Y,"RW,AM",89.0,2.0,2.0,0.0,0.0,2.0,1.0,2.0,50.0,1.0,10.0,3.0,30.0,3.0,3.0,4.0,2.0,0.0,0.0,2.0,1.0,3.0,1.0,0.0,
+Jarrod Bowen,2021-10-24,Sun,9,Home,W 1–0,West Ham,Tottenham,Y,RW,89.0,3.0,3.0,3.0,0.0,0.0,1.0,2.0,50.0,1.0,25.0,5.0,20.0,10.0,9.0,6.0,2.0,0.0,0.0,2.0,1.0,4.0,0.0,0.0,
+Jarrod Bowen,2021-10-31,Sun,10,Away,W 4–1,West Ham,Aston Villa,Y,RW,89.0,2.0,1.0,2.0,0.0,0.0,2.0,2.0,100.0,0.0,28.0,6.0,21.4,12.0,12.0,4.0,4.0,0.0,0.0,4.0,0.0,2.0,0.0,0.0,
+Jarrod Bowen,2021-11-07,Sun,11,Home,W 3–2,West Ham,Liverpool,Y,RW,83.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,3.0,17.0,4.0,23.5,9.0,6.0,2.0,4.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,
+Jarrod Bowen,2021-11-20,Sat,12,Away,L 0–1,West Ham,Wolves,Y,RW,70.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,18.0,5.0,27.8,5.0,8.0,5.0,1.0,0.0,0.0,1.0,2.0,3.0,0.0,0.0,
+Jarrod Bowen,2021-11-28,Sun,13,Away,L 1–2,West Ham,Manchester City,N,RW,17.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,6.0,2.0,33.3,0.0,4.0,2.0,1.0,0.0,0.0,1.0,2.0,2.0,0.0,0.0,
+Jarrod Bowen,2021-12-01,Wed,14,Home,D 1–1,West Ham,Brighton,Y,RW,90.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,4.0,19.0,2.0,10.5,4.0,13.0,2.0,3.0,0.0,0.0,3.0,4.0,4.0,1.0,0.0,
+Angelo Ogbonna,2021-08-15,Sun,1,Away,W 4–2,West Ham,Newcastle Utd,Y,CB,90.0,2.0,1.0,2.0,0.0,0.0,1.0,1.0,100.0,0.0,5.0,2.0,40.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,3.0,0.0,
+Angelo Ogbonna,2021-08-23,Mon,2,Home,W 4–1,West Ham,Leicester City,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,
+Angelo Ogbonna,2021-08-28,Sat,3,Home,D 2–2,West Ham,Crystal Palace,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,5.0,1.0,20.0,1.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,
+Angelo Ogbonna,2021-09-11,Sat,4,Away,D 0–0,West Ham,Southampton,Y,CB,90.0,1.0,0.0,1.0,0.0,0.0,1.0,2.0,50.0,1.0,6.0,1.0,16.7,5.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,3.0,0.0,
+Angelo Ogbonna,2021-09-19,Sun,5,Home,L 1–2,West Ham,Manchester Utd,Y,CB,90.0,2.0,2.0,1.0,1.0,0.0,0.0,0.0,,0.0,4.0,1.0,25.0,3.0,1.0,0.0,1.0,1.0,0.0,0.0,4.0,6.0,4.0,0.0,
+Angelo Ogbonna,2021-09-25,Sat,6,Away,W 2–1,West Ham,Leeds United,Y,CB,90.0,3.0,2.0,1.0,2.0,0.0,0.0,1.0,0.0,1.0,3.0,1.0,33.3,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,3.0,4.0,0.0,
+Angelo Ogbonna,2021-10-03,Sun,7,Home,L 1–2,West Ham,Brentford,Y,CB,90.0,2.0,1.0,0.0,2.0,0.0,0.0,1.0,0.0,1.0,8.0,3.0,37.5,4.0,4.0,0.0,0.0,0.0,0.0,0.0,2.0,4.0,8.0,0.0,
+Angelo Ogbonna,2021-10-17,Sun,8,Away,W 1–0,West Ham,Everton,Y,CB,90.0,3.0,2.0,3.0,0.0,0.0,0.0,0.0,,0.0,8.0,4.0,50.0,6.0,1.0,1.0,4.0,1.0,0.0,3.0,0.0,3.0,1.0,0.0,
+Angelo Ogbonna,2021-10-24,Sun,9,Home,W 1–0,West Ham,Tottenham,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,6.0,1.0,16.7,5.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,2.0,0.0,
+Angelo Ogbonna,2021-10-31,Sun,10,Away,W 4–1,West Ham,Aston Villa,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,4.0,1.0,25.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,5.0,0.0,
+Angelo Ogbonna,2021-11-07,Sun,11,Home,W 3–2,West Ham,Liverpool,Y,CB,21.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,100.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Kurt Zouma,2021-08-14,Sat,1,Home,W 3–0,Chelsea,Crystal Palace,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Kurt Zouma,2021-08-22,Sun,2,Away,W 2–0,Chelsea,Arsenal,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Kurt Zouma,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Kurt Zouma,2021-09-11,Sat,4,Away,D 0–0,West Ham,Southampton,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Kurt Zouma,2021-09-19,Sun,5,Home,L 1–2,West Ham,Manchester Utd,Y,CB,90.0,2.0,2.0,2.0,0.0,0.0,1.0,1.0,100.0,0.0,6.0,3.0,50.0,4.0,2.0,0.0,1.0,1.0,0.0,0.0,3.0,5.0,12.0,0.0,
+Kurt Zouma,2021-09-25,Sat,6,Away,W 2–1,West Ham,Leeds United,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,1.0,0.0,0.0,1.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,7.0,0.0,
+Kurt Zouma,2021-10-03,Sun,7,Home,L 1–2,West Ham,Brentford,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,4.0,2.0,50.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,5.0,5.0,3.0,0.0,
+Kurt Zouma,2021-10-17,Sun,8,Away,W 1–0,West Ham,Everton,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,2.0,2.0,100.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,2.0,3.0,0.0,
+Kurt Zouma,2021-10-24,Sun,9,Home,W 1–0,West Ham,Tottenham,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,6.0,2.0,33.3,3.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0,0.0,
+Kurt Zouma,2021-10-31,Sun,10,Away,W 4–1,West Ham,Aston Villa,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,5.0,1.0,20.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,
+Kurt Zouma,2021-11-07,Sun,11,Home,W 3–2,West Ham,Liverpool,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,4.0,2.0,50.0,2.0,1.0,1.0,3.0,3.0,0.0,0.0,3.0,3.0,8.0,0.0,
+Kurt Zouma,2021-11-20,Sat,12,Away,L 0–1,West Ham,Wolves,Y,CB,90.0,2.0,0.0,2.0,0.0,0.0,1.0,1.0,100.0,0.0,3.0,0.0,0.0,3.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,3.0,4.0,0.0,
+Kurt Zouma,2021-11-28,Sun,13,Away,L 1–2,West Ham,Manchester City,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,4.0,0.0,0.0,4.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,2.0,0.0,
+Kurt Zouma,2021-12-01,Wed,14,Home,D 1–1,West Ham,Brighton,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,4.0,1.0,25.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,4.0,0.0,
+Vladimír Coufal,2021-08-15,Sun,1,Away,W 4–2,West Ham,Newcastle Utd,Y,"RB,WB",90.0,2.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,11.0,2.0,18.2,7.0,4.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,4.0,0.0,
+Vladimír Coufal,2021-08-23,Mon,2,Home,W 4–1,West Ham,Leicester City,Y,RB,90.0,3.0,2.0,2.0,0.0,1.0,1.0,1.0,100.0,0.0,12.0,3.0,25.0,2.0,8.0,2.0,2.0,0.0,0.0,2.0,2.0,5.0,2.0,0.0,
+Vladimír Coufal,2021-08-28,Sat,3,Home,D 2–2,West Ham,Crystal Palace,Y,RB,90.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,,0.0,17.0,7.0,41.2,8.0,6.0,3.0,1.0,0.0,0.0,1.0,0.0,1.0,3.0,0.0,
+Vladimír Coufal,2021-09-11,Sat,4,Away,D 0–0,West Ham,Southampton,Y,RB,90.0,5.0,3.0,2.0,3.0,0.0,1.0,1.0,100.0,0.0,16.0,6.0,37.5,9.0,5.0,2.0,3.0,0.0,0.0,3.0,2.0,7.0,1.0,0.0,
+Vladimír Coufal,2021-09-19,Sun,5,Home,L 1–2,West Ham,Manchester Utd,Y,RB,90.0,1.0,1.0,1.0,0.0,0.0,1.0,4.0,25.0,3.0,18.0,3.0,16.7,11.0,4.0,3.0,2.0,0.0,0.0,2.0,1.0,2.0,2.0,0.0,
+Vladimír Coufal,2021-09-25,Sat,6,Away,W 2–1,West Ham,Leeds United,Y,"RB,WB",90.0,2.0,1.0,2.0,0.0,0.0,1.0,1.0,100.0,0.0,7.0,4.0,57.1,4.0,2.0,1.0,2.0,2.0,0.0,0.0,0.0,2.0,6.0,0.0,
+Vladimír Coufal,2021-10-03,Sun,7,Home,L 1–2,West Ham,Brentford,Y,RB,90.0,3.0,1.0,0.0,2.0,1.0,1.0,1.0,100.0,0.0,12.0,4.0,33.3,2.0,8.0,2.0,3.0,0.0,0.0,3.0,1.0,4.0,1.0,0.0,
+Vladimír Coufal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Vladimír Coufal,2021-10-31,Sun,10,Away,W 4–1,West Ham,Aston Villa,N,LW,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,2.0,1.0,50.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Vladimír Coufal,2021-11-07,Sun,11,Home,W 3–2,West Ham,Liverpool,N,RW,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Vladimír Coufal,2021-11-20,Sat,12,Away,L 0–1,West Ham,Wolves,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Vladimír Coufal,2021-11-28,Sun,13,Away,L 1–2,West Ham,Manchester City,N,LB,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,2.0,1.0,50.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,
+Vladimír Coufal,2021-12-01,Wed,14,Home,D 1–1,West Ham,Brighton,Y,RB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,9.0,1.0,11.1,6.0,3.0,0.0,4.0,0.0,0.0,4.0,0.0,0.0,3.0,0.0,
+Craig Dawson,2021-08-15,Sun,1,Away,W 4–2,West Ham,Newcastle Utd,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,8.0,1.0,12.5,5.0,3.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,8.0,0.0,
+Craig Dawson,2021-08-23,Mon,2,Home,W 4–1,West Ham,Leicester City,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,3.0,1.0,33.3,2.0,1.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,8.0,0.0,
+Craig Dawson,2021-08-28,Sat,3,Home,D 2–2,West Ham,Crystal Palace,Y,CB,90.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,8.0,3.0,37.5,4.0,4.0,0.0,2.0,2.0,0.0,0.0,0.0,1.0,6.0,1.0,
+Craig Dawson,2021-09-11,Sat,4,Away,D 0–0,West Ham,Southampton,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,8.0,3.0,37.5,4.0,3.0,1.0,2.0,1.0,0.0,1.0,2.0,2.0,3.0,0.0,
+Craig Dawson,2021-09-19,Sun,5,Home,L 1–2,West Ham,Manchester Utd,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Craig Dawson,2021-09-25,Sat,6,Away,W 2–1,West Ham,Leeds United,N,CB,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,
+Craig Dawson,2021-10-03,Sun,7,Home,L 1–2,West Ham,Brentford,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Craig Dawson,2021-10-17,Sun,8,Away,W 1–0,West Ham,Everton,N,CB,12.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,100.0,0.0,3.0,2.0,66.7,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,
+Craig Dawson,2021-10-24,Sun,9,Home,W 1–0,West Ham,Tottenham,N,CB,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,
+Craig Dawson,2021-10-31,Sun,10,Away,W 4–1,West Ham,Aston Villa,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Craig Dawson,2021-11-07,Sun,11,Home,W 3–2,West Ham,Liverpool,N,CB,69.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,,0.0,4.0,1.0,25.0,3.0,1.0,0.0,3.0,3.0,0.0,0.0,1.0,2.0,3.0,0.0,
+Craig Dawson,2021-11-20,Sat,12,Away,L 0–1,West Ham,Wolves,Y,CB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,3.0,3.0,100.0,2.0,1.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,7.0,0.0,
+Craig Dawson,2021-11-28,Sun,13,Away,L 1–2,West Ham,Manchester City,Y,CB,90.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,,0.0,7.0,0.0,0.0,6.0,1.0,0.0,3.0,2.0,0.0,1.0,1.0,2.0,2.0,0.0,
+Craig Dawson,2021-12-01,Wed,14,Home,D 1–1,West Ham,Brighton,Y,CB,90.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,,0.0,9.0,3.0,33.3,7.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,4.0,0.0,
+Ben Johnson,2021-08-15,Sun,1,Away,W 4–2,West Ham,Newcastle Utd,N,RW,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Ben Johnson,2021-08-23,Mon,2,Home,W 4–1,West Ham,Leicester City,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ben Johnson,2021-08-28,Sat,3,Home,D 2–2,West Ham,Crystal Palace,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ben Johnson,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ben Johnson,2021-09-25,Sat,6,Away,W 2–1,West Ham,Leeds United,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ben Johnson,2021-10-03,Sun,7,Home,L 1–2,West Ham,Brentford,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ben Johnson,2021-10-17,Sun,8,Away,W 1–0,West Ham,Everton,Y,"RB,WB",90.0,1.0,0.0,0.0,0.0,1.0,1.0,2.0,50.0,1.0,6.0,1.0,16.7,3.0,0.0,3.0,0.0,0.0,0.0,0.0,4.0,5.0,5.0,0.0,
+Ben Johnson,2021-10-24,Sun,9,Home,W 1–0,West Ham,Tottenham,Y,RB,90.0,6.0,4.0,5.0,0.0,1.0,3.0,3.0,100.0,0.0,14.0,9.0,64.3,6.0,4.0,4.0,2.0,0.0,0.0,2.0,2.0,8.0,0.0,0.0,
+Ben Johnson,2021-10-31,Sun,10,Away,W 4–1,West Ham,Aston Villa,Y,RB,90.0,6.0,4.0,3.0,3.0,0.0,3.0,3.0,100.0,0.0,16.0,9.0,56.3,8.0,5.0,3.0,3.0,1.0,0.0,2.0,2.0,8.0,0.0,0.0,
+Ben Johnson,2021-11-07,Sun,11,Home,W 3–2,West Ham,Liverpool,Y,RB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,8.0,1.0,12.5,6.0,2.0,0.0,5.0,0.0,0.0,5.0,3.0,3.0,9.0,0.0,
+Ben Johnson,2021-11-20,Sat,12,Away,L 0–1,West Ham,Wolves,Y,RB,90.0,1.0,0.0,0.0,1.0,0.0,0.0,2.0,0.0,2.0,4.0,0.0,0.0,1.0,3.0,0.0,5.0,1.0,0.0,4.0,1.0,2.0,3.0,0.0,
+Ben Johnson,2021-11-28,Sun,13,Away,L 1–2,West Ham,Manchester City,Y,RB,90.0,2.0,2.0,1.0,1.0,0.0,0.0,0.0,,0.0,13.0,6.0,46.2,8.0,2.0,3.0,4.0,2.0,1.0,2.0,0.0,2.0,0.0,0.0,
+Ben Johnson,2021-12-01,Wed,14,Home,D 1–1,West Ham,Brighton,Y,LB,90.0,3.0,2.0,1.0,2.0,0.0,1.0,1.0,100.0,0.0,17.0,8.0,47.1,7.0,8.0,2.0,3.0,0.0,0.0,3.0,1.0,4.0,4.0,0.0,
+Nikola Vlašić,2021-09-11,Sat,4,Away,D 0–0,West Ham,Southampton,N,AM,28.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,14.0,4.0,28.6,3.0,7.0,4.0,1.0,0.0,0.0,1.0,1.0,2.0,0.0,0.0,
+Nikola Vlašić,2021-09-19,Sun,5,Home,L 1–2,West Ham,Manchester Utd,Y,LM,67.0,2.0,1.0,0.0,2.0,0.0,0.0,5.0,0.0,5.0,25.0,2.0,8.0,3.0,13.0,9.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,
+Nikola Vlašić,2021-09-25,Sat,6,Away,W 2–1,West Ham,Leeds United,N,"AM,LW",13.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,3.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Nikola Vlašić,2021-10-03,Sun,7,Home,L 1–2,West Ham,Brentford,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Nikola Vlašić,2021-10-17,Sun,8,Away,W 1–0,West Ham,Everton,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Nikola Vlašić,2021-10-24,Sun,9,Home,W 1–0,West Ham,Tottenham,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Nikola Vlašić,2021-10-31,Sun,10,Away,W 4–1,West Ham,Aston Villa,N,RW,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Nikola Vlašić,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Nikola Vlašić,2021-11-20,Sat,12,Away,L 0–1,West Ham,Wolves,N,LW,20.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,100.0,0.0,5.0,2.0,40.0,0.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,
+Nikola Vlašić,2021-11-28,Sun,13,Away,L 1–2,West Ham,Manchester City,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Nikola Vlašić,2021-12-01,Wed,14,Home,D 1–1,West Ham,Brighton,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Arthur Masuaku,2021-09-19,Sun,5,Home,L 1–2,West Ham,Manchester Utd,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Arthur Masuaku,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Arthur Masuaku,2021-10-03,Sun,7,Home,L 1–2,West Ham,Brentford,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Arthur Masuaku,2021-10-17,Sun,8,Away,W 1–0,West Ham,Everton,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Arthur Masuaku,2021-10-24,Sun,9,Home,W 1–0,West Ham,Tottenham,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Arthur Masuaku,2021-10-31,Sun,10,Away,W 4–1,West Ham,Aston Villa,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Arthur Masuaku,2021-11-07,Sun,11,Home,W 3–2,West Ham,Liverpool,N,LW,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,1.0,1.0,100.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Arthur Masuaku,2021-11-20,Sat,12,Away,L 0–1,West Ham,Wolves,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Arthur Masuaku,2021-11-28,Sun,13,Away,L 1–2,West Ham,Manchester City,Y,LW,73.0,2.0,1.0,0.0,2.0,0.0,1.0,2.0,50.0,1.0,11.0,2.0,18.2,6.0,5.0,0.0,0.0,0.0,0.0,0.0,3.0,5.0,0.0,0.0,
+Arthur Masuaku,2021-12-01,Wed,14,Home,D 1–1,West Ham,Brighton,N,LW,14.0,2.0,2.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,7.0,2.0,28.6,3.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,
+Manuel Lanzini,2021-08-15,Sun,1,Away,W 4–2,West Ham,Newcastle Utd,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Manuel Lanzini,2021-08-23,Mon,2,Home,W 4–1,West Ham,Leicester City,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Manuel Lanzini,2021-08-28,Sat,3,Home,D 2–2,West Ham,Crystal Palace,N,LW,12.0,2.0,0.0,2.0,0.0,0.0,1.0,2.0,50.0,1.0,5.0,1.0,20.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,1.0,3.0,0.0,0.0,
+Manuel Lanzini,2021-09-11,Sat,4,Away,D 0–0,West Ham,Southampton,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Manuel Lanzini,2021-09-19,Sun,5,Home,L 1–2,West Ham,Manchester Utd,N,FW,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Manuel Lanzini,2021-09-25,Sat,6,Away,W 2–1,West Ham,Leeds United,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Manuel Lanzini,2021-10-03,Sun,7,Home,L 1–2,West Ham,Brentford,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Manuel Lanzini,2021-10-17,Sun,8,Away,W 1–0,West Ham,Everton,N,AM,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Manuel Lanzini,2021-10-24,Sun,9,Home,W 1–0,West Ham,Tottenham,N,"AM,RW",6.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,6.0,3.0,50.0,1.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,
+Manuel Lanzini,2021-10-31,Sun,10,Away,W 4–1,West Ham,Aston Villa,N,AM,27.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,6.0,3.0,50.0,1.0,4.0,1.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,
+Manuel Lanzini,2021-11-07,Sun,11,Home,W 3–2,West Ham,Liverpool,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Manuel Lanzini,2021-11-20,Sat,12,Away,L 0–1,West Ham,Wolves,N,"AM,LW",32.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,4.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,
+Manuel Lanzini,2021-11-28,Sun,13,Away,L 1–2,West Ham,Manchester City,N,AM,32.0,2.0,2.0,1.0,0.0,1.0,0.0,0.0,,0.0,19.0,4.0,21.1,8.0,5.0,6.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,
+Manuel Lanzini,2021-12-01,Wed,14,Home,D 1–1,West Ham,Brighton,N,AM,15.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,5.0,1.0,20.0,0.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,
+Andriy Yarmolenko,2021-08-15,Sun,1,Away,W 4–2,West Ham,Newcastle Utd,N,"RW,FW",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,2.0,2.0,100.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Andriy Yarmolenko,2021-08-23,Mon,2,Home,W 4–1,West Ham,Leicester City,N,FW,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Andriy Yarmolenko,2021-08-28,Sat,3,Home,D 2–2,West Ham,Crystal Palace,N,RW,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Andriy Yarmolenko,2021-09-11,Sat,4,Away,D 0–0,West Ham,Southampton,N,RW,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,2.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,
+Andriy Yarmolenko,2021-09-19,Sun,5,Home,L 1–2,West Ham,Manchester Utd,N,LM,23.0,1.0,0.0,1.0,0.0,0.0,1.0,2.0,50.0,1.0,7.0,2.0,28.6,1.0,4.0,2.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,
+Andriy Yarmolenko,2021-09-25,Sat,6,Away,W 2–1,West Ham,Leeds United,N,FW,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Andriy Yarmolenko,2021-10-03,Sun,7,Home,L 1–2,West Ham,Brentford,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Andriy Yarmolenko,2021-10-17,Sun,8,Away,W 1–0,West Ham,Everton,N,AM,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Andriy Yarmolenko,2021-10-24,Sun,9,Home,W 1–0,West Ham,Tottenham,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Andriy Yarmolenko,2021-10-31,Sun,10,Away,W 4–1,West Ham,Aston Villa,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Andriy Yarmolenko,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Andriy Yarmolenko,2021-11-20,Sat,12,Away,L 0–1,West Ham,Wolves,N,RW,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Andriy Yarmolenko,2021-11-28,Sun,13,Away,L 1–2,West Ham,Manchester City,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Andriy Yarmolenko,2021-12-01,Wed,14,Home,D 1–1,West Ham,Brighton,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Mark Noble,2021-08-15,Sun,1,Away,W 4–2,West Ham,Newcastle Utd,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Mark Noble,2021-08-23,Mon,2,Home,W 4–1,West Ham,Leicester City,N,LW,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Mark Noble,2021-08-28,Sat,3,Home,D 2–2,West Ham,Crystal Palace,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Mark Noble,2021-09-11,Sat,4,Away,D 0–0,West Ham,Southampton,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Mark Noble,2021-09-19,Sun,5,Home,L 1–2,West Ham,Manchester Utd,N,FW,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+Mark Noble,2021-09-25,Sat,6,Away,W 2–1,West Ham,Leeds United,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Mark Noble,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mark Noble,2021-10-24,Sun,9,Home,W 1–0,West Ham,Tottenham,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Mark Noble,2021-10-31,Sun,10,Away,W 4–1,West Ham,Aston Villa,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Mark Noble,2021-11-07,Sun,11,Home,W 3–2,West Ham,Liverpool,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Mark Noble,2021-11-20,Sat,12,Away,L 0–1,West Ham,Wolves,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Mark Noble,2021-11-28,Sun,13,Away,L 1–2,West Ham,Manchester City,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Mark Noble,2021-12-01,Wed,14,Home,D 1–1,West Ham,Brighton,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ryan Fredericks,2021-08-15,Sun,1,Away,W 4–2,West Ham,Newcastle Utd,N,WB,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,
+Ryan Fredericks,2021-08-23,Mon,2,Home,W 4–1,West Ham,Leicester City,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ryan Fredericks,2021-08-28,Sat,3,Home,D 2–2,West Ham,Crystal Palace,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ryan Fredericks,2021-09-11,Sat,4,Away,D 0–0,West Ham,Southampton,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ryan Fredericks,2021-09-19,Sun,5,Home,L 1–2,West Ham,Manchester Utd,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
+Ryan Fredericks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ryan Fredericks,2021-11-07,Sun,11,Home,W 3–2,West Ham,Liverpool,N,,,,,,,,,,,,,,,,,,,,,,,,,,"On matchday squad, but did not play"
