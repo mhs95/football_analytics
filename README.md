@@ -1,7 +1,7 @@
 # football_analytics
 
 ## Overview
-This repository contains code to scrape, store and analyse all squad, player and player-match level statistics for the 2021-2022 English Premier League season from [FBREF](https://fbref.com/en/). 
+This repository contains code to scrape, store and analyse all squad, player and player-match level statistics for the 2021-2022 English Premier League (EPL) season from [FBREF](https://fbref.com/en/). 
 Currently the scraped data is limited to the following teams:
   - Arsenal F.C.
   - Chelsea F.C. 
@@ -32,6 +32,7 @@ Currently the scraped data is limited to the following teams:
   
 ## Further improvements
 Please see the list below for further additions in the pipeline:
-  - Scrape data for all English Premier League teams
-  - Build a publicly available analytics dashboard for all squad, player and player-match level statistics
-  - Apply machine learning algorithms to build match-score prediction models
+  - Scrape data for all EPL teams
+  - Build a publicly available analytics dashboard for all squad and player level statistics
+  - Scrape Fantasy Premier League (FPL) points and transfer value data
+  - Apply machine learning algorithms to build FPL point prediction models
